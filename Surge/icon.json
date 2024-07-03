@@ -1,6 +1,7 @@
 {
     "name": "fizz's icon",
     "icons": [
-     { "name": "surge", "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Surge.png"}
+     { "name": "surge_1", "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Surge.png"},
+     { "name": "surge_2", "url": "https://raw.githubusercontent.com/Irrucky/Tool/main/Surge/surge.jpg"}
     ]
 }
