@@ -2,6 +2,7 @@
     "name": "fizz's icon",
     "icons": [
      { "name": "surge_1", "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Surge.png"},
-     { "name": "surge_2", "url": "https://raw.githubusercontent.com/Irrucky/Tool/main/Surge/surge.jpg"}
+     { "name": "surge_2", "url": "https://raw.githubusercontent.com/Irrucky/Tool/main/Surge/icon/surge_1.jpg"},
+     { "name": "surge_3", "url": "https://raw.githubusercontent.com/Irrucky/Tool/main/Surge/icon/surge_2.png"}
     ]
 }
