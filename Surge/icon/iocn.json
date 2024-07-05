@@ -1,7 +1,9 @@
 {
-    "name": "fizz's icon",
+    "name": "fm'icon set",
     "icons": [
-     { "name": "surge_1", "url": "https://raw.githubusercontent.com/cc63/ICON/main/icons/Surge.png"},
-     { "name": "surge_2", "url": "https://raw.githubusercontent.com/Irrucky/Tool/main/Surge/icon/surge_1.jpg"}
+     { "name": "surge_1", "url": "https://raw.githubusercontent.com/Irrucky/Tool/main/Surge/icon/surge_1.png"},
+     { "name": "surge_2", "url": "https://raw.githubusercontent.com/Irrucky/Tool/main/Surge/icon/surge_2.jpg"},
+     { "name": "surge_3", "url": "https://raw.githubusercontent.com/Irrucky/Tool/main/Surge/icon/surge_3.jpg"},
+     { "name": "surge_4", "url": "https://raw.githubusercontent.com/Irrucky/Tool/main/Surge/icon/surge_4.jpg"}
     ]
 }
