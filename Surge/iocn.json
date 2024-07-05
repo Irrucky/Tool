@@ -1,7 +1,7 @@
 {
     "name": "Icon set",
     "icons": [
-     { "name": "surge_1", "url": "https://raw.githubusercontent.com/Irrucky/Tool/main/Surge/icon/surge1.jpg"},
+     { "name": "surge_1", "url": "https://raw.githubusercontent.com/Irrucky/Tool/main/Surge/icon/surge1.png"},
      { "name": "surge_2", "url": "https://raw.githubusercontent.com/Irrucky/Tool/main/Surge/icon/surge2.png"},
      { "name": "surge_3", "url": "https://raw.githubusercontent.com/Irrucky/Tool/main/Surge/icon/surge_3.png"},
      { "name": "surge_4", "url": "https://raw.githubusercontent.com/Irrucky/Tool/main/Surge/icon/surge_4.png"},
