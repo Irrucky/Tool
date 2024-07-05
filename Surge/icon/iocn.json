@@ -2,8 +2,8 @@
     "name": "fm'icon set",
     "icons": [
      { "name": "surge_1", "url": "https://raw.githubusercontent.com/Irrucky/Tool/main/Surge/icon/surge_1.png"},
-     { "name": "surge_2", "url": "https://raw.githubusercontent.com/Irrucky/Tool/main/Surge/icon/surge_2.jpg"},
-     { "name": "surge_3", "url": "https://raw.githubusercontent.com/Irrucky/Tool/main/Surge/icon/surge_3.jpg"},
-     { "name": "surge_4", "url": "https://raw.githubusercontent.com/Irrucky/Tool/main/Surge/icon/surge_4.jpg"}
+     { "name": "surge_2", "url": "https://raw.githubusercontent.com/Irrucky/Tool/main/Surge/icon/surge_2.png"},
+     { "name": "surge_3", "url": "https://raw.githubusercontent.com/Irrucky/Tool/main/Surge/icon/surge_3.png"},
+     { "name": "surge_4", "url": "https://raw.githubusercontent.com/Irrucky/Tool/main/Surge/icon/surge_4.png"}
     ]
 }
