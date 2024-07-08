@@ -9,7 +9,7 @@
 let args = getArgs();
 
 (async () => {
-  let info = await getDataInfo(args.url);
+  let info = await getDataInfo(encodeURL(args.url));
   if (!info) $done();
   let resetDayLeft = getRmainingDays(parseInt(args["reset_day"]));
 
@@ -123,4 +123,8 @@ function formatTime(time) {
   let month = dateObj.getMonth() + 1;
   let day = dateObj.getDate();
   return year + "年" + month + "月" + day + "日";
+}
+
+function encodeURL(url) {
+  return encodeURIComponent(url);
 }
