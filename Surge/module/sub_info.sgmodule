@@ -7,13 +7,13 @@
 
 
 [Panel]
-{{{NAME_1}}}=script-name={{{NAME_1}}},update-interval={{{update-interva_1}}}
+{{{NAME_1}}}=script-name={{{NAME_1}}},update-interval={{{update-interval_1}}}
 
-{{{NAME_2}}}=script-name={{{NAME_2}}},update-interval={{{update-interva_2}}}
+{{{NAME_2}}}=script-name={{{NAME_2}}},update-interval={{{update-interval_2}}}
 
-{{{NAME_3}}}=script-name={{{NAME_3}}},update-interval={{{update-interva_3}}}
+{{{NAME_3}}}=script-name={{{NAME_3}}},update-interval={{{update-interval_3}}}
 
-{{{NAME_4}}}=script-name={{{NAME_4}}},update-interval={{{update-interva_4}}}
+{{{NAME_4}}}=script-name={{{NAME_4}}},update-interval={{{update-interval_4}}}
 
 [Script]
 {{{NAME_1}}}=type=generic,timeout=10,script-path=https://raw.githubusercontent.com/Irrucky/Tool/main/Surge/Script/sub_info.js,script-update-interval=0,argument=url={{{URL_1}}}&reset_day={{{RESET-Day_1}}}&title={{{NAME_1}}}&icon={{{ICON_1}}}&color={{{COLOR_1}}}
