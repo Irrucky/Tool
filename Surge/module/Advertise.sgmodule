@@ -4,7 +4,6 @@
 
 [URL Rewrite]
 # PornHub (https://cn.pornhub.com/) //*.pornhub.com
-(^https?:\/\/www\.pornhub\.com)(.*) https://cn.pornhub.com$2 307
 ^https:\/\/(cn|www)\.pornhub\.com\/_xa\/ads(_batch)?\? - reject
 ^https:\/\/(cn|www)\.pornhub\.com\/_xa\/ads.* - reject
 ^https:\/\/18comic\.(org|vip)\/templates\/frontend\/airav\/js\/jquery.avs.*?\.js.* - reject
@@ -79,4 +78,4 @@ Adblock4limboQX = type=http-response, pattern="^https:\/\/(\w{0,3}(\.){0,1}(porn
 Adblock4limboQX = type=http-response, pattern="^https:\/\/(\w{0,3}(\.){0,1}(18comic)(\.)\w{0,3})(?!.*?(\/(cdn-cgi|onclick)))(?!.*?(\.(css|js|jpeg|jpg|png|php|gif|ico|mp3|mp4|svg|tff|PNG|woff|woff2|m3u8))).*", script-path=https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/limbo/Adblock4limboQX.js, requires-body=true, max-size=-1, timeout=60
 
 [MITM]
-hostname = %APPEND% api-marketing.zhinengxiyifang.cn, adsoss.zhinengxiyifang.cn, ads.zhinengxiyifang.can, midc.cdn-static.abchina.com.cn, enjoy.cdn-static.abchina.com, app.dewu.com, cdn.poizon.com, pic1.chelaile.net.cn, api.chelaile.net.cn, atrace.chelaile.net.cn, web.chelaile.net.cn, cdn.*.chelaileapp.cn, app-gw.csdn.net, gw.csdn.net, pan.baidu.com, ndstatic.cdn.bcebos.com, staticsns.cdn.bcebos.com, issuecdn.baidupcs.com, update.pan.baidu.com, fc-video.cdn.bcebos.com, rp.hpplay.cn, us.l.qq.com, ossweb-img.qq.com, mlol.qt.qq.com, list-app-m.i4.cn, 18comic.org, 18comic.vip, cn.pornhub.com, mp.weixin.qq.com, weixin110.qq.com, security.wechat.com
+hostname = %APPEND% api-marketing.zhinengxiyifang.cn, adsoss.zhinengxiyifang.cn, ads.zhinengxiyifang.can, midc.cdn-static.abchina.com.cn, enjoy.cdn-static.abchina.com, app.dewu.com, cdn.poizon.com, pic1.chelaile.net.cn, api.chelaile.net.cn, atrace.chelaile.net.cn, web.chelaile.net.cn, cdn.*.chelaileapp.cn, app-gw.csdn.net, gw.csdn.net, pan.baidu.com, ndstatic.cdn.bcebos.com, staticsns.cdn.bcebos.com, issuecdn.baidupcs.com, update.pan.baidu.com, fc-video.cdn.bcebos.com, rp.hpplay.cn, us.l.qq.com, ossweb-img.qq.com, mlol.qt.qq.com, list-app-m.i4.cn, 18comic.org, 18comic.vip, cn.pornhub.com, www.pornhub.com, mp.weixin.qq.com, weixin110.qq.com, security.wechat.com
