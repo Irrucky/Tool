@@ -1,4 +1,6 @@
-
+/*
+author：深巷有喵
+*/
 !(async () => {
     let panel = { title: "Flush DNS" },
         showServer = true,
