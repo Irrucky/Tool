@@ -1,5 +1,5 @@
 # NAME: ADRULES
-# TOTAL: 8642
+# TOTAL: 8641
 DOMAIN-KEYWORD,-ad-sign.byteimg.com
 DOMAIN-KEYWORD,-ad.byteoversea.com
 DOMAIN-KEYWORD,-cdn2.adtng.com
@@ -4907,7 +4907,6 @@ DOMAIN-SUFFIX,mercor.cn
 DOMAIN-SUFFIX,merywf.xyz
 DOMAIN-SUFFIX,message.meitu.com
 DOMAIN-SUFFIX,meta.video.qiyi.com
-DOMAIN-SUFFIX,metok.sys.miui.com
 DOMAIN-SUFFIX,metrics.apple.com
 DOMAIN-SUFFIX,metrics.data.hicloud.com
 DOMAIN-SUFFIX,metrics.icloud.com
