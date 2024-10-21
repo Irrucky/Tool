@@ -27,10 +27,6 @@ jobs:
         
         # Ads.list
         {
-            curl -L "https://raw.githubusercontent.com/RuCu6/Loon/main/Rules/MyBlockAds.list"
-            echo ""
-            curl -L "https://raw.githubusercontent.com/RuCu6/Loon/main/Rules/PornAds.list"
-            echo ""
             curl -L "https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/ruleset/HTTPDNS.Block.list"
         } >> Tool-repo/Surge/rules/Ads.list
         
@@ -170,6 +166,7 @@ jobs:
                    -e '/^$/d' \
                    -e 's| //.*||' \
                    -e '/PROCESS-NAME\|URL-REGEX/d' \
+                   -e '/404: Not Found/d' \
                    "$file"
             awk '/^IP-/ {if (!/no-resolve/) {print $0",no-resolve"; next}} {print}' "$file" > temp && mv temp "$file"
             awk '!seen[tolower($0)]++' "$file" | sort > "$file.tmp" && mv "$file.tmp" "$file"
