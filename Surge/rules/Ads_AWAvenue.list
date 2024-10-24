@@ -673,6 +673,6 @@ DOMAIN,ykad-gateway.youku.com
 DOMAIN,youku-acs.m.taobao.com
 DOMAIN,youxi.kugou.com
 DOMAIN,zeus.ad.xiaomi.com
-IP-CIDR,123.56.23.22/32
-IP-CIDR,182.254.116.116/32
-IP-CIDR,203.205.137.89/32
+IP-CIDR,123.56.23.22/32,no-resolve
+IP-CIDR,182.254.116.116/32,no-resolve
+IP-CIDR,203.205.137.89/32,no-resolve
