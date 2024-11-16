@@ -36,7 +36,7 @@ jobs:
                    -e '/^\s*[#;]/d' \
                    -e '/^$/d' \
                    -e 's| //.*||' \
-                   -e '/PROCESS-NAME\|URL-REGEX/d' \
+                   -e '/PROCESS-NAME\|URL-REGEX\|DOMAIN-WILDCARD/d' \
                    -e '/404: Not Found/d' \
                    "$file"
           else
