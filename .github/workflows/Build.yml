@@ -1,0 +1,99 @@
+name: Update Rules
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0,12 * * *'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+      with:
+        repository: Irrucky/Tool
+        path: Tool-repo
+        
+    - name: Process Files
+      run: |
+        curl -L https://raw.githubusercontent.com/Irrucky/Tool/main/Source/build.sh | bash
+        cd Tool-repo/Surge/rules
+        for file in *.list; do
+          if [ -f "$file" ]; then
+            sed -i -e 's/IP-CIDR,[[:space:]]*/IP-CIDR,/g' \
+                   -e 's/DOMAIN-WILDCARD,[[:space:]]*/DOMAIN-WILDCARD,/g' \
+                   -e 's/DOMAIN,[[:space:]]*/DOMAIN,/g' \
+                   -e 's/IP-CIDR6,[[:space:]]*/IP-CIDR6,/g' \
+                   -e 's/DOMAIN-SUFFIX,[[:space:]]*/DOMAIN-SUFFIX,/g' \
+                   -e 's/DOMAIN-KEYWORD,[[:space:]]*/DOMAIN-KEYWORD,/g' \
+                   -e 's/,REJECT$//g' \
+                   -e 's/,DIRECT$//g' \
+                   -e 's/,reject$//g' \
+                   -e 's/,direct$//g' \
+                   -e 's/,[[:space:]]*/,/g' \
+                   -e '/^\s*[#;]/d' \
+                   -e '/^$/d' \
+                   -e 's| //.*||' \
+                   -e '/PROCESS-NAME\|URL-REGEX/d' \
+                   -e '/404: Not Found/d' \
+                   "$file"
+          else
+            echo "$file not found."
+          fi
+        done
+        
+        for file in Reject.list Ads_AWAvenue.list; do
+          if [ -f "$file" ]; then
+            if [ "$file" = "Ads_AWAvenue.list" ]; then
+              sed -i -e '/DOMAIN-KEYWORD/d' "$file"
+            else
+              sed -i -e 's/DOMAIN,/DOMAIN-SUFFIX,/g' "$file"
+            fi
+          else
+            echo "$file not found."
+          fi
+        done
+
+    - name: Regular Files
+      run: |
+        cd Tool-repo/Surge/rules
+        for file in *.list; do
+          if [ -f "$file" ]; then
+          #   sed -i -e '/^\s*[#;]/d' \
+          #          -e '/^$/d' \
+          #          -e 's| //.*||' \
+          #          -e '/PROCESS-NAME\|URL-REGEX/d' \
+          #          -e '/404: Not Found/d' \
+          #          "$file"
+            awk '/^IP-/ && !/,no-resolve/ {print $0",no-resolve"; next} {print}' "$file" > tmpfile && mv tmpfile "$file"
+            awk '!seen[tolower($0)]++' "$file" | sort > "$file.tmp" && mv "$file.tmp" "$file"
+            filename=$(basename "$file" .list | tr '[:lower:]' '[:upper:]')
+            line_count=$(wc -l < "$file")
+            sed -i "1i# NAME: $filename" "$file"
+            sed -i "2i# TOTAL: $line_count" "$file"
+            # sed -i "3i# UPDATE: $(TZ='Etc/GMT-8' date +'%Y-%m-%d %H:%M:%S (GMT+8)')" "$file"
+          else
+            echo "$file not found."
+          fi
+        done
+        
+    - name: Push Update
+      run: |
+        cd Tool-repo
+        if [[ -n $(git status -s) ]]; then
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "$(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M:%S')"
+          git push origin HEAD
+        else
+          echo "No changes to commit."
+        fi
+        
+    - name: Cleanup Workflow
+      uses: Mattraks/delete-workflow-runs@main
+      with:
+        retain_days: 0
+        keep_minimum_runs: 2
