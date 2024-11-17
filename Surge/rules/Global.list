@@ -1,5 +1,5 @@
 # NAME: GLOBAL
-# TOTAL: 1424
+# TOTAL: 1423
 DOMAIN,api-glb-sea.smoot.apple.com
 DOMAIN,api.mixpanel.com
 DOMAIN,apple.comscoreresearch.com
@@ -36,7 +36,6 @@ DOMAIN,testflight.apple.com
 DOMAIN,tv.applemusic.com
 DOMAIN,uts-api.itunes.apple.com
 DOMAIN,voice.telephony.goog
-DOMAIN-KEYWORD,-spotify-
 DOMAIN-KEYWORD,appspot
 DOMAIN-KEYWORD,blogspot
 DOMAIN-KEYWORD,github
@@ -49,7 +48,7 @@ DOMAIN-KEYWORD,paypal
 DOMAIN-KEYWORD,porn
 DOMAIN-KEYWORD,recaptcha
 DOMAIN-KEYWORD,speedtest
-DOMAIN-KEYWORD,spotify.com
+DOMAIN-KEYWORD,spotify
 DOMAIN-KEYWORD,telegram
 DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,youtube
