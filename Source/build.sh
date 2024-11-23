@@ -34,8 +34,8 @@ curl -L -o Tool-repo/Surge/rules/Ads_AWAvenue.list "https://raw.githubuserconten
     curl -L "https://raw.githubusercontent.com/Cats-Team/AdRules/main/adrules.list"
     # echo ""
     # curl -L "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-surge.txt"
-    echo ""
-    curl -L "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Rules/Ads_SukkaW.list"
+    # echo ""
+    # curl -L "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Rules/Ads_SukkaW.list"
 } > Tool-repo/Surge/rules/Reject.list
 
 # Global.list
