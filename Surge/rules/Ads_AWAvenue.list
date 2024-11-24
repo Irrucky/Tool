@@ -1,5 +1,5 @@
 # NAME: ADS_AWAVENUE
-# TOTAL: 687
+# TOTAL: 690
 DOMAIN,1010pic.com
 DOMAIN,16dd-advertise-1252317822.file.myqcloud.com
 DOMAIN,16dd-advertise-1252317822.image.myqcloud.com
@@ -275,7 +275,9 @@ DOMAIN,game.loveota.com
 DOMAIN,gdfp.gifshow.com
 DOMAIN,gemini.yahoo.com
 DOMAIN,geo.yahoo.com
+DOMAIN,getui.cn
 DOMAIN,getui.com
+DOMAIN,getui.net
 DOMAIN,ggx.cmvideo.cn
 DOMAIN,ggx01.miguvideo.com
 DOMAIN,ggx03.miguvideo.com
@@ -315,6 +317,7 @@ DOMAIN,iadsdk.apple.com
 DOMAIN,iadworkbench.apple.com
 DOMAIN,ifacelog.iqiyi.com
 DOMAIN,ifs.tanx.com
+DOMAIN,igexin.com
 DOMAIN,ii.gdt.qq.com
 DOMAIN,imag8.pubmatic.com
 DOMAIN,imag86.pubmatic.com
