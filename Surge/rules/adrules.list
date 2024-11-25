@@ -1,5 +1,5 @@
 # NAME: ADRULES
-# TOTAL: 8842
+# TOTAL: 8845
 DOMAIN,1010pic.com
 DOMAIN,118.89.204.198
 DOMAIN,16dd-advertise-1252317822.file.myqcloud.com
@@ -514,7 +514,9 @@ DOMAIN,gdt.qq.com
 DOMAIN,gemini.yahoo.com
 DOMAIN,geo.yahoo.com
 DOMAIN,geo2.adobe.com
+DOMAIN,getui.cn
 DOMAIN,getui.com
+DOMAIN,getui.net
 DOMAIN,ggc.cmvideo.cn
 DOMAIN,ggic03.miguvideo.com
 DOMAIN,ggmk.miguvideo.com
@@ -606,6 +608,7 @@ DOMAIN,ido.getui.net
 DOMAIN,ifacelog.iqiyi.com
 DOMAIN,ifengad.3g.ifeng.com
 DOMAIN,ifs.tanx.com
+DOMAIN,igexin.com
 DOMAIN,ii.gdt.qq.com
 DOMAIN,im-x.jd.com
 DOMAIN,imag8.pubmatic.com

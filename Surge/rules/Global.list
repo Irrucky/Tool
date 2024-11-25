@@ -1,5 +1,5 @@
 # NAME: GLOBAL
-# TOTAL: 1423
+# TOTAL: 1424
 DOMAIN,api-glb-sea.smoot.apple.com
 DOMAIN,api.mixpanel.com
 DOMAIN,apple.comscoreresearch.com
@@ -1043,6 +1043,7 @@ DOMAIN-SUFFIX,speed.dler.io
 DOMAIN-SUFFIX,spoti.fi
 DOMAIN-SUFFIX,spotify-com.akamaized.net
 DOMAIN-SUFFIX,spotify-everywhere.com
+DOMAIN-SUFFIX,spotify.app.link
 DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,spotify.design
 DOMAIN-SUFFIX,spotifycdn.com
