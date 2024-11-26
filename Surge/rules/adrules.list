@@ -1,5 +1,5 @@
 # NAME: ADRULES
-# TOTAL: 8845
+# TOTAL: 8848
 DOMAIN,1010pic.com
 DOMAIN,118.89.204.198
 DOMAIN,16dd-advertise-1252317822.file.myqcloud.com
@@ -823,6 +823,7 @@ DOMAIN,p1-be-pack-sign.pglstatp-toutiao.com
 DOMAIN,p1-lm.adkwai.com
 DOMAIN,p2-be-pack-sign.pglstatp-toutiao.com
 DOMAIN,p2-lm.adkwai.com
+DOMAIN,p2p.huya.com
 DOMAIN,p3-be-pack-sign.pglstatp-toutiao.com
 DOMAIN,p3-lm.adkwai.com
 DOMAIN,p3-tt.byteimg.com
@@ -843,6 +844,7 @@ DOMAIN,pglstatp-toutiao.com
 DOMAIN,pig.pupuapi.com
 DOMAIN,pin.hpplay.cn
 DOMAIN,pixon.ads-pixiv.net
+DOMAIN,pkoplink.com
 DOMAIN,pl.cp31.ott.cibntv.net
 DOMAIN,plbslog.umeng.com
 DOMAIN,pms.mb.qq.com
@@ -988,6 +990,7 @@ DOMAIN,sv.adintl.cn
 DOMAIN,swallowcrockerybless.com
 DOMAIN,switch.cup.com.cn
 DOMAIN,syh-imp.cdnjtzy.com
+DOMAIN,szbdyd.com
 DOMAIN,t-ads.xiaohongshu.com
 DOMAIN,t-dsp.pinduoduo.com
 DOMAIN,t.fanglinad.com
