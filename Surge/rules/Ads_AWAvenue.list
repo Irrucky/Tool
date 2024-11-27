@@ -1,5 +1,5 @@
 # NAME: ADS_AWAVENUE
-# TOTAL: 693
+# TOTAL: 704
 DOMAIN,1010pic.com
 DOMAIN,16dd-advertise-1252317822.file.myqcloud.com
 DOMAIN,16dd-advertise-1252317822.image.myqcloud.com
@@ -54,6 +54,7 @@ DOMAIN,ads-api.tiktok.com
 DOMAIN,ads-api.twitter.com
 DOMAIN,ads-img-qc.xhscdn.com
 DOMAIN,ads-jp.tiktok.com
+DOMAIN,ads-marketing-vivofs.vivo.com.cn
 DOMAIN,ads-sg.tiktok.com
 DOMAIN,ads-us.tiktok.com
 DOMAIN,ads-video-al.xhscdn.com
@@ -132,6 +133,7 @@ DOMAIN,ali-ad.a.yximgs.com
 DOMAIN,alog.umeng.com
 DOMAIN,als.baidu.com
 DOMAIN,amdcopen.m.taobao.com
+DOMAIN,amdcopen.m.umeng.com
 DOMAIN,an.facebook.com
 DOMAIN,analysis.yozocloud.cn
 DOMAIN,analytics-api.samsunghealthcn.com
@@ -160,6 +162,7 @@ DOMAIN,api-access.pangolin-sdk-toutiao4.com
 DOMAIN,api-access.pangolin-sdk-toutiao5.com
 DOMAIN,api-ad-product.huxiu.com
 DOMAIN,api-adservices.apple.com
+DOMAIN,api-gd.hiaiabc.com
 DOMAIN,api-htp.beizi.biz
 DOMAIN,api.ad.xiaomi.com
 DOMAIN,api.e.kuaishou.com
@@ -183,6 +186,8 @@ DOMAIN,audid-api.taobao.com
 DOMAIN,audid.umeng.com
 DOMAIN,azr.footprintdns.com
 DOMAIN,b1-data.ads.heytapmobi.com
+DOMAIN,baichuan-sdk.alicdn.com
+DOMAIN,baichuan-sdk.taobao.com
 DOMAIN,bdad.123pan.cn
 DOMAIN,bdapi-ads.realmemobile.com
 DOMAIN,bdapi-in-ads.realmemobile.com
@@ -226,6 +231,8 @@ DOMAIN,ck.ads.oppomobile.com
 DOMAIN,click.googleanalytics.com
 DOMAIN,click.oneplus.cn
 DOMAIN,clog.miguvideo.com
+DOMAIN,cnlogs.umeng.com
+DOMAIN,cnlogs.umengcloud.com
 DOMAIN,cnzz.com
 DOMAIN,collect.kugou.com
 DOMAIN,commdata.v.qq.com
@@ -269,6 +276,7 @@ DOMAIN,events.reddit.com
 DOMAIN,events.redditmedia.com
 DOMAIN,firebaselogging-pa.googleapis.com
 DOMAIN,flurry.com
+DOMAIN,g-adnet.hiaiabc.com
 DOMAIN,g-staic.ganjingworld.com
 DOMAIN,g2.ganjing.world
 DOMAIN,game.loveota.com
@@ -308,6 +316,7 @@ DOMAIN,hw-ot-ad.a.yximgs.com
 DOMAIN,hw.zuimeitianqi.com
 DOMAIN,hwpub-s01-drcn.cloud.dbankcloud.cn
 DOMAIN,hya.comp.360os.com
+DOMAIN,hybrid.miniapp.taobao.com
 DOMAIN,hye.comp.360os.com
 DOMAIN,hyt.comp.360os.com
 DOMAIN,i.snssdk.com
@@ -389,6 +398,7 @@ DOMAIN,logservice.hicloud.com
 DOMAIN,logservice1.hicloud.com
 DOMAIN,logtj.kugou.com
 DOMAIN,logupdate.avlyun.sec.miui.com
+DOMAIN,m-adnet.hiaiabc.com
 DOMAIN,m.ad.zhangyue.com
 DOMAIN,m.atm.youku.com
 DOMAIN,m.kubiqq.com
@@ -482,6 +492,7 @@ DOMAIN,res.hubcloud.com.cn
 DOMAIN,res1.hubcloud.com.cn
 DOMAIN,res2.hubcloud.com.cn
 DOMAIN,res3.hubcloud.com.cn
+DOMAIN,resolve.umeng.com
 DOMAIN,review.gdtimg.com
 DOMAIN,rms-drcn.platform.dbankcloud.cn
 DOMAIN,roi.soulapp.cn
