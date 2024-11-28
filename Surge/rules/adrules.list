@@ -1,5 +1,5 @@
 # NAME: ADRULES
-# TOTAL: 8848
+# TOTAL: 8857
 DOMAIN,1010pic.com
 DOMAIN,118.89.204.198
 DOMAIN,16dd-advertise-1252317822.file.myqcloud.com
@@ -266,6 +266,7 @@ DOMAIN,ali-stats.jpush.cn
 DOMAIN,alog.umeng.com
 DOMAIN,als.baidu.com
 DOMAIN,amdcopen.m.taobao.com
+DOMAIN,amdcopen.m.umeng.com
 DOMAIN,an.facebook.com
 DOMAIN,analysis.yozocloud.cn
 DOMAIN,analytics-api.samsunghealthcn.com
@@ -298,6 +299,7 @@ DOMAIN,api-ad.kajicam.com
 DOMAIN,api-adservices.apple.com
 DOMAIN,api-c.dutils.com
 DOMAIN,api-d.dutils.com
+DOMAIN,api-gd.hiaiabc.com
 DOMAIN,api-htp.beizi.biz
 DOMAIN,api-p0.yksdks.com
 DOMAIN,api.ad.xiaomi.com
@@ -347,6 +349,8 @@ DOMAIN,azr.footprintdns.com
 DOMAIN,b-gtc.getui.net
 DOMAIN,b1-data.ads.heytapmobi.com
 DOMAIN,babel-statistics-android.d.meituan.net
+DOMAIN,baichuan-sdk.alicdn.com
+DOMAIN,baichuan-sdk.taobao.com
 DOMAIN,bdad.123pan.cn
 DOMAIN,bdapi-ads.realmemobile.com
 DOMAIN,bdapi-in-ads.realmemobile.com
@@ -410,6 +414,7 @@ DOMAIN,click.oneplus.cn
 DOMAIN,clog.miguvideo.com
 DOMAIN,cm-10-138.getui.com
 DOMAIN,cnlogs.umeng.com
+DOMAIN,cnlogs.umengcloud.com
 DOMAIN,cnzz.com
 DOMAIN,collect.kugou.com
 DOMAIN,collector.clue.run
@@ -500,6 +505,7 @@ DOMAIN,firebaselogging-pa.googleapis.com
 DOMAIN,flash.sec.miui.com
 DOMAIN,flurry.com
 DOMAIN,furiousfar.com
+DOMAIN,g-adnet.hiaiabc.com
 DOMAIN,g-staic.ganjingworld.com
 DOMAIN,g.koowo.com
 DOMAIN,g.ousns.net
@@ -591,6 +597,7 @@ DOMAIN,hw-ot-ad.a.yximgs.com
 DOMAIN,hw.zuimeitianqi.com
 DOMAIN,hwpub-s01-drcn.cloud.dbankcloud.cn
 DOMAIN,hya.comp.360os.com
+DOMAIN,hybrid.miniapp.taobao.com
 DOMAIN,hye.comp.360os.com
 DOMAIN,hyt.comp.360os.com
 DOMAIN,i.snssdk.com
@@ -720,6 +727,7 @@ DOMAIN,logservice1.hicloud.com
 DOMAIN,logtj.kugou.com
 DOMAIN,logupdate.avlyun.sec.miui.com
 DOMAIN,lookup.api.bsb.baidu.com
+DOMAIN,m-adnet.hiaiabc.com
 DOMAIN,m.ad.zhangyue.com
 DOMAIN,m.atm.youku.com
 DOMAIN,m.kubiqq.com
@@ -873,6 +881,7 @@ DOMAIN,res.hubcloud.com.cn
 DOMAIN,res1.hubcloud.com.cn
 DOMAIN,res2.hubcloud.com.cn
 DOMAIN,res3.hubcloud.com.cn
+DOMAIN,resolve.umeng.com
 DOMAIN,review.gdtimg.com
 DOMAIN,rich.kuwo.cn
 DOMAIN,richmanapi.jxedt.com
