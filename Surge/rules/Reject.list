@@ -1,5 +1,5 @@
 # NAME: REJECT
-# TOTAL: 119865
+# TOTAL: 119873
 DOMAIN-KEYWORD,-ad-sign.byteimg.com
 DOMAIN-KEYWORD,-ad.byteoversea.com
 DOMAIN-KEYWORD,-cdn2.adtng.com
@@ -11481,6 +11481,7 @@ DOMAIN-SUFFIX,amcmuhu.com
 DOMAIN-SUFFIX,amdc.alipay.com
 DOMAIN-SUFFIX,amdc.m.youku.com
 DOMAIN-SUFFIX,amdcopen.m.taobao.com
+DOMAIN-SUFFIX,amdcopen.m.umeng.com
 DOMAIN-SUFFIX,ameedbezique.uno
 DOMAIN-SUFFIX,ameidj.xyz
 DOMAIN-SUFFIX,amelatrina.com
@@ -13170,6 +13171,7 @@ DOMAIN-SUFFIX,api-d.dutils.com
 DOMAIN-SUFFIX,api-deal.kechenggezi.com
 DOMAIN-SUFFIX,api-flow.meizu.com
 DOMAIN-SUFFIX,api-game.meizu.com
+DOMAIN-SUFFIX,api-gd.hiaiabc.com
 DOMAIN-SUFFIX,api-gdpr.voodoo-tech.io
 DOMAIN-SUFFIX,api-gps-em.hismarttv.com
 DOMAIN-SUFFIX,api-gps-na.hismarttv.com
@@ -16684,6 +16686,7 @@ DOMAIN-SUFFIX,bahswl.com
 DOMAIN-SUFFIX,bai.luyouwang.com
 DOMAIN-SUFFIX,bai128.xyz
 DOMAIN-SUFFIX,baichuan-sdk.alicdn.com
+DOMAIN-SUFFIX,baichuan-sdk.taobao.com
 DOMAIN-SUFFIX,baichuan.baidu.com
 DOMAIN-SUFFIX,baid1.okooo.com
 DOMAIN-SUFFIX,baidu-taobao-av.com
@@ -24451,6 +24454,7 @@ DOMAIN-SUFFIX,cnlbcn.allforfood.com
 DOMAIN-SUFFIX,cnlbxi.zoopla.co.uk
 DOMAIN-SUFFIX,cnlink8.com
 DOMAIN-SUFFIX,cnlogs.umeng.com
+DOMAIN-SUFFIX,cnlogs.umengcloud.com
 DOMAIN-SUFFIX,cnn-africa.co
 DOMAIN-SUFFIX,cnn-breaking-news.info
 DOMAIN-SUFFIX,cnn-local.info
@@ -42876,6 +42880,7 @@ DOMAIN-SUFFIX,fzqjvw.oakandluna.com
 DOMAIN-SUFFIX,fzszuvb.com
 DOMAIN-SUFFIX,fztyrv.xyz
 DOMAIN-SUFFIX,fzu4.bysidecar.com
+DOMAIN-SUFFIX,g-adnet.hiaiabc.com
 DOMAIN-SUFFIX,g-br-cdn.kwai.net.iberostar.com
 DOMAIN-SUFFIX,g-fallback.whatsapp.net.iberostar.com
 DOMAIN-SUFFIX,g-staic.ganjingworld.com
@@ -50206,6 +50211,7 @@ DOMAIN-SUFFIX,hy.luassane.cn
 DOMAIN-SUFFIX,hy90.cn
 DOMAIN-SUFFIX,hya.comp.360os.com
 DOMAIN-SUFFIX,hybrid.ai
+DOMAIN-SUFFIX,hybrid.miniapp.taobao.com
 DOMAIN-SUFFIX,hybubehxmv.com
 DOMAIN-SUFFIX,hycantyoubelik.com
 DOMAIN-SUFFIX,hycantyoubeliketh.com
@@ -61827,6 +61833,7 @@ DOMAIN-SUFFIX,lzyjcooxsodz.com
 DOMAIN-SUFFIX,lzzqfj.xyz
 DOMAIN-SUFFIX,lzzzjx.xyz
 DOMAIN-SUFFIX,m-adash.m.taobao.com
+DOMAIN-SUFFIX,m-adnet.hiaiabc.com
 DOMAIN-SUFFIX,m-fmfadcfm.icu
 DOMAIN-SUFFIX,m-metrics.capitalone.com
 DOMAIN-SUFFIX,m-rtb.com
@@ -83094,6 +83101,7 @@ DOMAIN-SUFFIX,resolesmidewin.top
 DOMAIN-SUFFIX,resolutekey.com
 DOMAIN-SUFFIX,resolutethumb.com
 DOMAIN-SUFFIX,resolution.taxdefensenetwork.com
+DOMAIN-SUFFIX,resolve.umeng.com
 DOMAIN-SUFFIX,resolvedswordlinked.com
 DOMAIN-SUFFIX,resolver.gslb.mi-idc.com
 DOMAIN-SUFFIX,resolver.msg.global.xiaomi.net.iberostar.com
