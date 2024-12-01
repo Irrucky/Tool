@@ -1,5 +1,5 @@
 # NAME: ADRULES
-# TOTAL: 8857
+# TOTAL: 8862
 DOMAIN,1010pic.com
 DOMAIN,118.89.204.198
 DOMAIN,16dd-advertise-1252317822.file.myqcloud.com
@@ -43,6 +43,7 @@ DOMAIN,ad.bwton.com
 DOMAIN,ad.caiyunapp.com
 DOMAIN,ad.cctv.com
 DOMAIN,ad.cyapi.cn
+DOMAIN,ad.doubleclick.net
 DOMAIN,ad.flurry.com
 DOMAIN,ad.hpplay.cn
 DOMAIN,ad.huajiao.com
@@ -173,6 +174,7 @@ DOMAIN,adsapi.manhuaren.com
 DOMAIN,adsapi.snapchat.com
 DOMAIN,adsdk.dmzj.com
 DOMAIN,adsdk.vivo.com.cn
+DOMAIN,adse.test.ximalaya.com
 DOMAIN,adse.wsa.ximalaya.com
 DOMAIN,adse.ximalaya.com
 DOMAIN,adsebs.ximalaya.com
@@ -184,6 +186,7 @@ DOMAIN,adservice.google.com
 DOMAIN,adservice.tohsoft.com
 DOMAIN,adserviceretry.kugou.com
 DOMAIN,adsfile.bssdlbig.kugou.com
+DOMAIN,adsfile.qq.com
 DOMAIN,adsfilebssdlbig.ali.kugou.com
 DOMAIN,adsfilebssdlbig.tx.kugou.com
 DOMAIN,adsfileretry.service.kugou.com
@@ -191,6 +194,7 @@ DOMAIN,adsfs-sdkconfig.heytapimage.com
 DOMAIN,adsfs.oppomobile.com
 DOMAIN,adshow.58.com
 DOMAIN,adshows.21cn.com
+DOMAIN,adslvfile.qq.com
 DOMAIN,adsmart.konka.com
 DOMAIN,adsmind.apdcdn.tc.qq.com
 DOMAIN,adsmind.gdtimg.com
@@ -1200,6 +1204,7 @@ DOMAIN,yt-adp.nosdn.127.net
 DOMAIN,yt-adp.ws.126.net
 DOMAIN,zeus.ad.xiaomi.com
 DOMAIN,zgsdk.zhugeio.com
+DOMAIN,zhihu-web-analytics.zhihu.com
 DOMAIN,ztoken.uyunad.com
 DOMAIN-KEYWORD,-ad-sign.byteimg.com
 DOMAIN-KEYWORD,-ad.byteoversea.com
