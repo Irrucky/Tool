@@ -1,5 +1,5 @@
 # NAME: ADS_AWAVENUE
-# TOTAL: 704
+# TOTAL: 715
 DOMAIN,1010pic.com
 DOMAIN,16dd-advertise-1252317822.file.myqcloud.com
 DOMAIN,16dd-advertise-1252317822.image.myqcloud.com
@@ -21,6 +21,7 @@ DOMAIN,ad.51wnl.com
 DOMAIN,ad.bwton.com
 DOMAIN,ad.cctv.com
 DOMAIN,ad.cyapi.cn
+DOMAIN,ad.doubleclick.net
 DOMAIN,ad.partner.gifshow.com
 DOMAIN,ad.qingting.fm
 DOMAIN,ad.qq.com
@@ -36,6 +37,8 @@ DOMAIN,ad.zijieapi.com
 DOMAIN,adapi.izuiyou.com
 DOMAIN,adapi.yynetwk.com
 DOMAIN,adashbc.ut.taobao.com
+DOMAIN,adc.hpplay.cn
+DOMAIN,adcdn.hpplay.cn
 DOMAIN,adcdn.tencentmusic.com
 DOMAIN,adclick.g.doubleclick.net
 DOMAIN,adclick.tencentmusic.com
@@ -82,16 +85,22 @@ DOMAIN,ads5-normal-hl.zijieapi.com
 DOMAIN,ads5-normal-lf.zijieapi.com
 DOMAIN,ads5-normal-lq.zijieapi.com
 DOMAIN,ads5-normal.zijieapi.com
+DOMAIN,adse.test.ximalaya.com
+DOMAIN,adse.wsa.ximalaya.com
+DOMAIN,adse.ximalaya.com
+DOMAIN,adsebs.ximalaya.com
 DOMAIN,adsense.google.cn
 DOMAIN,adserver.unityads.unity3d.com
 DOMAIN,adservice.google.cn
 DOMAIN,adservice.google.com
 DOMAIN,adserviceretry.kugou.com
 DOMAIN,adsfile.bssdlbig.kugou.com
+DOMAIN,adsfile.qq.com
 DOMAIN,adsfilebssdlbig.ali.kugou.com
 DOMAIN,adsfileretry.service.kugou.com
 DOMAIN,adsfs-sdkconfig.heytapimage.com
 DOMAIN,adsfs.oppomobile.com
+DOMAIN,adslvfile.qq.com
 DOMAIN,adsmart.konka.com
 DOMAIN,adsmind.gdtimg.com
 DOMAIN,adsmind.ugdtimg.com
@@ -291,6 +300,7 @@ DOMAIN,ggx01.miguvideo.com
 DOMAIN,ggx03.miguvideo.com
 DOMAIN,globalapi.ad.xiaomi.com
 DOMAIN,google-analytics.com
+DOMAIN,googleads.g.doubleclick.net
 DOMAIN,googleadservices-cn.com
 DOMAIN,googleadservices.com
 DOMAIN,googletagservices-cn.com
@@ -700,6 +710,7 @@ DOMAIN,ykad-gateway.youku.com
 DOMAIN,youku-acs.m.taobao.com
 DOMAIN,youxi.kugou.com
 DOMAIN,zeus.ad.xiaomi.com
+DOMAIN,zhihu-web-analytics.zhihu.com
 IP-CIDR,116.205.193.167/32,no-resolve
 IP-CIDR,123.56.23.22/32,no-resolve
 IP-CIDR,182.254.116.116/32,no-resolve
