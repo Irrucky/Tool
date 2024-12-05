@@ -33,9 +33,6 @@ jobs:
                    -e 's/,reject$//g' \
                    -e 's/,direct$//g' \
                    -e 's/,[[:space:]]*/,/g' \
-                   -e '/^\s*[#;]/d' \
-                   -e '/^$/d' \
-                   -e 's| //.*||' \
                    -e '/PROCESS-NAME\|URL-REGEX\|DOMAIN-WILDCARD/d' \
                    -e '/404: Not Found/d' \
                    "$file"
@@ -49,7 +46,9 @@ jobs:
             if [ "$file" = "Ads_AWAvenue.list" ]; then
               sed -i -e '/DOMAIN-KEYWORD/d' "$file"
             else
-              sed -i -e 's/DOMAIN,/DOMAIN-SUFFIX,/g' "$file"
+              sed -i -e 's/DOMAIN,/DOMAIN-SUFFIX,/g' \
+                     -e '/DOMAIN-SUFFIX,ad.12306.cn/d' \
+                    "$file"
             fi
           else
             echo "$file not found."
@@ -61,12 +60,10 @@ jobs:
         cd Tool-repo/Surge/rules
         for file in *.list; do
           if [ -f "$file" ]; then
-          #   sed -i -e '/^\s*[#;]/d' \
-          #          -e '/^$/d' \
-          #          -e 's| //.*||' \
-          #          -e '/PROCESS-NAME\|URL-REGEX/d' \
-          #          -e '/404: Not Found/d' \
-          #          "$file"
+            sed -i -e '/^\s*[#;]/d' \
+                   -e '/^$/d' \
+                   -e 's| //.*||' \
+                   "$file"
             awk '/^IP-/ && !/,no-resolve/ {print $0",no-resolve"; next} {print}' "$file" > tmpfile && mv tmpfile "$file"
             awk '!seen[tolower($0)]++' "$file" | sort > "$file.tmp" && mv "$file.tmp" "$file"
             filename=$(basename "$file" .list | tr '[:lower:]' '[:upper:]')
