@@ -1,5 +1,5 @@
 # NAME: ADRULES
-# TOTAL: 8863
+# TOTAL: 8881
 DOMAIN,1010pic.com
 DOMAIN,118.89.204.198
 DOMAIN,16dd-advertise-1252317822.file.myqcloud.com
@@ -83,6 +83,7 @@ DOMAIN,adcdn.tencentmusic.com
 DOMAIN,adclick.g.doubleclick.net
 DOMAIN,adclick.tencentmusic.com
 DOMAIN,adcolony.com
+DOMAIN,addata.jd.com
 DOMAIN,adeng.hpplay.cn
 DOMAIN,adexpo.tencentmusic.com
 DOMAIN,adextra.51wnl-cq.com
@@ -268,6 +269,7 @@ DOMAIN,al.autohome.com.cn
 DOMAIN,ali-ad.a.yximgs.com
 DOMAIN,ali-stats.jpush.cn
 DOMAIN,alog.umeng.com
+DOMAIN,alogus.umeng.com
 DOMAIN,als.baidu.com
 DOMAIN,amdcopen.m.taobao.com
 DOMAIN,amdcopen.m.umeng.com
@@ -323,6 +325,7 @@ DOMAIN,api.newad.ifeng.com
 DOMAIN,api.share.mob.com
 DOMAIN,api.statsig.com
 DOMAIN,api.toponadss.com
+DOMAIN,api.touch-moblie.com
 DOMAIN,api.verify.mob.com
 DOMAIN,api.zuihuimai.com
 DOMAIN,api5-normal-quic-lf.ixigua.com
@@ -331,6 +334,7 @@ DOMAIN,apiyd.my91app.com
 DOMAIN,apks.webxiaobai.top
 DOMAIN,app-ad.variflight.com
 DOMAIN,app-measurement.com
+DOMAIN,appcfg.v.qq.com
 DOMAIN,appcloud.zhihu.com
 DOMAIN,appcloud2.in.zhihu.com
 DOMAIN,applog.lc.quark.cn
@@ -395,6 +399,7 @@ DOMAIN,caid.adintl.cn
 DOMAIN,canvas-cdn.gdt.qq.com
 DOMAIN,catalog.fjwhcbsh.com
 DOMAIN,cbjs.baidu.com
+DOMAIN,ccc-x.jd.com
 DOMAIN,ccs.umeng.com
 DOMAIN,cctv.adsunion.com
 DOMAIN,cdn-ad.wtzw.com
@@ -503,12 +508,15 @@ DOMAIN,exp.360in.com
 DOMAIN,extlog.snssdk.com
 DOMAIN,ezozojawg.com
 DOMAIN,fcapi-ipv6.jpush.cn
+DOMAIN,fclog.baidu.com
 DOMAIN,feed-image.baidu.com
 DOMAIN,fg.knlk2md.cn
 DOMAIN,firebaselogging-pa.googleapis.com
 DOMAIN,flash.sec.miui.com
 DOMAIN,flurry.com
+DOMAIN,frontend-perf-service.e.kuaishou.com
 DOMAIN,furiousfar.com
+DOMAIN,fxgate.baidu.com
 DOMAIN,g-adnet.hiaiabc.com
 DOMAIN,g-staic.ganjingworld.com
 DOMAIN,g.koowo.com
@@ -630,6 +638,7 @@ DOMAIN,images.ctfassets.net
 DOMAIN,images.outbrainimg.com
 DOMAIN,images.pinduoduo.com
 DOMAIN,img-c.heytapimage.com
+DOMAIN,img-x.jd.com
 DOMAIN,img.adnyg.com
 DOMAIN,img.adnyg.com.w.kunlungr.com
 DOMAIN,img.auction-ads.wpscdn.cn
@@ -667,10 +676,12 @@ DOMAIN,juggler.services.disqus.com
 DOMAIN,jump.admobile.top
 DOMAIN,kad.gotokeep.com
 DOMAIN,kadmimage.biz.weibo.com
+DOMAIN,kde.qq.com
 DOMAIN,kepler.jd.com
 DOMAIN,kgmobilestat.kugou.com
 DOMAIN,kgmobilestatbak.kugou.com
 DOMAIN,kl.67it.com
+DOMAIN,klink.volceapplog.com
 DOMAIN,kmef.ikjwmfeds.xyz
 DOMAIN,kmopoer.jkbuymjhp.xyz
 DOMAIN,knicks.jd.com
@@ -697,9 +708,11 @@ DOMAIN,log-api.pangolin-sdk-toutiao-b.com
 DOMAIN,log-api.pangolin-sdk-toutiao.com
 DOMAIN,log-report.com
 DOMAIN,log-sdk.gifshow.com
+DOMAIN,log-sdk.ksapisrv.com
 DOMAIN,log-upload-os.hoyoverse.com
 DOMAIN,log-upload.mihoyo.com
 DOMAIN,log-verify.dutils.com
+DOMAIN,log-verify.hiaiabc.com
 DOMAIN,log-verify.mob.com
 DOMAIN,log.51wnl-cq.com
 DOMAIN,log.ad.xiaomi.com
@@ -731,6 +744,7 @@ DOMAIN,logservice1.hicloud.com
 DOMAIN,logtj.kugou.com
 DOMAIN,logupdate.avlyun.sec.miui.com
 DOMAIN,lookup.api.bsb.baidu.com
+DOMAIN,luimg.baidu.com
 DOMAIN,m-adnet.hiaiabc.com
 DOMAIN,m.ad.zhangyue.com
 DOMAIN,m.atm.youku.com
@@ -817,8 +831,8 @@ DOMAIN,omgmta.play.aiseet.atianqi.com
 DOMAIN,open.e.kuaishou.cn
 DOMAIN,open.e.kuaishou.com
 DOMAIN,open.kuaishouzt.com
-DOMAIN,open.kwaishouzt.com
 DOMAIN,open.kwaizt.com
+DOMAIN,open.snssdk.com
 DOMAIN,optimus-ads.amap.com
 DOMAIN,optimus-ads.amap.com.w.alikunlun.com
 DOMAIN,orbit.jd.com
@@ -1104,6 +1118,7 @@ DOMAIN,update.avlyun.sec.miui.com
 DOMAIN,update.lejiao.tv
 DOMAIN,upgrade-update.hismarttv.com
 DOMAIN,ups.ksmobile.net
+DOMAIN,uranus.jd.com
 DOMAIN,us.l.qq.com
 DOMAIN,user.jpush.cn
 DOMAIN,utoken.umeng.com
@@ -1162,6 +1177,7 @@ DOMAIN,wa.gtimg.com
 DOMAIN,watson.microsoft.com
 DOMAIN,watson.telemetry.microsoft.com
 DOMAIN,wc.51.la
+DOMAIN,wcp.taobao.com
 DOMAIN,weather-analytics-events.apple.com
 DOMAIN,weather-community-drcn.weather.dbankcloud.cn
 DOMAIN,webstat.qiumibao.com
@@ -1169,6 +1185,7 @@ DOMAIN,webview.unityads.unity3d.com
 DOMAIN,widgets.outbrain.com
 DOMAIN,widgets.pinterest.com
 DOMAIN,win.gdt.qq.com
+DOMAIN,wl.jd.com
 DOMAIN,wn.pos.baidu.com
 DOMAIN,wn.x.jd.com
 DOMAIN,ws-keyboard.shouji.sogou.com
@@ -1184,6 +1201,7 @@ DOMAIN,wxa.wxs.qq.com
 DOMAIN,wximg.wxs.qq.com
 DOMAIN,wxsmw.wxs.qq.com
 DOMAIN,wxsnsad.tc.qq.com
+DOMAIN,wxsnsdy.tc.qq.com
 DOMAIN,wxsnsdy.wxs.qq.com
 DOMAIN,wxsnsdythumb.wxs.qq.com
 DOMAIN,x.eccorp.cc
