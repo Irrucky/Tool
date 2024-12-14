@@ -1,5 +1,5 @@
 # NAME: ADRULES
-# TOTAL: 8881
+# TOTAL: 8882
 DOMAIN,1010pic.com
 DOMAIN,118.89.204.198
 DOMAIN,16dd-advertise-1252317822.file.myqcloud.com
@@ -511,6 +511,7 @@ DOMAIN,fcapi-ipv6.jpush.cn
 DOMAIN,fclog.baidu.com
 DOMAIN,feed-image.baidu.com
 DOMAIN,fg.knlk2md.cn
+DOMAIN,file.daihuo.qq.com
 DOMAIN,firebaselogging-pa.googleapis.com
 DOMAIN,flash.sec.miui.com
 DOMAIN,flurry.com
