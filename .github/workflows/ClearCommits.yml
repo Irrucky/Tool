@@ -3,6 +3,10 @@ name: Clean commit
 on:
   workflow_dispatch:
 
+permissions:
+  contents: write
+  actions: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
