@@ -1,1 +1,90 @@
-(function(_0x386db9,_0x214515){const _0x9b8c3=_0x326d,_0x440c88=_0x386db9();while(!![]){try{const _0x1b0e92=parseInt(_0x9b8c3(0x193))/0x1+-parseInt(_0x9b8c3(0x1ae))/0x2+parseInt(_0x9b8c3(0x1a0))/0x3*(-parseInt(_0x9b8c3(0x1b2))/0x4)+-parseInt(_0x9b8c3(0x1aa))/0x5+-parseInt(_0x9b8c3(0x19b))/0x6+-parseInt(_0x9b8c3(0x198))/0x7+-parseInt(_0x9b8c3(0x1ab))/0x8*(-parseInt(_0x9b8c3(0x1ad))/0x9);if(_0x1b0e92===_0x214515)break;else _0x440c88['push'](_0x440c88['shift']());}catch(_0x4bbd17){_0x440c88['push'](_0x440c88['shift']());}}}(_0x3b2d,0x4b275));async function _0x474dd9(){const _0x579c1e=_0x326d;let _0x3bc9a7=new Alert();_0x3bc9a7[_0x579c1e(0x1a7)]=_0x579c1e(0x199),_0x3bc9a7[_0x579c1e(0x196)](_0x579c1e(0x19f),''),_0x3bc9a7[_0x579c1e(0x196)]('请输入新的内容',''),_0x3bc9a7[_0x579c1e(0x191)]('确认'),_0x3bc9a7[_0x579c1e(0x190)]('取消');let _0x22f958=await _0x3bc9a7[_0x579c1e(0x19d)]();if(_0x22f958===-0x1)return console[_0x579c1e(0x1a6)]('操作已取消'),null;let _0x4d19e8=_0x3bc9a7['textFieldValue'](0x0),_0x3e32eb=_0x3bc9a7[_0x579c1e(0x1a2)](0x1);if(!_0x4d19e8||!_0x3e32eb)return console[_0x579c1e(0x19e)]('替换内容不能为空'),null;return{'oldText':_0x4d19e8,'newText':_0x3e32eb};}function _0x326d(_0x4929a2,_0x4531cd){const _0x3b2d0e=_0x3b2d();return _0x326d=function(_0x326d62,_0x257386){_0x326d62=_0x326d62-0x190;let _0x19980b=_0x3b2d0e[_0x326d62];return _0x19980b;},_0x326d(_0x4929a2,_0x4531cd);}function _0x3b2d(){const _0x347590=['1976685ufKwJy','24bgwtnr','readString','2852793BYiyin','760798rvUTgi','fileExists','✅\x20已替换文件:\x20','writeString','12232TLgoEd','选择的文件不存在于iCloud中','addCancelAction','addAction','用户取消了文件选择操作','556077YsQeKp','\x20个文件的替换操作。','isFileStoredIniCloud','addTextField','openFile','477645bEwhzm','内容替换工具','filter','2880EjjcZP','已完成对\x20','presentAlert','error','请输入要替换的内容','348ZsYKmU','未选择任何文件，操作已取消','textFieldValue','length','downloadFileFromiCloud','iCloud','log','title','replace','message'];_0x3b2d=function(){return _0x347590;};return _0x3b2d();}async function _0x2c3a23(_0x223ea0,_0x447caa,_0x542a78){const _0x1491b2=_0x326d,_0x224618=FileManager['iCloud']();for(let _0xc35e5b of _0x223ea0){!_0x224618[_0x1491b2(0x195)](_0xc35e5b)&&await _0x224618[_0x1491b2(0x1a4)](_0xc35e5b);let _0x47d26e=_0x224618[_0x1491b2(0x1ac)](_0xc35e5b);if(!_0x47d26e)continue;let _0x460c8a=_0x47d26e[_0x1491b2(0x1a8)](new RegExp(_0x447caa,'g'),_0x542a78);_0x224618[_0x1491b2(0x1b1)](_0xc35e5b,_0x460c8a),console[_0x1491b2(0x1a6)](_0x1491b2(0x1b0)+_0xc35e5b);}}async function _0x1e11ca(){const _0x3020c7=_0x326d;let _0x35e863=await _0x474dd9();if(!_0x35e863)return;let {oldText:_0x5389d7,newText:_0xeac4c0}=_0x35e863,_0x264138;try{_0x264138=await DocumentPicker[_0x3020c7(0x197)]();}catch(_0x19f4a2){console[_0x3020c7(0x1a6)](_0x3020c7(0x192));return;}if(!_0x264138){console[_0x3020c7(0x1a6)](_0x3020c7(0x1a1));return;}!Array['isArray'](_0x264138)&&(_0x264138=[_0x264138]);const _0x228597=FileManager[_0x3020c7(0x1a5)]();_0x264138=_0x264138[_0x3020c7(0x19a)](_0x2bc937=>_0x228597[_0x3020c7(0x1af)](_0x2bc937));if(_0x264138[_0x3020c7(0x1a3)]===0x0){console['error'](_0x3020c7(0x1b3));return;}await _0x2c3a23(_0x264138,_0x5389d7,_0xeac4c0);let _0x16d7c5=new Alert();_0x16d7c5[_0x3020c7(0x1a7)]='替换完成',_0x16d7c5[_0x3020c7(0x1a9)]=_0x3020c7(0x19c)+_0x264138[_0x3020c7(0x1a3)]+_0x3020c7(0x194),_0x16d7c5[_0x3020c7(0x191)]('确定'),await _0x16d7c5[_0x3020c7(0x19d)]();}await _0x1e11ca();
+// Variables used by Scriptable.
+// These must be at the very top of the file. Do not edit.
+// icon-color: blue; icon-glyph: magic;
+
+// 获取用户输入的替换内容
+async function getUserInput() {
+    let alert = new Alert();
+    alert.title = '内容替换工具';
+    alert.addTextField('请输入要替换的内容', '');
+    alert.addTextField('请输入新的内容', '');
+    alert.addAction('确认');
+    alert.addCancelAction('取消');
+
+    let selectedIndex = await alert.presentAlert();
+    if (selectedIndex === -1) {
+        console.log('操作已取消');
+        return null;
+    }
+
+    let oldText = alert.textFieldValue(0);
+    let newText = alert.textFieldValue(1);
+
+    if (!oldText || !newText) {
+        console.error('替换内容不能为空');
+        return null;
+    }
+
+    return { 'oldText': oldText, 'newText': newText };
+}
+
+// 替换文件内容
+async function replaceFileContent(filePaths, oldText, newText) {
+    const fileManager = FileManager.iCloud();
+    for (let filePath of filePaths) {
+        if (!fileManager.isFileStoredIniCloud(filePath)) {
+            await fileManager.downloadFileFromiCloud(filePath);
+        }
+
+        let fileContent = fileManager.readString(filePath);
+        if (!fileContent) continue;
+
+        let updatedContent = fileContent.replace(new RegExp(oldText, 'g'), newText);
+        fileManager.writeString(filePath, updatedContent);
+        console.log(`✅ 已替换文件: ${filePath}`);
+    }
+}
+
+// 主函数
+async function main() {
+    let userInput = await getUserInput();
+    if (!userInput) return;
+
+    const { oldText, newText } = userInput;
+    let selectedFiles;
+
+    try {
+        selectedFiles = await DocumentPicker.openFile();
+    } catch (error) {
+        console.log('用户取消了文件选择操作');
+        return;
+    }
+
+    if (!selectedFiles) {
+        console.log('未选择任何文件，操作已取消');
+        return;
+    }
+
+    if (!Array.isArray(selectedFiles)) {
+        selectedFiles = [selectedFiles];
+    }
+
+    const fileManager = FileManager.iCloud();
+    selectedFiles = selectedFiles.filter(filePath => fileManager.fileExists(filePath));
+
+    if (selectedFiles.length === 0) {
+        console.error('选择的文件不存在于iCloud中');
+        return;
+    }
+
+    await replaceFileContent(selectedFiles, oldText, newText);
+
+    let completionAlert = new Alert();
+    completionAlert.title = '替换完成';
+    completionAlert.message = `已完成对 ${selectedFiles.length} 个文件的替换操作。`;
+    completionAlert.addAction('确定');
+    await completionAlert.presentAlert();
+}
+
+// 运行主函数
+await main();
