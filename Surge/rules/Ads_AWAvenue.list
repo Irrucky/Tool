@@ -1,5 +1,5 @@
 # NAME: ADS_AWAVENUE
-# TOTAL: 737
+# TOTAL: 738
 DOMAIN,1010pic.com
 DOMAIN,16dd-advertise-1252317822.file.myqcloud.com
 DOMAIN,16dd-advertise-1252317822.image.myqcloud.com
@@ -291,6 +291,7 @@ DOMAIN,events.reddit.com
 DOMAIN,events.redditmedia.com
 DOMAIN,fclog.baidu.com
 DOMAIN,feed-image.baidu.com
+DOMAIN,file.daihuo.qq.com
 DOMAIN,firebaselogging-pa.googleapis.com
 DOMAIN,flurry.com
 DOMAIN,frontend-perf-service.e.kuaishou.com
