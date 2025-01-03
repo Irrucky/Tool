@@ -1,0 +1,104 @@
+name: Update Rules
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0,12 * * *"
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4.2.2
+        with:
+          repository: Irrucky/Tool
+          path: Tool-repo
+
+      - name: Process Files
+        run: |
+          curl -L https://raw.githubusercontent.com/Irrucky/Tool/main/Source/b.1.sh | bash
+
+      # - name: GFW && GFW_ip
+      #   run: |
+      #     cd Tool-repo/Surge/rules/RuleSet
+      #     for file in *.list; do
+      #       if [ -f "$file" ]; then
+      #         if [ "$file" = "GFW.list" ]; then
+      #           sed -i -e '/IP-CIDR\|IP-CIDR6\|IP-ASN/d' "$file"
+      #         else
+      #           sed -i -e '/IP-CIDR\|IP-CIDR6\|IP-ASN/!d' "$file"
+      #         fi
+      #         sed -i -e '/^\s*[#;]/d' \
+      #                -e '/^$/d' \
+      #                -e 's| //.*||' \
+      #                "$file"
+      #         awk '/^IP-/ && !/,no-resolve/ {print $0",no-resolve"; next} {print}' "$file" > tmpfile && mv tmpfile "$file"
+      #         awk '!seen[tolower($0)]++ && NF > 0' "$file" | sort > "$file.tmp" && mv "$file.tmp" "$file"
+      #         filename=$(basename "$file" .list | tr '[:lower:]' '[:upper:]')
+      #         line_count=$(wc -l < "$file")
+      #         sed -i "1i# NAME: $filename\n# TOTAL: $line_count" "$file"
+      #       else
+      #         echo "$file not found."
+      #       fi
+      #     done
+
+      # - name: Regular Files
+      #   run: |
+      #     cd Tool-repo/Surge/rules
+      #     for file in *.list; do
+      #       if [ -f "$file" ]; then
+      #         sed -i -e '/^\s*[#;]/d' \
+      #                -e '/^$/d' \
+      #                -e 's| //.*||' \
+      #                "$file"            
+      #         awk '/^IP-/ && !/,no-resolve/ {print $0",no-resolve"; next} {print}' "$file" > tmpfile && mv tmpfile "$file"           
+      #         awk '!seen[tolower($0)]++' "$file" | sort > "$file.tmp" && mv "$file.tmp" "$file"            
+      #         filename=$(basename "$file" .list | tr '[:lower:]' '[:upper:]')
+      #         line_count=$(wc -l < "$file")
+      #         sed -i "1i# NAME: $filename\n# TOTAL: $line_count" "$file"
+      #       else
+      #         echo "$file not found."
+      #       fi
+      #     done
+
+      - name: Regular Files
+        run: |
+          cd Tool-repo/Surge/rules
+          find . -type f -exec sh -c '
+              file="$1"
+              if [ -f "$file" ]; then
+                  sed -i -e "/^\s*[#;]/d" -e "/^$/d" -e "s| //.*||" "$file"
+                  awk "/^IP-/ && !/,no-resolve/ {print \$0\",no-resolve\"; next} {print}" "$file" > "$file.tmp" && mv "$file.tmp" "$file"
+                  awk "!seen[tolower(\$0)]++" "$file" | sort > "$file.tmp" && mv "$file.tmp" "$file"
+                  filename=$(basename "$file" .list | tr "[:lower:]" "[:upper:]")
+                  line_count=$(wc -l < "$file")
+                  sed -i "1i# NAME: $filename\n# TOTAL: $line_count" "$file"
+              else
+                  echo "$file not found."
+              fi
+          ' _ {} \;
+
+      - name: Push Update
+        run: |
+          cd Tool-repo
+          if [[ -n $(git status -s) ]]; then
+            git config --local user.email "${{ secrets.EMAIL }}@users.noreply.github.com"
+            git config --local user.name "${{ secrets.USERNAME }}"
+            git add -A
+            git commit -m "$(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M:%S')"
+            git push origin HEAD
+          else
+            echo "No changes to commit."
+          fi
+
+      - name: Cleanup Workflow
+        uses: Mattraks/delete-workflow-runs@main
+        with:
+          retain_days: 0
+          keep_minimum_runs: 2
