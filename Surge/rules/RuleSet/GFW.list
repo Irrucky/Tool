@@ -1,5 +1,5 @@
 # NAME: GFW
-# TOTAL: 8029
+# TOTAL: 8030
 
 DOMAIN,api.mixpanel.com
 DOMAIN,audio4-ak-spotify-com.akamaized.net
@@ -1476,6 +1476,7 @@ DOMAIN-SUFFIX,cn6.eu
 DOMAIN-SUFFIX,cna.com.tw
 DOMAIN-SUFFIX,cnabc.com
 DOMAIN-SUFFIX,cnbbnews.wordpress.com
+DOMAIN-SUFFIX,cnbeta.com.tw
 DOMAIN-SUFFIX,cnd.org
 DOMAIN-SUFFIX,cnet.com
 DOMAIN-SUFFIX,cnex.org.cn
