@@ -24,49 +24,6 @@ jobs:
         run: |
           curl -L https://raw.githubusercontent.com/Irrucky/Tool/main/Source/b.1.sh | bash
 
-      # - name: GFW && GFW_ip
-      #   run: |
-      #     cd Tool-repo/Surge/rules/RuleSet
-      #     for file in *.list; do
-      #       if [ -f "$file" ]; then
-      #         if [ "$file" = "GFW.list" ]; then
-      #           sed -i -e '/IP-CIDR\|IP-CIDR6\|IP-ASN/d' "$file"
-      #         else
-      #           sed -i -e '/IP-CIDR\|IP-CIDR6\|IP-ASN/!d' "$file"
-      #         fi
-      #         sed -i -e '/^\s*[#;]/d' \
-      #                -e '/^$/d' \
-      #                -e 's| //.*||' \
-      #                "$file"
-      #         awk '/^IP-/ && !/,no-resolve/ {print $0",no-resolve"; next} {print}' "$file" > tmpfile && mv tmpfile "$file"
-      #         awk '!seen[tolower($0)]++ && NF > 0' "$file" | sort > "$file.tmp" && mv "$file.tmp" "$file"
-      #         filename=$(basename "$file" .list | tr '[:lower:]' '[:upper:]')
-      #         line_count=$(wc -l < "$file")
-      #         sed -i "1i# NAME: $filename\n# TOTAL: $line_count" "$file"
-      #       else
-      #         echo "$file not found."
-      #       fi
-      #     done
-
-      # - name: Regular Files
-      #   run: |
-      #     cd Tool-repo/Surge/rules
-      #     for file in *.list; do
-      #       if [ -f "$file" ]; then
-      #         sed -i -e '/^\s*[#;]/d' \
-      #                -e '/^$/d' \
-      #                -e 's| //.*||' \
-      #                "$file"            
-      #         awk '/^IP-/ && !/,no-resolve/ {print $0",no-resolve"; next} {print}' "$file" > tmpfile && mv tmpfile "$file"           
-      #         awk '!seen[tolower($0)]++' "$file" | sort > "$file.tmp" && mv "$file.tmp" "$file"            
-      #         filename=$(basename "$file" .list | tr '[:lower:]' '[:upper:]')
-      #         line_count=$(wc -l < "$file")
-      #         sed -i "1i# NAME: $filename\n# TOTAL: $line_count" "$file"
-      #       else
-      #         echo "$file not found."
-      #       fi
-      #     done
-
       - name: Regular Files
         run: |
           cd Tool-repo/Surge/rules
@@ -88,8 +45,8 @@ jobs:
         run: |
           cd Tool-repo
           if [[ -n $(git status -s) ]]; then
-            git config --local user.email "${{ secrets.EMAIL }}@users.noreply.github.com"
-            git config --local user.name "${{ secrets.USERNAME }}"
+            git config --local user.name "actions"
+            git config --local user.email "action@github.com"
             git add -A
             git commit -m "$(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M:%S')"
             git push origin HEAD
