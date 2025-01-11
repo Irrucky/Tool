@@ -1,5 +1,5 @@
 # NAME: ADS_AWAVENUE
-# TOTAL: 743
+# TOTAL: 745
 DOMAIN,1010pic.com
 DOMAIN,8le8le.com
 DOMAIN,a0.app.xiaomi.com
@@ -450,6 +450,7 @@ DOMAIN,mime.baidu.com
 DOMAIN,mine.baidu.com
 DOMAIN,mission-pub.smart-tv.cn
 DOMAIN,miui-fxcse.avlyun.com
+DOMAIN,mmgame.qpic.cn
 DOMAIN,mnqlog.ldmnq.com
 DOMAIN,mobads-logs.baidu.com
 DOMAIN,mobads-pre-config.cdn.bcebos.com
@@ -719,6 +720,7 @@ DOMAIN,ws-keyboard.shouji.sogou.com
 DOMAIN,ws.sj.qq.com
 DOMAIN,www42.zskwai.com
 DOMAIN,wxa.wxs.qq.com
+DOMAIN,wxaintpcos.wxqcloud.qq.com.cn
 DOMAIN,wximg.wxs.qq.com
 DOMAIN,wxsmw.wxs.qq.com
 DOMAIN,wxsnsad.tc.qq.com
