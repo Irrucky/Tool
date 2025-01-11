@@ -1,5 +1,5 @@
 # NAME: ADRULES
-# TOTAL: 9324
+# TOTAL: 9326
 DOMAIN,1010pic.com
 DOMAIN,118.89.204.198
 DOMAIN,25e87c0802f91cf8cgg.6uzxtlv.cn
@@ -786,6 +786,7 @@ DOMAIN,minfo.wps.cn
 DOMAIN,miniapp-ad.cdn.bcebos.com
 DOMAIN,mission-pub.smart-tv.cn
 DOMAIN,miui-fxcse.avlyun.com
+DOMAIN,mmgame.qpic.cn
 DOMAIN,mnqlog.ldmnq.com
 DOMAIN,mobad.ijinshan.com
 DOMAIN,mobads-logs.baidu.com
@@ -1206,6 +1207,7 @@ DOMAIN,www.traforama.com
 DOMAIN,www.vipads.live
 DOMAIN,www42.zskwai.com
 DOMAIN,wxa.wxs.qq.com
+DOMAIN,wxaintpcos.wxqcloud.qq.com.cn
 DOMAIN,wximg.wxs.qq.com
 DOMAIN,wxsmw.wxs.qq.com
 DOMAIN,wxsnsad.tc.qq.com
