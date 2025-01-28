@@ -8947,6 +8947,13 @@ IP-CIDR,60.190.139.164/32,no-resolve
 IP-CIDR,154.7.80.158/32,no-resolve
 IP-CIDR,194.59.220.161/32,no-resolve
 IP-CIDR,205.209.138.102/32,no-resolve
+
+
+
+IP-CIDR,116.205.193.167/32,no-resolve
+IP-CIDR,123.56.23.22/32,no-resolve
+IP-CIDR,182.254.116.116/32,no-resolve
+IP-CIDR,203.205.137.89/32,no-resolve
 DOMAIN,1010pic.com
 DOMAIN,8le8le.com
 DOMAIN,a0.app.xiaomi.com
@@ -9687,10 +9694,6 @@ DOMAIN,youku-acs.m.taobao.com
 DOMAIN,youxi.kugou.com
 DOMAIN,zeus.ad.xiaomi.com
 DOMAIN,zhihu-web-analytics.zhihu.com
-IP-CIDR,116.205.193.167/32,reject,no-resolve
-IP-CIDR,123.56.23.22/32,reject,no-resolve
-IP-CIDR,182.254.116.116/32,reject,no-resolve
-IP-CIDR,203.205.137.89/32,reject,no-resolve
 
 DOMAIN-KEYWORD,adservice
 
