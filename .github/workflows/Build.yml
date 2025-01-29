@@ -28,38 +28,37 @@ jobs:
           cd Tool-repo/Surge/rules || exit 1
           for file in *.list; do
             if [ -f "$file" ]; then
-              sed -i -e 's/IP-CIDR,[[:space:]]*/IP-CIDR,/g' \
-                     -e 's/DOMAIN-WILDCARD,[[:space:]]*/DOMAIN-WILDCARD,/g' \
-                     -e 's/DOMAIN,[[:space:]]*/DOMAIN,/g' \
-                     -e 's/IP-CIDR6,[[:space:]]*/IP-CIDR6,/g' \
-                     -e 's/DOMAIN-SUFFIX,[[:space:]]*/DOMAIN-SUFFIX,/g' \
-                     -e 's/DOMAIN-KEYWORD,[[:space:]]*/DOMAIN-KEYWORD,/g' \
-                     -e 's/,REJECT$//g' \
-                     -e 's/,DIRECT$//g' \
-                     -e 's/,reject$//g' \
-                     -e 's/,direct$//g' \
-                     -e 's/,[[:space:]]*/,/g' \
-                     -e '/^[[:space:]]*[#;]/d' \
-                     -e 's| //.*||' \
-                     -e '/PROCESS-NAME\|URL-REGEX\|DOMAIN-WILDCARD/d' \
-                     -e '/404: Not Found/d' "$file"
-              awk '/^IP-/ && !/,no-resolve$/ {print $0",no-resolve"; next} {print}' "$file" > "$file.tmp" && mv "$file.tmp" "$file"
-              for file in Ads_AWAvenue.list Reject.list; do
-                if [ "$file" = "Ads_AWAvenue.list" ]; then
+              sed -i -E '
+                s/IP-CIDR,[[:space:]]*/IP-CIDR,/g
+                s/DOMAIN-WILDCARD,[[:space:]]*/DOMAIN-WILDCARD,/g
+                s/DOMAIN,[[:space:]]*/DOMAIN,/g
+                s/IP-CIDR6,[[:space:]]*/IP-CIDR6,/g
+                s/DOMAIN-SUFFIX,[[:space:]]*/DOMAIN-SUFFIX,/g
+                s/DOMAIN-KEYWORD,[[:space:]]*/DOMAIN-KEYWORD,/g
+                s/,[[:space:]]*/,/g
+                /^[[:space:]]*[#;]/d
+                s| //.*||
+                /PROCESS-NAME|URL-REGEX|DOMAIN-WILDCARD/d
+                /404: Not Found/d
+              ' "$file"
+              cut -d, -f1-2 "$file" > tmp && mv tmp "$file"
+              awk '/^IP-/ && !/,no-resolve$/ {print $0",no-resolve"; next} {print}' "$file" > tmp && mv tmp "$file"
+              case "$file" in
+                "Ads_AWAvenue.list")
                   sed -i -e '/DOMAIN-KEYWORD,/d' "$file"
-                elif [ "$file" = "Reject.list" ]; then
+                  ;;
+                "Reject.list")
                   sed -i -e 's/DOMAIN,/DOMAIN-SUFFIX,/g' \
                          -e '/DOMAIN-SUFFIX,ad.12306.cn/d' \
-                         -e '/DOMAIN-SUFFIX,118.89.204.198/d' \
-                         "$file"
-                fi
-              done
-              awk '!seen[tolower($0)]++' "$file" | sort > "$file.tmp" && mv "$file.tmp" "$file"
+                         -e '/DOMAIN-SUFFIX,118.89.204.198/d' "$file"
+                  ;;
+              esac
+              awk '!seen[tolower($0)]++' "$file" | sort -o "$file"
               sed -i -e '/^$/d' "$file"     
               file_names=$(basename "$file" .list | tr '[:lower:]' '[:upper:]')
               line_count=$(wc -l < "$file")
-              awk -v fname="$file_names" 'NR==1 {print "# NAME: " fname} {print}' "$file" > tmpfile && mv tmpfile "$file"
-              awk -v count="$line_count" 'NR==2 {print "# TOTAL: " count} {print}' "$file" > tmpfile && mv tmpfile "$file"
+              awk -v fname="$file_names" 'NR==1 {print "# NAME: " fname} {print}' "$file" > tmp && mv tmp "$file"
+              awk -v count="$line_count" 'NR==2 {print "# TOTAL: " count} {print}' "$file" > tmp && mv tmp "$file"
               sed -i '2a\\' "$file"
             else
               echo "$file not found."
