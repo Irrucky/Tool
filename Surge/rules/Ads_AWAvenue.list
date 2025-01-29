@@ -1,10 +1,6 @@
+# NAME: ADS_AWAVENUE
+# TOTAL: 744
 
-
-
-IP-CIDR,116.205.193.167/32,no-resolve
-IP-CIDR,123.56.23.22/32,no-resolve
-IP-CIDR,182.254.116.116/32,no-resolve
-IP-CIDR,203.205.137.89/32,no-resolve
 DOMAIN,1010pic.com
 DOMAIN,8le8le.com
 DOMAIN,a0.app.xiaomi.com
@@ -745,3 +741,7 @@ DOMAIN,youku-acs.m.taobao.com
 DOMAIN,youxi.kugou.com
 DOMAIN,zeus.ad.xiaomi.com
 DOMAIN,zhihu-web-analytics.zhihu.com
+IP-CIDR,116.205.193.167/32,no-resolve
+IP-CIDR,123.56.23.22/32,no-resolve
+IP-CIDR,182.254.116.116/32,no-resolve
+IP-CIDR,203.205.137.89/32,no-resolve
