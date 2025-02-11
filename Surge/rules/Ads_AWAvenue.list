@@ -1,5 +1,5 @@
 # NAME: ADS_AWAVENUE
-# TOTAL: 743
+# TOTAL: 753
 
 DOMAIN,1010pic.com
 DOMAIN,8le8le.com
@@ -63,6 +63,7 @@ DOMAIN,ads-us.tiktok.com
 DOMAIN,ads-video-al.xhscdn.com
 DOMAIN,ads-video-qc.xhscdn.com
 DOMAIN,ads.95516.com
+DOMAIN,ads.flurry.com
 DOMAIN,ads.google.cn
 DOMAIN,ads.heytapmobi.com
 DOMAIN,ads.huan.tv
@@ -72,6 +73,7 @@ DOMAIN,ads.linkedin.com
 DOMAIN,ads.music.126.net
 DOMAIN,ads.oppomobile.com
 DOMAIN,ads.pinterest.com
+DOMAIN,ads.pubmatic.com
 DOMAIN,ads.servebom.com
 DOMAIN,ads.service.kugou.com
 DOMAIN,ads.tiktok.com
@@ -109,6 +111,8 @@ DOMAIN,adsp.xunlei.com
 DOMAIN,adstats.tencentmusic.com
 DOMAIN,adstore-1252524079.file.myqcloud.com
 DOMAIN,adstore-index-1252524079.file.myqcloud.com
+DOMAIN,adstudio-assets.scdn.co
+DOMAIN,adstudio.spotify.com
 DOMAIN,adtago.s3.amazonaws.com
 DOMAIN,adtech.yahooinc.com
 DOMAIN,adtrack.quark.cn
@@ -326,6 +330,8 @@ DOMAIN,grs.platform.dbankcloud.ru
 DOMAIN,h-adashx.ut.taobao.com
 DOMAIN,h.trace.qq.com
 DOMAIN,hanlanad.com
+DOMAIN,heads-ak.spotify.com.edgesuite.net
+DOMAIN,heads-fa.spotify.com
 DOMAIN,hexagon-analytics.com
 DOMAIN,hm.baidu.com
 DOMAIN,hmma.baidu.com
@@ -451,6 +457,7 @@ DOMAIN,mission-pub.smart-tv.cn
 DOMAIN,miui-fxcse.avlyun.com
 DOMAIN,mmgame.qpic.cn
 DOMAIN,mnqlog.ldmnq.com
+DOMAIN,moatads.com
 DOMAIN,mobads-logs.baidu.com
 DOMAIN,mobads-pre-config.cdn.bcebos.com
 DOMAIN,mobads.baidu.com
@@ -504,6 +511,7 @@ DOMAIN,pagead2.googleadservices.com
 DOMAIN,pagead2.googlesyndication.com
 DOMAIN,pangolin-sdk-toutiao-b.com
 DOMAIN,pay.sboot.cn
+DOMAIN,pgdt.gtimg.cn
 DOMAIN,pgdt.ugdtimg.com
 DOMAIN,pglstatp-toutiao.com
 DOMAIN,pig.pupuapi.com
@@ -639,6 +647,7 @@ DOMAIN,tsvrv.com
 DOMAIN,tvuser-ch.cedock.com
 DOMAIN,tx-ad.a.yximgs.com
 DOMAIN,tx-kmpaudio.pull.yximgs.com
+DOMAIN,tytx.m.cn.miaozhen.com
 DOMAIN,tz.sec.xiaomi.com
 DOMAIN,uapi.ads.heytapmobi.com
 DOMAIN,udc.yahoo.com
@@ -713,6 +722,7 @@ DOMAIN,webstat.qiumibao.com
 DOMAIN,webview.unityads.unity3d.com
 DOMAIN,widgets.outbrain.com
 DOMAIN,widgets.pinterest.com
+DOMAIN,wildcard.moatads.com.edgekey.net
 DOMAIN,win.gdt.qq.com
 DOMAIN,wn.x.jd.com
 DOMAIN,ws-keyboard.shouji.sogou.com
