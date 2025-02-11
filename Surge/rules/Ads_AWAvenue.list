@@ -1,7 +1,8 @@
 # NAME: ADS_AWAVENUE
-# TOTAL: 753
+# TOTAL: 734
 
 DOMAIN,1010pic.com
+DOMAIN,1500020991.vodplayer.wxamedia.com
 DOMAIN,8le8le.com
 DOMAIN,a0.app.xiaomi.com
 DOMAIN,aaid.umeng.com
@@ -327,6 +328,7 @@ DOMAIN,gromore.pangolin-sdk-toutiao.com
 DOMAIN,grs.dbankcloud.com
 DOMAIN,grs.hicloud.com
 DOMAIN,grs.platform.dbankcloud.ru
+DOMAIN,gvideo.qpic.cn
 DOMAIN,h-adashx.ut.taobao.com
 DOMAIN,h.trace.qq.com
 DOMAIN,hanlanad.com
@@ -511,6 +513,7 @@ DOMAIN,pagead2.googleadservices.com
 DOMAIN,pagead2.googlesyndication.com
 DOMAIN,pangolin-sdk-toutiao-b.com
 DOMAIN,pay.sboot.cn
+DOMAIN,pcm-img.zhls.qq.com
 DOMAIN,pgdt.gtimg.cn
 DOMAIN,pgdt.ugdtimg.com
 DOMAIN,pglstatp-toutiao.com
@@ -593,6 +596,7 @@ DOMAIN,snowflake.qq.com
 DOMAIN,stat.dongqiudi.com
 DOMAIN,stat.y.qq.com
 DOMAIN,static.ads-twitter.com
+DOMAIN,static.wxqcloud.qq.com.cn
 DOMAIN,statics.woozooo.com
 DOMAIN,stats.qiumibao.com
 DOMAIN,stats.wp.com
@@ -688,31 +692,8 @@ DOMAIN,volc.bj.ad.track.66mobi.com
 DOMAIN,vungle.com
 DOMAIN,w.l.qq.com
 DOMAIN,w1.askwai.com
-DOMAIN,w1.bskwai.com
-DOMAIN,w1.cskwai.com
-DOMAIN,w1.dskwai.com
-DOMAIN,w1.eskwai.com
-DOMAIN,w1.fskwai.com
 DOMAIN,w1.gskwai.com
-DOMAIN,w1.hskwai.com
-DOMAIN,w1.iskwai.com
-DOMAIN,w1.jskwai.com
 DOMAIN,w1.kskwai.com
-DOMAIN,w1.lskwai.com
-DOMAIN,w1.mskwai.com
-DOMAIN,w1.nskwai.com
-DOMAIN,w1.oskwai.com
-DOMAIN,w1.pskwai.com
-DOMAIN,w1.qskwai.com
-DOMAIN,w1.rskwai.com
-DOMAIN,w1.sskwai.com
-DOMAIN,w1.tskwai.com
-DOMAIN,w1.uskwai.com
-DOMAIN,w1.vskwai.com
-DOMAIN,w1.wskwai.com
-DOMAIN,w1.xskwai.com
-DOMAIN,w1.yskwai.com
-DOMAIN,w1.zskwai.com
 DOMAIN,watson.microsoft.com
 DOMAIN,watson.telemetry.microsoft.com
 DOMAIN,wcp.taobao.com

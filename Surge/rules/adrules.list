@@ -1,5 +1,5 @@
 # NAME: ADRULES
-# TOTAL: 9997
+# TOTAL: 10005
 
 DOMAIN,1010pic.com
 DOMAIN,118.89.204.198
@@ -190,6 +190,7 @@ DOMAIN,ads.oppomobile.com
 DOMAIN,ads.pinger.com
 DOMAIN,ads.pinterest.com
 DOMAIN,ads.play.cbsi.video
+DOMAIN,ads.pubmatic.com
 DOMAIN,ads.reembed.com
 DOMAIN,ads.servebom.com
 DOMAIN,ads.service.kugou.com
@@ -260,6 +261,8 @@ DOMAIN,adstats.tencentmusic.com
 DOMAIN,adstore-1252524079.file.myqcloud.com
 DOMAIN,adstore-index-1252524079.file.myqcloud.com
 DOMAIN,adstrategy.biz.weibo.com
+DOMAIN,adstudio-assets.scdn.co
+DOMAIN,adstudio.spotify.com
 DOMAIN,adsview.qq.com
 DOMAIN,adsview2.qq.com
 DOMAIN,adsystem.wasu.tv
@@ -846,6 +849,8 @@ DOMAIN,hd.xiaojukeji.com
 DOMAIN,hd.xiaomi.com
 DOMAIN,hd02.lg.xiaomi.com
 DOMAIN,hdns.ksyun.com
+DOMAIN,heads-ak.spotify.com.edgesuite.net
+DOMAIN,heads-fa.spotify.com
 DOMAIN,healthdata.hicloud.com
 DOMAIN,hexagon-analytics.com
 DOMAIN,heyue.xiaomi.com
@@ -1164,6 +1169,7 @@ DOMAIN,mlog.hiido.com
 DOMAIN,mlog.search.xiaomi.net
 DOMAIN,mmgame.qpic.cn
 DOMAIN,mnqlog.ldmnq.com
+DOMAIN,moatads.com
 DOMAIN,mob.bz.mgtv.com
 DOMAIN,mobad.ijinshan.com
 DOMAIN,mobads-logs.baidu.com
@@ -1671,6 +1677,7 @@ DOMAIN,tx-data-u1.ubixioe.com
 DOMAIN,tx-kmpaudio.pull.yximgs.com
 DOMAIN,tyh.taobao.com
 DOMAIN,tysdk.95516.com
+DOMAIN,tytx.m.cn.miaozhen.com
 DOMAIN,tz.sec.xiaomi.com
 DOMAIN,u1.img.mobile.sina.cn
 DOMAIN,uapi.ads.heytapmobi.com
@@ -1789,6 +1796,7 @@ DOMAIN,webstat.qiumibao.com
 DOMAIN,webview.unityads.unity3d.com
 DOMAIN,widgets.outbrain.com
 DOMAIN,widgets.pinterest.com
+DOMAIN,wildcard.moatads.com.edgekey.net
 DOMAIN,win.gdt.qq.com
 DOMAIN,wmlog.meituan.com
 DOMAIN,wn.pos.baidu.com
