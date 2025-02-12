@@ -1,8 +1,9 @@
 # NAME: ADRULES
-# TOTAL: 10005
+# TOTAL: 9986
 
 DOMAIN,1010pic.com
 DOMAIN,118.89.204.198
+DOMAIN,1500020991.vodplayer.wxamedia.com
 DOMAIN,2016.sina.cn
 DOMAIN,25e87c0802f91cf8cgg.6uzxtlv.cn
 DOMAIN,4lke.online
@@ -837,6 +838,7 @@ DOMAIN,gtms03.alicdn.com
 DOMAIN,gtms04.alicdn.com
 DOMAIN,guanggaoad.youku.com
 DOMAIN,guide2.bianxianmao.com
+DOMAIN,gvideo.qpic.cn
 DOMAIN,gvod.aiseejapp.atianqi.com
 DOMAIN,h-adashx.ut.taobao.com
 DOMAIN,h.msn.com
@@ -1286,6 +1288,7 @@ DOMAIN,pangolin-sdk-toutiao-b.com
 DOMAIN,pangolin.snssdk.com
 DOMAIN,partwithner.com
 DOMAIN,pay.sboot.cn
+DOMAIN,pcm-img.zhls.qq.com
 DOMAIN,pdc.micloud.xiaomi.net
 DOMAIN,pfp.sina.com.cn
 DOMAIN,pgdt.gtimg.cn
@@ -1540,6 +1543,7 @@ DOMAIN,static.game.xiaomi.com
 DOMAIN,static.m.sjzhushou.com
 DOMAIN,static.mibi.xiaomi.com
 DOMAIN,static.vuevideo.net
+DOMAIN,static.wxqcloud.qq.com.cn
 DOMAIN,staticadm.leju.sina.com.cn
 DOMAIN,statics.woozooo.com
 DOMAIN,statis.api.3g.youku.com
@@ -1750,31 +1754,8 @@ DOMAIN,vv84.bj.bcebos.com
 DOMAIN,w.l.qq.com
 DOMAIN,w.m.taobao.com
 DOMAIN,w1.askwai.com
-DOMAIN,w1.bskwai.com
-DOMAIN,w1.cskwai.com
-DOMAIN,w1.dskwai.com
-DOMAIN,w1.eskwai.com
-DOMAIN,w1.fskwai.com
 DOMAIN,w1.gskwai.com
-DOMAIN,w1.hskwai.com
-DOMAIN,w1.iskwai.com
-DOMAIN,w1.jskwai.com
 DOMAIN,w1.kskwai.com
-DOMAIN,w1.lskwai.com
-DOMAIN,w1.mskwai.com
-DOMAIN,w1.nskwai.com
-DOMAIN,w1.oskwai.com
-DOMAIN,w1.pskwai.com
-DOMAIN,w1.qskwai.com
-DOMAIN,w1.rskwai.com
-DOMAIN,w1.sskwai.com
-DOMAIN,w1.tskwai.com
-DOMAIN,w1.uskwai.com
-DOMAIN,w1.vskwai.com
-DOMAIN,w1.wskwai.com
-DOMAIN,w1.xskwai.com
-DOMAIN,w1.yskwai.com
-DOMAIN,w1.zskwai.com
 DOMAIN,wa.gtimg.com
 DOMAIN,wan.youku.com
 DOMAIN,wap.game.xiaomi.com
