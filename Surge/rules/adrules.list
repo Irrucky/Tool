@@ -1,5 +1,5 @@
 # NAME: ADRULES
-# TOTAL: 9986
+# TOTAL: 9993
 
 DOMAIN,1010pic.com
 DOMAIN,118.89.204.198
@@ -92,6 +92,7 @@ DOMAIN,ad.xy2013.cn
 DOMAIN,ad.yixin.im
 DOMAIN,ad.zijieapi.com
 DOMAIN,ad.zuimeitianqi.com
+DOMAIN,ad2.ettoday.net
 DOMAIN,ad2.sina.com.cn
 DOMAIN,ad3.sina.com.cn
 DOMAIN,ad4.sina.com.cn
@@ -660,6 +661,7 @@ DOMAIN,dc.sigmob.cn
 DOMAIN,dcads.sina.com.cn
 DOMAIN,dd.iask.cn
 DOMAIN,de.as.pptv.com
+DOMAIN,de.tynt.com
 DOMAIN,deeplink.umeng.com
 DOMAIN,delivery-pc.wasu.cn
 DOMAIN,delivery.maihehd.com
@@ -970,6 +972,7 @@ DOMAIN,imgadpai.thepaper.cn
 DOMAIN,impservice.dictapp.youdao.com
 DOMAIN,impservice.youdao.com
 DOMAIN,imtmp.net
+DOMAIN,in.treasuredata.com
 DOMAIN,info.analysis.kp.sec.miui.com
 DOMAIN,info.sec.miui.com
 DOMAIN,info4.video.qq.com
@@ -1074,6 +1077,7 @@ DOMAIN,log.fc.yahoo.com
 DOMAIN,log.kuwo.cn
 DOMAIN,log.music.baidu.com
 DOMAIN,log.pinterest.com
+DOMAIN,log.popin.cc
 DOMAIN,log.snssdk.com
 DOMAIN,log.star.ele.me
 DOMAIN,log.stat.kugou.com
@@ -1274,7 +1278,6 @@ DOMAIN,p1-be-pack-sign.pglstatp-toutiao.com
 DOMAIN,p1-lm.adkwai.com
 DOMAIN,p2-be-pack-sign.pglstatp-toutiao.com
 DOMAIN,p2-lm.adkwai.com
-DOMAIN,p2p.huya.com
 DOMAIN,p3-be-pack-sign.pglstatp-toutiao.com
 DOMAIN,p3-lm.adkwai.com
 DOMAIN,p3-tt.byteimg.com
@@ -1375,6 +1378,7 @@ DOMAIN,richmanrules.jxedt.com
 DOMAIN,richmanrules.ksedt.com
 DOMAIN,river.zhidao.baidu.com
 DOMAIN,rj.m.taobao.com
+DOMAIN,rlog.popin.cc
 DOMAIN,rm.sina.com.cn
 DOMAIN,rmads.eu.msn.com
 DOMAIN,rmads.msn.com
@@ -1400,6 +1404,7 @@ DOMAIN,s2.qq.com
 DOMAIN,s3.pfp.sina.net
 DOMAIN,s3.qq.com
 DOMAIN,s3a.pstatp.com
+DOMAIN,s8t.teads.tv
 DOMAIN,sa.api.intl.miui.com
 DOMAIN,sa.holopin.io
 DOMAIN,saad.ms.zhangyue.net
@@ -1573,11 +1578,13 @@ DOMAIN,t-dsp.pinduoduo.com
 DOMAIN,t.fanglinad.com
 DOMAIN,t.gdt.qq.com
 DOMAIN,t.l.qq.com
+DOMAIN,t.teads.tv
 DOMAIN,t.track.ad.xiaomi.com
 DOMAIN,t.yesware.com
 DOMAIN,t002.ottcn.com
 DOMAIN,t1.a.market.xiaomi.com
 DOMAIN,t1.g.mi.com
+DOMAIN,t1.teads.tv
 DOMAIN,t2.a.market.xiaomi.com
 DOMAIN,t3.a.market.xiaomi.com
 DOMAIN,t4.a.market.xiaomi.com
