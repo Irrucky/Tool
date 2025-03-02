@@ -1,5 +1,5 @@
 # NAME: ADRULES
-# TOTAL: 9993
+# TOTAL: 9996
 
 DOMAIN,1010pic.com
 DOMAIN,118.89.204.198
@@ -576,6 +576,7 @@ DOMAIN,cm-10-138.getui.com
 DOMAIN,cm.bilibili.com
 DOMAIN,cm.dmp.sina.cn
 DOMAIN,cm.passport.iqiyi.com
+DOMAIN,cn-api.anythinktech.com
 DOMAIN,cnc.fe01.lg.xiaomi.com
 DOMAIN,cnlogs.umeng.com
 DOMAIN,cnlogs.umengcloud.com
@@ -657,6 +658,7 @@ DOMAIN,data.game.xiaomi.com
 DOMAIN,data.mistat.india.xiaomi.com
 DOMAIN,data.mistat.rus.xiaomi.com
 DOMAIN,data.mistat.xiaomi.com
+DOMAIN,datk.anythinktech.com
 DOMAIN,dc.sigmob.cn
 DOMAIN,dcads.sina.com.cn
 DOMAIN,dd.iask.cn
@@ -1794,6 +1796,7 @@ DOMAIN,ws.ksmobile.net
 DOMAIN,ws.sj.qq.com
 DOMAIN,wtradv.market.xiaomi.com
 DOMAIN,wup.imtt.qq.com
+DOMAIN,wwads.cn
 DOMAIN,www-analytics.ripe.net
 DOMAIN,www.clarity.ms
 DOMAIN,www.googleadservices.com
