@@ -1,5 +1,5 @@
 # NAME: ADRULES
-# TOTAL: 9996
+# TOTAL: 9997
 
 DOMAIN,1010pic.com
 DOMAIN,118.89.204.198
@@ -569,6 +569,7 @@ DOMAIN,click.mz.simba.taobao.com
 DOMAIN,click.oneplus.cn
 DOMAIN,click.qianqian.com
 DOMAIN,click.uve.mobile.sina.cn
+DOMAIN,client.app.coc.10086.cn
 DOMAIN,clkservice.mail.youdao.com
 DOMAIN,clkservice2.dict.youdao.com
 DOMAIN,clog.miguvideo.com
