@@ -1,5 +1,5 @@
 # NAME: ADS_AWAVENUE
-# TOTAL: 745
+# TOTAL: 746
 
 DOMAIN,1010pic.com
 DOMAIN,1500020991.vodplayer.wxamedia.com
@@ -81,6 +81,7 @@ DOMAIN,ads.service.kugou.com
 DOMAIN,ads.tiktok.com
 DOMAIN,ads.v3mh.com
 DOMAIN,ads.youtube.com
+DOMAIN,ads.zhinengxiyifang.cn
 DOMAIN,ads3-normal-hl.zijieapi.com
 DOMAIN,ads3-normal-lf.zijieapi.com
 DOMAIN,ads3-normal-lq.zijieapi.com
@@ -189,6 +190,7 @@ DOMAIN,api.jietuhb.com
 DOMAIN,api.kingdata.ksyun.com
 DOMAIN,api.statsig.com
 DOMAIN,api.touch-moblie.com
+DOMAIN,api.yfanads.com
 DOMAIN,api5-normal-quic-lf.ixigua.com
 DOMAIN,apiyd.my91app.com
 DOMAIN,apks.webxiaobai.top
@@ -251,7 +253,6 @@ DOMAIN,cj.qidian.com
 DOMAIN,ck.ads.oppomobile.com
 DOMAIN,click.googleanalytics.com
 DOMAIN,click.oneplus.cn
-DOMAIN,client.app.coc.10086.cn
 DOMAIN,clog.miguvideo.com
 DOMAIN,cn-api.anythinktech.com
 DOMAIN,cnlogs.umeng.com
