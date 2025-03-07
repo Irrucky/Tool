@@ -1,5 +1,5 @@
 # NAME: ADRULES
-# TOTAL: 9997
+# TOTAL: 9998
 
 DOMAIN,1010pic.com
 DOMAIN,118.89.204.198
@@ -207,6 +207,7 @@ DOMAIN,ads.weilitoutiao.net
 DOMAIN,ads.yahoo.com
 DOMAIN,ads.yahoo.de
 DOMAIN,ads.youtube.com
+DOMAIN,ads.zhinengxiyifang.cn
 DOMAIN,ads2.msn.com
 DOMAIN,ads3-normal-hl.zijieapi.com
 DOMAIN,ads3-normal-lf.zijieapi.com
@@ -430,6 +431,7 @@ DOMAIN,api.toponadss.com
 DOMAIN,api.touch-moblie.com
 DOMAIN,api.verify.mob.com
 DOMAIN,api.waptest.taobao.com
+DOMAIN,api.yfanads.com
 DOMAIN,api.zuihuimai.com
 DOMAIN,api5-normal-quic-lf.ixigua.com
 DOMAIN,apicdn.viglink.com
@@ -569,7 +571,6 @@ DOMAIN,click.mz.simba.taobao.com
 DOMAIN,click.oneplus.cn
 DOMAIN,click.qianqian.com
 DOMAIN,click.uve.mobile.sina.cn
-DOMAIN,client.app.coc.10086.cn
 DOMAIN,clkservice.mail.youdao.com
 DOMAIN,clkservice2.dict.youdao.com
 DOMAIN,clog.miguvideo.com
