@@ -176,6 +176,7 @@ DOMAIN-SUFFIX,64wiki.com
 DOMAIN-SUFFIX,66.ca
 DOMAIN-SUFFIX,666kb.com
 DOMAIN-SUFFIX,666pool.cn
+DOMAIN-SUFFIX,69shuba.cx
 DOMAIN-SUFFIX,6do.news
 DOMAIN-SUFFIX,6do.world
 DOMAIN-SUFFIX,6park.com
@@ -4278,7 +4279,6 @@ DOMAIN-SUFFIX,manyvoices.news
 DOMAIN-SUFFIX,mapblast.com
 DOMAIN-SUFFIX,maplew.com
 DOMAIN-SUFFIX,mappoint.com
-DOMAIN-SUFFIX,maps.googleapis.com
 DOMAIN-SUFFIX,marc.info
 DOMAIN-SUFFIX,marguerite.su
 DOMAIN-SUFFIX,martau.com
@@ -5509,6 +5509,7 @@ DOMAIN-SUFFIX,politicalchina.org
 DOMAIN-SUFFIX,politicalconsultation.org
 DOMAIN-SUFFIX,politiscales.net
 DOMAIN-SUFFIX,poloniex.com
+DOMAIN-SUFFIX,polymarket.com
 DOMAIN-SUFFIX,polymer-project.org
 DOMAIN-SUFFIX,polymerhk.com
 DOMAIN-SUFFIX,polymerproject.org
@@ -6919,7 +6920,6 @@ DOMAIN-SUFFIX,trafficmanager.cn
 DOMAIN-SUFFIX,trafficmanager.net
 DOMAIN-SUFFIX,trans.wenweipo.com
 DOMAIN-SUFFIX,translate.goog
-DOMAIN-SUFFIX,translate.googleapis.com
 DOMAIN-SUFFIX,translatetheweb.com
 DOMAIN-SUFFIX,transparency.org
 DOMAIN-SUFFIX,treemall.com.tw
