@@ -1,5 +1,5 @@
 # NAME: ADRULES
-# TOTAL: 9998
+# TOTAL: 9997
 
 DOMAIN,1010pic.com
 DOMAIN,118.89.204.198
@@ -1607,7 +1607,6 @@ DOMAIN,tel.fe01.hh.xiaomi.com
 DOMAIN,telemetry.appex.bing.com
 DOMAIN,tempest.services.disqus.com
 DOMAIN,tencent-dtv.m.cn.miaozhen.com
-DOMAIN,terms-drcn.platform.dbankcloud.cn
 DOMAIN,test.ad.xiaomi.com
 DOMAIN,test.api.xlmc.sandai.net
 DOMAIN,test.e.ad.xiaomi.com
