@@ -1,5 +1,5 @@
 # NAME: GFW
-# TOTAL: 8403
+# TOTAL: 8402
 
 DOMAIN,api.mixpanel.com
 DOMAIN,audio4-ak-spotify-com.akamaized.net
@@ -2289,7 +2289,6 @@ DOMAIN-SUFFIX,farwestchina.com
 DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,fast.wistia.com
 DOMAIN-SUFFIX,fastestvpn.com
-DOMAIN-SUFFIX,fastgpt.run
 DOMAIN-SUFFIX,fastlane.ci
 DOMAIN-SUFFIX,fastlane.tools
 DOMAIN-SUFFIX,fastpic.ru
