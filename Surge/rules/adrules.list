@@ -1,5 +1,5 @@
 # NAME: ADRULES
-# TOTAL: 9999
+# TOTAL: 10000
 
 DOMAIN,1010pic.com
 DOMAIN,118.89.204.198
@@ -33,7 +33,6 @@ DOMAIN,ackee.tangly1024.com
 DOMAIN,act.commercial.shouji.360.cn
 DOMAIN,activeqq.3g.qq.com
 DOMAIN,ad-analysis.pconline.com.cn
-DOMAIN,ad-cache.dopool.com
 DOMAIN,ad-cdn.qingting.fm
 DOMAIN,ad-cmp.hismarttv.com
 DOMAIN,ad-cn.jovcloud.com
@@ -86,7 +85,6 @@ DOMAIN,ad.toutiao.com
 DOMAIN,ad.v3mh.com
 DOMAIN,ad.wappalyzer.com
 DOMAIN,ad.winrar.com.cn
-DOMAIN,ad.xelements.cn
 DOMAIN,ad.xiaomi.com
 DOMAIN,ad.ximalaya.com
 DOMAIN,ad.xy2013.cn
@@ -182,14 +180,12 @@ DOMAIN,ads.exoclick.com
 DOMAIN,ads.finance.yahoo.com
 DOMAIN,ads.flurry.com
 DOMAIN,ads.google.cn
-DOMAIN,ads.heytapmobi.com
 DOMAIN,ads.huan.tv
 DOMAIN,ads.huantest.com
 DOMAIN,ads.icloseli.cn
 DOMAIN,ads.linkedin.com
 DOMAIN,ads.mojicdn.com
 DOMAIN,ads.music.126.net
-DOMAIN,ads.oppomobile.com
 DOMAIN,ads.pinger.com
 DOMAIN,ads.pinterest.com
 DOMAIN,ads.play.cbsi.video
@@ -290,7 +286,6 @@ DOMAIN,adver.qq.com
 DOMAIN,advert.mafengwo.cn
 DOMAIN,advertise.baicizhan.com
 DOMAIN,advertise.baicizhan.org
-DOMAIN,advertiseonbing.azureedge.net
 DOMAIN,advertising-api-eu.amazon.com
 DOMAIN,advertising-api-fe.amazon.com
 DOMAIN,advertising-api.amazon.com
@@ -331,7 +326,6 @@ DOMAIN,adx.yiche.com
 DOMAIN,adx.yixin.im
 DOMAIN,adxapi.readgps.com
 DOMAIN,adxlog-adnet.vivo.com.cn
-DOMAIN,adxlog-adnet.vivo.com.cn.dsa.dnsv1.com.cn
 DOMAIN,adxlog.vivo.com.cn
 DOMAIN,adxserver.ad.cmvideo.cn
 DOMAIN,ae.bdstatic.com
@@ -356,12 +350,10 @@ DOMAIN,als.baidu.com
 DOMAIN,amap-aos-info-nogw.amap.com
 DOMAIN,amdc.m.youku.com
 DOMAIN,amdcopen.m.taobao.com
-DOMAIN,amdcopen.m.umeng.com
 DOMAIN,amos.alicdn.com
 DOMAIN,an.facebook.com
 DOMAIN,analysis.yozocloud.cn
 DOMAIN,analytics-api.samsunghealthcn.com
-DOMAIN,analytics.126.net
 DOMAIN,analytics.google.com
 DOMAIN,analytics.infomaniak.com
 DOMAIN,analytics.msn.com
@@ -379,6 +371,7 @@ DOMAIN,analytics.workos.com
 DOMAIN,analytics3.starschina.com
 DOMAIN,analyticsengine.s3.amazonaws.com
 DOMAIN,analyze.lemurbrowser.com
+DOMAIN,android.bugly.qq.com
 DOMAIN,andrqd.play.aiseet.atianqi.com
 DOMAIN,ap.dongqiudi.com
 DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
@@ -438,7 +431,6 @@ DOMAIN,api5-normal-quic-lf.ixigua.com
 DOMAIN,apicdn.viglink.com
 DOMAIN,apiv4-iyes.youku.com
 DOMAIN,apiyd.my91app.com
-DOMAIN,apks.webxiaobai.top
 DOMAIN,app-ad.variflight.com
 DOMAIN,app-measurement.com
 DOMAIN,app.migc.xiaomi.com
@@ -468,7 +460,6 @@ DOMAIN,audid-api.taobao.com
 DOMAIN,audid.umeng.com
 DOMAIN,awsusor0-cdn.fds-ssl.api.xiaomi.com
 DOMAIN,ax.admobile.top
-DOMAIN,azr.footprintdns.com
 DOMAIN,b-gtc.getui.net
 DOMAIN,b.smartvideo.youku.com
 DOMAIN,b1-data.ads.heytapmobi.com
@@ -552,6 +543,7 @@ DOMAIN,cdn.aiclk.com
 DOMAIN,cdn.cr-relay.com
 DOMAIN,cdn.fds-ssl.api.xiaomi.com
 DOMAIN,cdn.getkoala.com
+DOMAIN,cdn.hpplay.com.cn
 DOMAIN,cdn.pocoiq.cn
 DOMAIN,cdn.ynuf.aliapp.org
 DOMAIN,ce3e75d5.jpush.cn
@@ -592,6 +584,7 @@ DOMAIN,commdata.v.qq.com
 DOMAIN,comments.gazo.space
 DOMAIN,commercial.shouji.360.cn
 DOMAIN,conf.funshion.com
+DOMAIN,conf.hpplay.cn
 DOMAIN,config-junion.jpush.cn
 DOMAIN,config-p2p-other.vcloud.ks-live.com
 DOMAIN,config.chsmarttv.com
@@ -773,6 +766,7 @@ DOMAIN,fxgate.baidu.com
 DOMAIN,g-adnet.hiaiabc.com
 DOMAIN,g-staic.ganjingworld.com
 DOMAIN,g.163.com
+DOMAIN,g.dtv.cn.miaozhen.com
 DOMAIN,g.koowo.com
 DOMAIN,g.ousns.net
 DOMAIN,g.tbcdn.cn
@@ -839,6 +833,7 @@ DOMAIN,grs.dbankcloud.com
 DOMAIN,grs.dbankcloud.eu
 DOMAIN,grs.hicloud.com
 DOMAIN,grs.platform.dbankcloud.ru
+DOMAIN,gslb.hpplay.cn
 DOMAIN,gtms01.alicdn.com
 DOMAIN,gtms02.alicdn.com
 DOMAIN,gtms03.alicdn.com
@@ -850,6 +845,7 @@ DOMAIN,gvod.aiseejapp.atianqi.com
 DOMAIN,h-adashx.ut.taobao.com
 DOMAIN,h.msn.com
 DOMAIN,h.trace.qq.com
+DOMAIN,h5.hpplay.com.cn
 DOMAIN,haitaoad.nosdn.127.net
 DOMAIN,hanlanad.com
 DOMAIN,hbftgh.ibjkqnhjwd.xyz
@@ -872,8 +868,9 @@ DOMAIN,hnrtg.iujkegbpo.xyz
 DOMAIN,hot.browser.miui.com
 DOMAIN,hot.m.shouji.360tpcdn.com
 DOMAIN,hotchat-im.iqiyi.com
+DOMAIN,hotupgrade.hpplay.cn
 DOMAIN,houyi.kkmh.com
-DOMAIN,hpplay.cn
+DOMAIN,hpplay.cdn.cibn.cc
 DOMAIN,ht.youporn.com
 DOMAIN,httpdns-api.aliyuncs.com
 DOMAIN,httpdns-browser.platform.dbankcloud.cn
@@ -961,10 +958,12 @@ DOMAIN,imag86.pubmatic.com
 DOMAIN,image-ad.sm.cn
 DOMAIN,image.box.xiaomi.com
 DOMAIN,image.cdn.mvideo.xiaomi.com
+DOMAIN,image.hpplay.cn
 DOMAIN,imageplus.baidu.com
 DOMAIN,images.ctfassets.net
 DOMAIN,images.outbrainimg.com
 DOMAIN,images.pinduoduo.com
+DOMAIN,imdns.hpplay.cn
 DOMAIN,ime.api.xiaomi.com
 DOMAIN,img-c.heytapimage.com
 DOMAIN,img-x.jd.com
@@ -976,7 +975,6 @@ DOMAIN,imgad0.pconline.com.cn
 DOMAIN,imgadpai.thepaper.cn
 DOMAIN,impservice.dictapp.youdao.com
 DOMAIN,impservice.youdao.com
-DOMAIN,imtmp.net
 DOMAIN,in.treasuredata.com
 DOMAIN,info.analysis.kp.sec.miui.com
 DOMAIN,info.sec.miui.com
@@ -1466,6 +1464,7 @@ DOMAIN,sdk.verification.jiguang.cn
 DOMAIN,sdkaction.biz.weibo.com
 DOMAIN,sdkapp.mobile.sina.cn
 DOMAIN,sdkapp.uve.weibo.com
+DOMAIN,sdkauth.hpplay.cn
 DOMAIN,sdkclick.biz.weibo.com
 DOMAIN,sdkclick.mobile.sina.cn
 DOMAIN,sdkconf.avlyun.com
@@ -1509,6 +1508,7 @@ DOMAIN,simple.cloudsmith.com
 DOMAIN,sin3-ib.adnxs.com
 DOMAIN,sis-ipv6.jpush.cn
 DOMAIN,skdisplay.jd.com
+DOMAIN,sl.hpplay.cn
 DOMAIN,slb-p2p.vcloud.ks-live.com
 DOMAIN,slog.sina.cn
 DOMAIN,slog.sina.com.cn
@@ -1553,7 +1553,6 @@ DOMAIN,static.game.xiaomi.com
 DOMAIN,static.m.sjzhushou.com
 DOMAIN,static.mibi.xiaomi.com
 DOMAIN,static.vuevideo.net
-DOMAIN,static.wxqcloud.qq.com.cn
 DOMAIN,staticadm.leju.sina.com.cn
 DOMAIN,statics.woozooo.com
 DOMAIN,statis.api.3g.youku.com
@@ -1684,6 +1683,7 @@ DOMAIN,ttnet-doh.feishu.cn
 DOMAIN,tui.taobao.com
 DOMAIN,tunion-api.m.taobao.com
 DOMAIN,tv.app.migc.xiaomi.com
+DOMAIN,tvapp.hpplay.cn
 DOMAIN,tvupgrade.yunos.com
 DOMAIN,tvuser-ch.cedock.com
 DOMAIN,tw13b093.sandai.net
@@ -1754,6 +1754,7 @@ DOMAIN,video.market.xiaomi.com
 DOMAIN,video.xiaomi.com
 DOMAIN,videoads-cloud.rovio.com
 DOMAIN,vip.bz.mgtv.com
+DOMAIN,vipauth.hpplay.cn
 DOMAIN,virusinfo-cloudscan-cn.heytapmobi.com
 DOMAIN,vkcdnservice.appspot.com
 DOMAIN,vlive.qqvideo.tc.qq.com
