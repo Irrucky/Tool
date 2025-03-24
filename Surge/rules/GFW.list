@@ -1,5 +1,5 @@
 # NAME: GFW
-# TOTAL: 8404
+# TOTAL: 8405
 
 DOMAIN,api.mixpanel.com
 DOMAIN,audio4-ak-spotify-com.akamaized.net
@@ -1565,6 +1565,7 @@ DOMAIN-SUFFIX,cofacts.tw
 DOMAIN-SUFFIX,coin2co.in
 DOMAIN-SUFFIX,coinbase.com
 DOMAIN-SUFFIX,coinbene.com
+DOMAIN-SUFFIX,coincarp.com
 DOMAIN-SUFFIX,coinegg.com
 DOMAIN-SUFFIX,coinex.com
 DOMAIN-SUFFIX,coingecko.com
@@ -2090,7 +2091,6 @@ DOMAIN-SUFFIX,empfil.com
 DOMAIN-SUFFIX,emule-ed2k.com
 DOMAIN-SUFFIX,emulefans.com
 DOMAIN-SUFFIX,emuparadise.me
-DOMAIN-SUFFIX,en.favotter.net
 DOMAIN-SUFFIX,en.hao123.com
 DOMAIN-SUFFIX,enanyang.my
 DOMAIN-SUFFIX,encrypt.me
@@ -2265,6 +2265,7 @@ DOMAIN-SUFFIX,fanbox.cc
 DOMAIN-SUFFIX,fandom.com
 DOMAIN-SUFFIX,fangbinxing.com
 DOMAIN-SUFFIX,fangeming.com
+DOMAIN-SUFFIX,fangeming.comffvpn.com
 DOMAIN-SUFFIX,fangeqiang.com
 DOMAIN-SUFFIX,fanglizhi.info
 DOMAIN-SUFFIX,fangmincn.org
@@ -2288,7 +2289,6 @@ DOMAIN-SUFFIX,faqserv.com
 DOMAIN-SUFFIX,fartit.com
 DOMAIN-SUFFIX,farwestchina.com
 DOMAIN-SUFFIX,fast.com
-DOMAIN-SUFFIX,fast.wistia.com
 DOMAIN-SUFFIX,fastestvpn.com
 DOMAIN-SUFFIX,fastlane.ci
 DOMAIN-SUFFIX,fastlane.tools
@@ -2650,6 +2650,7 @@ DOMAIN-SUFFIX,geekerhome.com
 DOMAIN-SUFFIX,geekheart.info
 DOMAIN-SUFFIX,gekikame.com
 DOMAIN-SUFFIX,gelbooru.com
+DOMAIN-SUFFIX,gemini.com
 DOMAIN-SUFFIX,generated.photos
 DOMAIN-SUFFIX,genius.com
 DOMAIN-SUFFIX,geocities.co.jp
@@ -5179,6 +5180,7 @@ DOMAIN-SUFFIX,on.cc
 DOMAIN-SUFFIX,on.here
 DOMAIN-SUFFIX,on2.com
 DOMAIN-SUFFIX,onapp.com
+DOMAIN-SUFFIX,one.one.one.one
 DOMAIN-SUFFIX,oneclient.sfx.ms
 DOMAIN-SUFFIX,onecollector.cloudapp.aria
 DOMAIN-SUFFIX,onedrive.co
@@ -7318,7 +7320,6 @@ DOMAIN-SUFFIX,video.aol.ca
 DOMAIN-SUFFIX,video.aol.co.uk
 DOMAIN-SUFFIX,video.aol.com
 DOMAIN-SUFFIX,video.ap.org
-DOMAIN-SUFFIX,video.fdbox.com
 DOMAIN-SUFFIX,video.foxbusiness.com
 DOMAIN-SUFFIX,video.google.com
 DOMAIN-SUFFIX,videobam.com
