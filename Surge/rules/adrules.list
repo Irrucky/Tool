@@ -1,5 +1,5 @@
 # NAME: ADRULES
-# TOTAL: 9937
+# TOTAL: 9938
 
 DOMAIN,1010pic.com
 DOMAIN,118.89.204.198
@@ -456,6 +456,7 @@ DOMAIN,b.smartvideo.youku.com
 DOMAIN,b1-data.ads.heytapmobi.com
 DOMAIN,babel-statistics-android.d.meituan.net
 DOMAIN,bad.third-party.site
+DOMAIN,badjs.weixinbridge.com
 DOMAIN,baichuan-sdk.alicdn.com
 DOMAIN,baichuan-sdk.taobao.com
 DOMAIN,bbs.game.xiaomi.com
@@ -522,7 +523,6 @@ DOMAIN,ccc.sys.intl.xiaomi.com
 DOMAIN,ccc.sys.miui.com
 DOMAIN,ccs.umeng.com
 DOMAIN,cctv.adsunion.com
-DOMAIN,cdn-ad.wtzw.com
 DOMAIN,cdn-ads.oss-cn-shanghai.aliyuncs.com
 DOMAIN,cdn-api-verify.dutils.com
 DOMAIN,cdn-new-ad.wtzw.com
@@ -854,6 +854,7 @@ DOMAIN,hot.m.shouji.360tpcdn.com
 DOMAIN,hotchat-im.iqiyi.com
 DOMAIN,hotupgrade.hpplay.cn
 DOMAIN,houyi.kkmh.com
+DOMAIN,hpplay.cdn.cibn.cc
 DOMAIN,ht.youporn.com
 DOMAIN,httpdns-api.aliyuncs.com
 DOMAIN,httpdns-browser.platform.dbankcloud.cn
