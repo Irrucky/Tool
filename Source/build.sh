@@ -35,9 +35,9 @@ curl -L -o Tool-repo/QuantumultX/Script/resourse-parser.js "https://raw.githubus
     echo ""
     curl -L "https://raw.githubusercontent.com/Cats-Team/AdRules/main/adrules.list"
     echo ""
-    curl -L "https://raw.githubusercontent.com/Repcz/Tool/refs/heads/X/Surge/Rules/Ads_SukkaW.list"
-    echo ""
-    curl -L "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-surge.txt"
+    curl -L "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Rules/Ads_SukkaW.list"
+    #echo ""
+    #curl -L "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-surge.txt"
 } >> Tool-repo/Surge/rules/Reject.list
 
 # GFW.list
