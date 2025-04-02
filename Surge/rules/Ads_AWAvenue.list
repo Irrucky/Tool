@@ -113,7 +113,6 @@ DOMAIN,adstudio.spotify.com
 DOMAIN,adtago.s3.amazonaws.com
 DOMAIN,adtech.yahooinc.com
 DOMAIN,adtrack.quark.cn
-DOMAIN,adv.fjtv.net
 DOMAIN,adv.sec.intl.miui.com
 DOMAIN,adv.sec.miui.com
 DOMAIN,advertising-api-eu.amazon.com
@@ -175,6 +174,7 @@ DOMAIN,api.e.kuaishou.com
 DOMAIN,api.htp.hubcloud.com.cn
 DOMAIN,api.hzsanjiaomao.com
 DOMAIN,api.installer.xiaomi.com
+DOMAIN,api.jietuhb.com
 DOMAIN,api.kingdata.ksyun.com
 DOMAIN,api.statsig.com
 DOMAIN,api.touch-moblie.com
@@ -225,6 +225,7 @@ DOMAIN,cbjs.baidu.com
 DOMAIN,ccc-x.jd.com
 DOMAIN,ccs.umeng.com
 DOMAIN,cctv.adsunion.com
+DOMAIN,cdn-ad.wtzw.com
 DOMAIN,cdn-ads.oss-cn-shanghai.aliyuncs.com
 DOMAIN,cdn-plugin-sync-upgrade-juui.hismarttv.com
 DOMAIN,cdn.aiclk.com
@@ -459,7 +460,6 @@ DOMAIN,nmetrics.samsung.com
 DOMAIN,notes-analytics-events.apple.com
 DOMAIN,nsclick.baidu.com
 DOMAIN,o2o.api.xiaomi.com
-DOMAIN,oauth-login-drcn.platform.dbankcloud.com
 DOMAIN,offerwall.yandex.net
 DOMAIN,omgmta.play.aiseet.atianqi.com
 DOMAIN,open.e.kuaishou.cn
