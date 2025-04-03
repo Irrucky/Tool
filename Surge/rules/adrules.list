@@ -273,7 +273,6 @@ DOMAIN,adv.app.qq.com
 DOMAIN,adv.bandi.so
 DOMAIN,adv.ccb.com
 DOMAIN,adv.ettoday.net
-DOMAIN,adv.fjtv.net
 DOMAIN,adv.sec.intl.miui.com
 DOMAIN,adv.sec.miui.com
 DOMAIN,adver.qq.com
@@ -404,6 +403,7 @@ DOMAIN,api.hybrid.xiaomi.com
 DOMAIN,api.hzsanjiaomao.com
 DOMAIN,api.installer.xiaomi.com
 DOMAIN,api.iterable.com
+DOMAIN,api.jietuhb.com
 DOMAIN,api.jr.mi.com
 DOMAIN,api.kingdata.ksyun.com
 DOMAIN,api.mobrtb.com
@@ -523,6 +523,7 @@ DOMAIN,ccc.sys.intl.xiaomi.com
 DOMAIN,ccc.sys.miui.com
 DOMAIN,ccs.umeng.com
 DOMAIN,cctv.adsunion.com
+DOMAIN,cdn-ad.wtzw.com
 DOMAIN,cdn-ads.oss-cn-shanghai.aliyuncs.com
 DOMAIN,cdn-api-verify.dutils.com
 DOMAIN,cdn-new-ad.wtzw.com
@@ -1214,7 +1215,6 @@ DOMAIN,o.clarity.ms
 DOMAIN,o0e.ru
 DOMAIN,o2o.api.xiaomi.com
 DOMAIN,o33249.ingest.sentry.io
-DOMAIN,oauth-login-drcn.platform.dbankcloud.com
 DOMAIN,oct.pocoiq.cn
 DOMAIN,offerwall.yandex.net
 DOMAIN,offnavi.map.baidu.com
