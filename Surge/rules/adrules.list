@@ -1,7 +1,6 @@
 # NAME: ADRULES
-# TOTAL: 8615
+# TOTAL: 8627
 
-DOMAIN,1010pic.com
 DOMAIN,118.89.204.198
 DOMAIN,1500020991.vodplayer.wxamedia.com
 DOMAIN,1500026601.vodplayer.wxamedia.com
@@ -115,6 +114,8 @@ DOMAIN,adcolony.com
 DOMAIN,adcore.lenovomm.com
 DOMAIN,addata.jd.com
 DOMAIN,adeng.hpplay.cn
+DOMAIN,adexp.chinaliftoff.io
+DOMAIN,adexp.liftoff.io
 DOMAIN,adexpo.tencentmusic.com
 DOMAIN,adextra.51wnl-cq.com
 DOMAIN,adfile.wifi8.com
@@ -273,6 +274,7 @@ DOMAIN,adv.app.qq.com
 DOMAIN,adv.bandi.so
 DOMAIN,adv.ccb.com
 DOMAIN,adv.ettoday.net
+DOMAIN,adv.fjtv.net
 DOMAIN,adv.sec.intl.miui.com
 DOMAIN,adv.sec.miui.com
 DOMAIN,adver.qq.com
@@ -531,10 +533,12 @@ DOMAIN,cdn-plugin-sync-upgrade-juui.hismarttv.com
 DOMAIN,cdn.1rtb.com
 DOMAIN,cdn.adapi.fotoable.com
 DOMAIN,cdn.aiclk.com
+DOMAIN,cdn.chinaliftoff-creatives.io
 DOMAIN,cdn.cr-relay.com
 DOMAIN,cdn.fds-ssl.api.xiaomi.com
 DOMAIN,cdn.getkoala.com
 DOMAIN,cdn.hpplay.com.cn
+DOMAIN,cdn.liftoff-creatives.io
 DOMAIN,cdn.pocoiq.cn
 DOMAIN,cdn.ynuf.aliapp.org
 DOMAIN,ce3e75d5.jpush.cn
@@ -549,12 +553,15 @@ DOMAIN,ck.ads.oppomobile.com
 DOMAIN,click-bes.baidu.com
 DOMAIN,click.aliyun.com
 DOMAIN,click.bes.baidu.com
+DOMAIN,click.chinaliftoff.io
 DOMAIN,click.googleanalytics.com
 DOMAIN,click.hunantv.com
+DOMAIN,click.liftoff.io
 DOMAIN,click.mz.simba.taobao.com
 DOMAIN,click.oneplus.cn
 DOMAIN,click.qianqian.com
 DOMAIN,click.uve.mobile.sina.cn
+DOMAIN,click4.chinaliftoff.io
 DOMAIN,clkservice.mail.youdao.com
 DOMAIN,clkservice2.dict.youdao.com
 DOMAIN,clog.miguvideo.com
@@ -593,7 +600,6 @@ DOMAIN,cps.360buy.com
 DOMAIN,crash.163.com
 DOMAIN,crash2.zhihu.com
 DOMAIN,crashlytics.163.com
-DOMAIN,crashlytics.com
 DOMAIN,crashlyticsreports-pa.googleapis.com
 DOMAIN,cre-dp.sina.cn
 DOMAIN,cre.dp.sina.cn
@@ -751,6 +757,7 @@ DOMAIN,free-aos-cdn-image.amap.com
 DOMAIN,front-perf.imoim.net
 DOMAIN,frontend-perf-service.e.kuaishou.com
 DOMAIN,frontier-aweme-hl.snssdk.com
+DOMAIN,fundingchoicesmessages.google.com
 DOMAIN,furiousfar.com
 DOMAIN,fxgate.baidu.com
 DOMAIN,g.163.com
@@ -952,6 +959,8 @@ DOMAIN,img.auction-ads.wpscdn.cn
 DOMAIN,imgad0.pcauto.com.cn
 DOMAIN,imgad0.pconline.com.cn
 DOMAIN,imgadpai.thepaper.cn
+DOMAIN,impression-asia.chinaliftoff.io
+DOMAIN,impression-asia.liftoff.io
 DOMAIN,impservice.dictapp.youdao.com
 DOMAIN,impservice.youdao.com
 DOMAIN,in.treasuredata.com
@@ -1021,6 +1030,7 @@ DOMAIN,lf-ad-ies.bytecdn.cn
 DOMAIN,lf3-ad-union-sdk.pglstatp-toutiao.com
 DOMAIN,lf6-ad-union-sdk.pglstatp-toutiao.com
 DOMAIN,lgtvsdp.com
+DOMAIN,lh3.googleadsserving.cn
 DOMAIN,links.services.disqus.com
 DOMAIN,litchiads.com
 DOMAIN,liveats-vod.video.ptqy.gitv.tv
@@ -1218,6 +1228,7 @@ DOMAIN,o33249.ingest.sentry.io
 DOMAIN,oct.pocoiq.cn
 DOMAIN,offerwall.yandex.net
 DOMAIN,offnavi.map.baidu.com
+DOMAIN,ogads-pa.clients6.google.com
 DOMAIN,omgmta.play.aiseet.atianqi.com
 DOMAIN,onrt-stsdk.vivo.com.cn
 DOMAIN,open.e.kuaishou.cn
@@ -1596,6 +1607,8 @@ DOMAIN,top.h.qhimg.com
 DOMAIN,tosv.boe.byted.org
 DOMAIN,tosv.byted.org
 DOMAIN,tower.ubixioe.com
+DOMAIN,tpc.googlesyndication-cn.com
+DOMAIN,tpc.googlesyndication.com
 DOMAIN,tpns.qq.com
 DOMAIN,tpstelemetry.tencent.com
 DOMAIN,trace.qq.com
@@ -1624,7 +1637,6 @@ DOMAIN,trends.mobile.sina.cn
 DOMAIN,trial.api.huangye.miui.com
 DOMAIN,trk1.17admob.com
 DOMAIN,tsis.jpush.cn
-DOMAIN,tsvrv.com
 DOMAIN,ttnet-dig.feishu.cn
 DOMAIN,ttnet-doh.feishu.cn
 DOMAIN,tui.taobao.com
