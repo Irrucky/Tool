@@ -1,7 +1,8 @@
 # NAME: ADS_AWAVENUE
-# TOTAL: 701
+# TOTAL: 725
 
 DOMAIN,1500020991.vodplayer.wxamedia.com
+DOMAIN,1500022744.vodplayer.wxamedia.com
 DOMAIN,1500026601.vodplayer.wxamedia.com
 DOMAIN,8le8le.com
 DOMAIN,a0.app.xiaomi.com
@@ -139,6 +140,7 @@ DOMAIN,aegis.qq.com
 DOMAIN,afs.googlesyndication.com
 DOMAIN,aiseet.aa.atianqi.com
 DOMAIN,ali-ad.a.yximgs.com
+DOMAIN,ali-p2p-v2.pull.yximgs.com
 DOMAIN,alog.umeng.com
 DOMAIN,alogus.umeng.com
 DOMAIN,als.baidu.com
@@ -282,6 +284,8 @@ DOMAIN,dsp-x.jd.com
 DOMAIN,dsp.fcbox.com
 DOMAIN,dualstack-logs.amap.com
 DOMAIN,dxp.baidu.com
+DOMAIN,dyp2p-ali.douyucdn.cn
+DOMAIN,dyp2p-hw.douyucdn.cn
 DOMAIN,e.ad.xiaomi.com
 DOMAIN,eclick.baidu.com
 DOMAIN,edge.ads.twitch.tv
@@ -331,6 +335,7 @@ DOMAIN,hanlanad.com
 DOMAIN,heads-ak.spotify.com.edgesuite.net
 DOMAIN,heads-fa.spotify.com
 DOMAIN,hexagon-analytics.com
+DOMAIN,hismarttv.com
 DOMAIN,hm.baidu.com
 DOMAIN,hmma.baidu.com
 DOMAIN,hotupgrade.hpplay.cn
@@ -341,6 +346,8 @@ DOMAIN,httpdns.ocloud.oppomobile.com
 DOMAIN,hugelog.fcbox.com
 DOMAIN,huichuan.sm.cn
 DOMAIN,hw-ot-ad.a.yximgs.com
+DOMAIN,hw-p2p-pull.video-voip.com
+DOMAIN,hw-p2p.pull.yximgs.com
 DOMAIN,hwpub-s01-drcn.cloud.dbankcloud.cn
 DOMAIN,hybrid.miniapp.taobao.com
 DOMAIN,hye.comp.360os.com
@@ -380,6 +387,8 @@ DOMAIN,kepler.jd.com
 DOMAIN,kl.67it.com
 DOMAIN,klink.volceapplog.com
 DOMAIN,knicks.jd.com
+DOMAIN,ks-p2p-v2.pull.yximgs.com
+DOMAIN,ks-p2p.pull.yximgs.com
 DOMAIN,ks.ferlytc.com
 DOMAIN,ks.pull.yximgs.com
 DOMAIN,launcher.smart-tv.cn
@@ -393,6 +402,7 @@ DOMAIN,livemonitor.huan.tv
 DOMAIN,livep.l.aiseet.atianqi.com
 DOMAIN,lives.l.aiseet.atianqi.com
 DOMAIN,lives.l.ott.video.qq.com
+DOMAIN,livewebbs2pcdn.msstatic.com
 DOMAIN,lm10111.jtrincc.cn
 DOMAIN,log-api-mn.huxiu.com
 DOMAIN,log-api.huxiu.com
@@ -446,6 +456,7 @@ DOMAIN,metrika.yandex.ru
 DOMAIN,mi.gdt.qq.com
 DOMAIN,miav-cse.avlyun.com
 DOMAIN,mime.baidu.com
+DOMAIN,mini-prog-drm.vodplayvideo.net
 DOMAIN,mission-pub.smart-tv.cn
 DOMAIN,miui-fxcse.avlyun.com
 DOMAIN,mmgame.qpic.cn
@@ -490,12 +501,17 @@ DOMAIN,p.l.qq.com
 DOMAIN,p.s.360.cn
 DOMAIN,p1-lm.adkwai.com
 DOMAIN,p2-lm.adkwai.com
+DOMAIN,p2pchunk-table.douyucdn.cn
+DOMAIN,p2plive-ali.douyucdn.cn
+DOMAIN,p2pupdate.gamedl.qq.com
+DOMAIN,p2pupgrade.gamedl.qq.com
 DOMAIN,p3-be-pack-sign.pglstatp-toutiao.com
 DOMAIN,p3-lm.adkwai.com
 DOMAIN,p3-tt.byteimg.com
 DOMAIN,p6-be-pack-sign.pglstatp-toutiao.com
 DOMAIN,pagead2.googleadservices.com
 DOMAIN,pagead2.googlesyndication.com
+DOMAIN,pcdn.xmcdn.com
 DOMAIN,pcm-img.zhls.qq.com
 DOMAIN,pgdt.gtimg.cn
 DOMAIN,pgdt.ugdtimg.com
@@ -510,6 +526,7 @@ DOMAIN,pos.baidu.com
 DOMAIN,proxy.advp.apple.com
 DOMAIN,public.gdtimg.com
 DOMAIN,q.i.gdt.qq.com
+DOMAIN,qn-cdnfile1pcdn.msstatic.com
 DOMAIN,qqdata.ab.qq.com
 DOMAIN,qzs.gdtimg.com
 DOMAIN,recommend-drcn.hms.dbankcloud.cn
@@ -529,6 +546,7 @@ DOMAIN,saad.ms.zhangyue.net
 DOMAIN,samsung-com.112.2o7.net
 DOMAIN,samsungads.com
 DOMAIN,sanme2.taisantech.com
+DOMAIN,saxysec.com
 DOMAIN,scdown.qq.com
 DOMAIN,scs.openspeech.cn
 DOMAIN,sdk-ab-config.qquanquan.com
@@ -577,6 +595,7 @@ DOMAIN,stats.qiumibao.com
 DOMAIN,stats.wp.com
 DOMAIN,statsigapi.net
 DOMAIN,stg-data.ads.heytapmobi.com
+DOMAIN,stun.hitv.com
 DOMAIN,success.ctobsnssdk.com
 DOMAIN,syh-imp.cdnjtzy.com
 DOMAIN,szbdyd.com
@@ -610,6 +629,7 @@ DOMAIN,tnc3-bjlgy.bytedance.com
 DOMAIN,tnc3-bjlgy.toutiaoapi.com
 DOMAIN,tnc3-bjlgy.zijieapi.com
 DOMAIN,toblog.ctobsnssdk.com
+DOMAIN,tpa-hcdn.iqiyi.com
 DOMAIN,tpc.googlesyndication-cn.com
 DOMAIN,tpc.googlesyndication.com
 DOMAIN,trace.qq.com
@@ -625,12 +645,15 @@ DOMAIN,tvapp.hpplay.cn
 DOMAIN,tvuser-ch.cedock.com
 DOMAIN,tx-ad.a.yximgs.com
 DOMAIN,tx-kmpaudio.pull.yximgs.com
+DOMAIN,tx-p2p-pull.live-voip.com
+DOMAIN,tx-p2p-v2.pull.yximgs.com
 DOMAIN,tytx.m.cn.miaozhen.com
 DOMAIN,tz.sec.xiaomi.com
 DOMAIN,uapi.ads.heytapmobi.com
 DOMAIN,udc.yahoo.com
 DOMAIN,udcm.yahoo.com
 DOMAIN,uedas.qidian.com
+DOMAIN,uhabo.com
 DOMAIN,ulog-sdk.gifshow.com
 DOMAIN,ulogjs.gifshow.com
 DOMAIN,ulogs.umeng.com
@@ -696,6 +719,7 @@ DOMAIN,xiaomi-dtv.m.cn.miaozhen.com
 DOMAIN,xlog.jd.com
 DOMAIN,xlviiirdr.com
 DOMAIN,xlviirdr.com
+DOMAIN,xycdn.com
 DOMAIN,yk-ssp.ad.youku.com
 DOMAIN,ykad-data.youku.com
 DOMAIN,ykad-gateway.youku.com
