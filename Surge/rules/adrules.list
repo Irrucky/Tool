@@ -1,8 +1,9 @@
 # NAME: ADRULES
-# TOTAL: 8556
+# TOTAL: 8580
 
 DOMAIN,118.89.204.198
 DOMAIN,1500020991.vodplayer.wxamedia.com
+DOMAIN,1500022744.vodplayer.wxamedia.com
 DOMAIN,1500026601.vodplayer.wxamedia.com
 DOMAIN,2016.sina.cn
 DOMAIN,25e87c0802f91cf8cgg.6uzxtlv.cn
@@ -338,6 +339,7 @@ DOMAIN,aiseet.aa.atianqi.com
 DOMAIN,al-log.d.meituan.net
 DOMAIN,al.autohome.com.cn
 DOMAIN,ali-ad.a.yximgs.com
+DOMAIN,ali-p2p-v2.pull.yximgs.com
 DOMAIN,ali-stats.jpush.cn
 DOMAIN,alog.umeng.com
 DOMAIN,alogus.umeng.com
@@ -700,6 +702,8 @@ DOMAIN,dualstack-logs.amap.com
 DOMAIN,duclick.baidu.com
 DOMAIN,dw-collect.ksosoft.com
 DOMAIN,dxp.baidu.com
+DOMAIN,dyp2p-ali.douyucdn.cn
+DOMAIN,dyp2p-hw.douyucdn.cn
 DOMAIN,e-u1.ubixioe.com
 DOMAIN,e.ad.xiaomi.com
 DOMAIN,e.jparking.cn
@@ -852,6 +856,7 @@ DOMAIN,healthdata.hicloud.com
 DOMAIN,hexagon-analytics.com
 DOMAIN,heyue.xiaomi.com
 DOMAIN,hhbypdoecp.com
+DOMAIN,hismarttv.com
 DOMAIN,hk.mibi.xiaomi.com
 DOMAIN,hm.baidu.com
 DOMAIN,hm.xiaomi.com
@@ -913,6 +918,8 @@ DOMAIN,huodong.ios.shouji.360.cn
 DOMAIN,huodong.xiaomi.com
 DOMAIN,huosai.xiaomi.com
 DOMAIN,hw-ot-ad.a.yximgs.com
+DOMAIN,hw-p2p-pull.video-voip.com
+DOMAIN,hw-p2p.pull.yximgs.com
 DOMAIN,hwad.zuimeitianqi.com
 DOMAIN,hwpub-s01-drcn.cloud.dbankcloud.cn
 DOMAIN,hybrid.miniapp.taobao.com
@@ -1017,6 +1024,8 @@ DOMAIN,kmef.ikjwmfeds.xyz
 DOMAIN,kmopoer.jkbuymjhp.xyz
 DOMAIN,knicks.jd.com
 DOMAIN,koprtgh.omhoa.com
+DOMAIN,ks-p2p-v2.pull.yximgs.com
+DOMAIN,ks-p2p.pull.yximgs.com
 DOMAIN,ks.ferlytc.com
 DOMAIN,ks.pull.yximgs.com
 DOMAIN,kuaikan.netmon.360safe.com
@@ -1039,6 +1048,7 @@ DOMAIN,livep.l.aiseet.atianqi.com
 DOMAIN,livep.l.t002.ottcn.com
 DOMAIN,lives.l.aiseet.atianqi.com
 DOMAIN,lives.l.ott.video.qq.com
+DOMAIN,livewebbs2pcdn.msstatic.com
 DOMAIN,lm10111.jtrincc.cn
 DOMAIN,location.ximalaya.com
 DOMAIN,lofter.httpdns.c.163.com
@@ -1147,6 +1157,7 @@ DOMAIN,migcreport.g.mi.com
 DOMAIN,migrate.driveapi.micloud.xiaomi.net
 DOMAIN,mime.baidu.com
 DOMAIN,minfo.wps.cn
+DOMAIN,mini-prog-drm.vodplayvideo.net
 DOMAIN,miniapp-ad.cdn.bcebos.com
 DOMAIN,minisite.letv.com
 DOMAIN,mis.g.mi.com
@@ -1261,6 +1272,10 @@ DOMAIN,p.l.qq.com
 DOMAIN,p.s.360.cn
 DOMAIN,p1-lm.adkwai.com
 DOMAIN,p2-lm.adkwai.com
+DOMAIN,p2pchunk-table.douyucdn.cn
+DOMAIN,p2plive-ali.douyucdn.cn
+DOMAIN,p2pupdate.gamedl.qq.com
+DOMAIN,p2pupgrade.gamedl.qq.com
 DOMAIN,p3-be-pack-sign.pglstatp-toutiao.com
 DOMAIN,p3-lm.adkwai.com
 DOMAIN,p3-tt.byteimg.com
@@ -1270,6 +1285,7 @@ DOMAIN,pagead2.googlesyndication.com
 DOMAIN,pageviewp.icbc.com.cn
 DOMAIN,pangolin.snssdk.com
 DOMAIN,partwithner.com
+DOMAIN,pcdn.xmcdn.com
 DOMAIN,pcm-img.zhls.qq.com
 DOMAIN,pdc.micloud.xiaomi.net
 DOMAIN,pfp.sina.com.cn
@@ -1316,6 +1332,7 @@ DOMAIN,q.i.gdt.qq.com
 DOMAIN,qa.viglink.com
 DOMAIN,qgnu18wo.sina.cn
 DOMAIN,qiye.xiaomi.com
+DOMAIN,qn-cdnfile1pcdn.msstatic.com
 DOMAIN,qqdata.ab.qq.com
 DOMAIN,qring-tms.qq.com
 DOMAIN,qsb.browser.miui.com
@@ -1404,6 +1421,7 @@ DOMAIN,sax9.sina.com.cn
 DOMAIN,saxn.sina.com.cn
 DOMAIN,saxs.sina.cn
 DOMAIN,saxs.sina.com.cn
+DOMAIN,saxysec.com
 DOMAIN,scdown.qq.com
 DOMAIN,scene.vip.xunlei.com
 DOMAIN,scs.openspeech.cn
@@ -1529,6 +1547,7 @@ DOMAIN,stg-data.ads.heytapmobi.com
 DOMAIN,stnetsdk.appstore.vivo.com.cn
 DOMAIN,stnetsdk.vivo.com.cn
 DOMAIN,strip.taobaocdn.com
+DOMAIN,stun.hitv.com
 DOMAIN,stun.smartgslb.com
 DOMAIN,success.ctobsnssdk.com
 DOMAIN,sugar.zhihu.com
@@ -1607,6 +1626,7 @@ DOMAIN,top.h.qhimg.com
 DOMAIN,tosv.boe.byted.org
 DOMAIN,tosv.byted.org
 DOMAIN,tower.ubixioe.com
+DOMAIN,tpa-hcdn.iqiyi.com
 DOMAIN,tpc.googlesyndication-cn.com
 DOMAIN,tpc.googlesyndication.com
 DOMAIN,tpns.qq.com
@@ -1650,6 +1670,8 @@ DOMAIN,tx-ad.a.yximgs.com
 DOMAIN,tx-cfg-u1.ubixioe.com
 DOMAIN,tx-data-u1.ubixioe.com
 DOMAIN,tx-kmpaudio.pull.yximgs.com
+DOMAIN,tx-p2p-pull.live-voip.com
+DOMAIN,tx-p2p-v2.pull.yximgs.com
 DOMAIN,tyh.taobao.com
 DOMAIN,tysdk.95516.com
 DOMAIN,tytx.m.cn.miaozhen.com
@@ -1660,6 +1682,7 @@ DOMAIN,ucc.umeng.com
 DOMAIN,udc.yahoo.com
 DOMAIN,udcm.yahoo.com
 DOMAIN,uedas.qidian.com
+DOMAIN,uhabo.com
 DOMAIN,ulog-sdk.gifshow.com
 DOMAIN,ulog.imap.baidu.com
 DOMAIN,ulogjs.gifshow.com
@@ -1784,6 +1807,7 @@ DOMAIN,xlog.jd.com
 DOMAIN,xlviiirdr.com
 DOMAIN,xlviirdr.com
 DOMAIN,xshare.api.xiaomi.com
+DOMAIN,xycdn.com
 DOMAIN,yiliao.hupan.com
 DOMAIN,yk-ssp.ad.youku.com
 DOMAIN,ykad-data.youku.com
