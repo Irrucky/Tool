@@ -1,5 +1,5 @@
 # NAME: ADRULES
-# TOTAL: 8627
+# TOTAL: 8625
 
 DOMAIN,118.89.204.198
 DOMAIN,1500020991.vodplayer.wxamedia.com
@@ -5685,7 +5685,6 @@ DOMAIN-SUFFIX,mb.gulongbbs.com
 DOMAIN-SUFFIX,mbai.cn
 DOMAIN-SUFFIX,mbdlog.iqiyi.com
 DOMAIN-SUFFIX,mc.weather.com.cn
-DOMAIN-SUFFIX,mc.yandex.ru
 DOMAIN-SUFFIX,mc7clurd09pla4nrtat7ion.com
 DOMAIN-SUFFIX,mcdn.bilivideo.cn
 DOMAIN-SUFFIX,mcgi.v.qq.com
@@ -8293,7 +8292,6 @@ DOMAIN-SUFFIX,y7ts.icu
 DOMAIN-SUFFIX,yaaumqa.top
 DOMAIN-SUFFIX,yadro.ru
 DOMAIN-SUFFIX,yads.yahoo.co.jp
-DOMAIN-SUFFIX,yandex.ru
 DOMAIN-SUFFIX,yandexadexchange.net
 DOMAIN-SUFFIX,yandui.com
 DOMAIN-SUFFIX,yasorlbeu.com
