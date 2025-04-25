@@ -1,5 +1,5 @@
 # NAME: ADRULES
-# TOTAL: 8625
+# TOTAL: 8634
 
 DOMAIN,118.89.204.198
 DOMAIN,1500020991.vodplayer.wxamedia.com
@@ -330,6 +330,7 @@ DOMAIN,aff-partners-io.ck-cdn.com
 DOMAIN,aff.partners.io
 DOMAIN,afp.alicdn.com
 DOMAIN,afs.googlesyndication.com
+DOMAIN,agn.aty.sohu.com
 DOMAIN,agoodm.m.taobao.com
 DOMAIN,aicleaner.shouji.360.cn
 DOMAIN,aiseet.aa.atianqi.com
@@ -1175,6 +1176,7 @@ DOMAIN,mobad.ijinshan.com
 DOMAIN,mobads-logs.baidu.com
 DOMAIN,mobads-pre-config.cdn.bcebos.com
 DOMAIN,mobads.baidu.com
+DOMAIN,mobaliyun.res.mgtv.com
 DOMAIN,mobile.da.mgtv.com
 DOMAIN,mobilead.kuwo.cn
 DOMAIN,mobileads.msn.com
@@ -1376,6 +1378,7 @@ DOMAIN,roi.soulapp.cn
 DOMAIN,route-stats.d.meituan.net
 DOMAIN,rp.hpplay.cn
 DOMAIN,rprain.bz.mgtv.com
+DOMAIN,rps.hpplay.cn
 DOMAIN,rpt.gdt.qq.com
 DOMAIN,rpt.hpplay.cn
 DOMAIN,rt.funshion.net
@@ -1392,6 +1395,7 @@ DOMAIN,s8t.teads.tv
 DOMAIN,sa.api.intl.miui.com
 DOMAIN,sa.holopin.io
 DOMAIN,saad.ms.zhangyue.net
+DOMAIN,saas.hpplay.cn
 DOMAIN,safebrowsing.g.applimg.com
 DOMAIN,safebrowsing.googleapis-cn.com
 DOMAIN,safebrowsing.googleapis.com
@@ -1549,6 +1553,7 @@ DOMAIN,success.ctobsnssdk.com
 DOMAIN,sugar.zhihu.com
 DOMAIN,susapi.dev.surepush.cn
 DOMAIN,susapi.lenovomm.com
+DOMAIN,sv-video.play.aiseet.atianqi.com
 DOMAIN,sv.adintl.cn
 DOMAIN,sv.map.baidu.com
 DOMAIN,swallowcrockerybless.com
@@ -1721,8 +1726,11 @@ DOMAIN,v2.gdt.qq.com
 DOMAIN,v2mi.gdt.qq.com
 DOMAIN,v3-ad.video.yximgs.com
 DOMAIN,v3.gdt.qq.com
+DOMAIN,vali-ugc.cp31.ott.cibntv.net
 DOMAIN,vcardsdkservice.vivo.com.cn
+DOMAIN,vd6.l.qq.com
 DOMAIN,vdapprecv.app.cntvwb.cn
+DOMAIN,vi.l.qq.com
 DOMAIN,video-ad.sm.cn
 DOMAIN,video-ads-module.ad-tech.nbcuni.com
 DOMAIN,video-dsp.pddpic.com
@@ -1732,6 +1740,7 @@ DOMAIN,video.xiaomi.com
 DOMAIN,videoads-cloud.rovio.com
 DOMAIN,vip.bz.mgtv.com
 DOMAIN,vipauth.hpplay.cn
+DOMAIN,vipgslb.hpplay.cn
 DOMAIN,virusinfo-cloudscan-cn.heytapmobi.com
 DOMAIN,vkcdnservice.appspot.com
 DOMAIN,vlive.qqvideo.tc.qq.com
