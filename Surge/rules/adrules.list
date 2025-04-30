@@ -1,5 +1,5 @@
 # NAME: ADRULES
-# TOTAL: 8667
+# TOTAL: 8670
 
 DOMAIN,118.89.204.198
 DOMAIN,1500020991.vodplayer.wxamedia.com
@@ -62,6 +62,7 @@ DOMAIN,ad.dev.360.cn
 DOMAIN,ad.doubleclick.net
 DOMAIN,ad.flurry.com
 DOMAIN,ad.gamebox.360.cn
+DOMAIN,ad.gameley.com
 DOMAIN,ad.hpplay.cn
 DOMAIN,ad.huajiao.com
 DOMAIN,ad.hzyoka.com
@@ -158,6 +159,7 @@ DOMAIN,ads-cloud.rovio.com
 DOMAIN,ads-d.viber.com
 DOMAIN,ads-img-qc.xhscdn.com
 DOMAIN,ads-marketing-vivofs.vivo.com.cn
+DOMAIN,ads-sdk-api.ranfenghd.com
 DOMAIN,ads-sg.tiktok.com
 DOMAIN,ads-shopping.shouqianba.com
 DOMAIN,ads-video-al.xhscdn.com
@@ -317,6 +319,7 @@ DOMAIN,adx.hupu.com
 DOMAIN,adx.kuaiyiad.com
 DOMAIN,adx.op.cp18.ott.cibntv.net
 DOMAIN,adx.sogaha.cn
+DOMAIN,adx.tuia.cn
 DOMAIN,adx.yiche.com
 DOMAIN,adx.yixin.im
 DOMAIN,adxapi.readgps.com
@@ -1218,6 +1221,7 @@ DOMAIN,ms.applovin.com
 DOMAIN,ms.applvn.com
 DOMAIN,ms4.applovin.com
 DOMAIN,ms4.applvn.com
+DOMAIN,msdk.voiceads.cn
 DOMAIN,msg.shouji.360.cn
 DOMAIN,msg.video.qiyi.com
 DOMAIN,msg.youku.com
@@ -1811,7 +1815,6 @@ DOMAIN,wildcard.moatads.com.edgekey.net
 DOMAIN,win.gdt.qq.com
 DOMAIN,wmlog.meituan.com
 DOMAIN,wn.pos.baidu.com
-DOMAIN,wn.x.jd.com
 DOMAIN,ws-keyboard.shouji.sogou.com
 DOMAIN,ws.ksmobile.net
 DOMAIN,ws.sj.qq.com
