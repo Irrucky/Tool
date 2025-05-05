@@ -1,5 +1,5 @@
 # NAME: GFW
-# TOTAL: 8703
+# TOTAL: 8706
 
 DOMAIN,api.mixpanel.com
 DOMAIN,audio4-ak-spotify-com.akamaized.net
@@ -3358,6 +3358,7 @@ DOMAIN-SUFFIX,hakkatv.org.tw
 DOMAIN-SUFFIX,halktv.com.tr
 DOMAIN-SUFFIX,handcraftedsoftware.org
 DOMAIN-SUFFIX,hanime.tv
+DOMAIN-SUFFIX,hanime1.me
 DOMAIN-SUFFIX,hanminzu.org
 DOMAIN-SUFFIX,hanunyi.com
 DOMAIN-SUFFIX,hao.news
@@ -4742,6 +4743,7 @@ DOMAIN-SUFFIX,mirrorbooks.com
 DOMAIN-SUFFIX,mirrormedia.com.tw
 DOMAIN-SUFFIX,mirrormedia.mg
 DOMAIN-SUFFIX,missav.com
+DOMAIN-SUFFIX,missav.ws
 DOMAIN-SUFFIX,mist.vip
 DOMAIN-SUFFIX,mit.edu
 DOMAIN-SUFFIX,mitao.com.tw
@@ -5406,7 +5408,6 @@ DOMAIN-SUFFIX,ooklaserver.net
 DOMAIN-SUFFIX,oopsforum.com
 DOMAIN-SUFFIX,open.com.hk
 DOMAIN-SUFFIX,open.firstory.me
-DOMAIN-SUFFIX,open.spotify.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openallweb.com
 DOMAIN-SUFFIX,openbase.com
@@ -6348,6 +6349,7 @@ DOMAIN-SUFFIX,simplecd.me
 DOMAIN-SUFFIX,simplecd.org
 DOMAIN-SUFFIX,simpleproductivityblog.com
 DOMAIN-SUFFIX,simpleswap.io
+DOMAIN-SUFFIX,simplex.chat
 DOMAIN-SUFFIX,sina.com.hk
 DOMAIN-SUFFIX,sina.com.tw
 DOMAIN-SUFFIX,sinchew.com.my
@@ -8551,6 +8553,7 @@ DOMAIN-SUFFIX,zlibcdn2.com
 DOMAIN-SUFFIX,zmedia.com.tw
 DOMAIN-SUFFIX,zmw.cn
 DOMAIN-SUFFIX,zodgame.us
+DOMAIN-SUFFIX,zodgame.xyz
 DOMAIN-SUFFIX,zoho.com
 DOMAIN-SUFFIX,zomobo.net
 DOMAIN-SUFFIX,zonaeuropa.com
