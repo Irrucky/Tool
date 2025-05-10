@@ -1,5 +1,5 @@
 # NAME: ADRULES
-# TOTAL: 8676
+# TOTAL: 8680
 
 DOMAIN,118.89.204.198
 DOMAIN,1500020991.vodplayer.wxamedia.com
@@ -157,6 +157,7 @@ DOMAIN,ads-api.tiktok.com
 DOMAIN,ads-api.twitter.com
 DOMAIN,ads-cloud.rovio.com
 DOMAIN,ads-d.viber.com
+DOMAIN,ads-img-al.xhscdn.com
 DOMAIN,ads-img-qc.xhscdn.com
 DOMAIN,ads-marketing-vivofs.vivo.com.cn
 DOMAIN,ads-sdk-api.ranfenghd.com
@@ -188,6 +189,7 @@ DOMAIN,ads.pinger.com
 DOMAIN,ads.pinterest.com
 DOMAIN,ads.play.cbsi.video
 DOMAIN,ads.pubmatic.com
+DOMAIN,ads.raidrive.com
 DOMAIN,ads.reembed.com
 DOMAIN,ads.servebom.com
 DOMAIN,ads.service.kugou.com
@@ -1309,6 +1311,7 @@ DOMAIN,pagead2.googlesyndication.com
 DOMAIN,pageviewp.icbc.com.cn
 DOMAIN,pangolin.snssdk.com
 DOMAIN,partwithner.com
+DOMAIN,pay.sboot.cn
 DOMAIN,pcdn.xmcdn.com
 DOMAIN,pcm-img.zhls.qq.com
 DOMAIN,pdc.micloud.xiaomi.net
@@ -1815,6 +1818,7 @@ DOMAIN,wildcard.moatads.com.edgekey.net
 DOMAIN,win.gdt.qq.com
 DOMAIN,wmlog.meituan.com
 DOMAIN,wn.pos.baidu.com
+DOMAIN,wn.x.jd.com
 DOMAIN,ws-keyboard.shouji.sogou.com
 DOMAIN,ws.ksmobile.net
 DOMAIN,ws.sj.qq.com
