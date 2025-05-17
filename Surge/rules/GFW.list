@@ -1,5 +1,5 @@
 # NAME: GFW
-# TOTAL: 8667
+# TOTAL: 8646
 
 DOMAIN,api.mixpanel.com
 DOMAIN,audio4-ak-spotify-com.akamaized.net
@@ -41,7 +41,6 @@ DOMAIN-KEYWORD,porn
 DOMAIN-KEYWORD,recaptcha
 DOMAIN-KEYWORD,sci-hub
 DOMAIN-KEYWORD,skydrive
-DOMAIN-KEYWORD,speedtest
 DOMAIN-KEYWORD,spotify
 DOMAIN-KEYWORD,telegram
 DOMAIN-KEYWORD,ttvnw
@@ -1551,7 +1550,6 @@ DOMAIN-SUFFIX,cmegroup.com
 DOMAIN-SUFFIX,cmi.org.tw
 DOMAIN-SUFFIX,cmoinc.org
 DOMAIN-SUFFIX,cmp.hku.hk
-DOMAIN-SUFFIX,cms-twdigitalassets.com
 DOMAIN-SUFFIX,cms.gov
 DOMAIN-SUFFIX,cmu.edu
 DOMAIN-SUFFIX,cmule.com
@@ -5371,7 +5369,6 @@ DOMAIN-SUFFIX,onmypc.org
 DOMAIN-SUFFIX,onmypc.us
 DOMAIN-SUFFIX,onthehunt.com
 DOMAIN-SUFFIX,ontrac.com
-DOMAIN-SUFFIX,ooklaserver.net
 DOMAIN-SUFFIX,oopsforum.com
 DOMAIN-SUFFIX,open.com.hk
 DOMAIN-SUFFIX,open.firstory.me
@@ -6489,8 +6486,6 @@ DOMAIN-SUFFIX,spatial.io
 DOMAIN-SUFFIX,spb.com
 DOMAIN-SUFFIX,speakerdeck.com
 DOMAIN-SUFFIX,specxinzl.jigsy.com
-DOMAIN-SUFFIX,speed.cloudflare.com
-DOMAIN-SUFFIX,speed.dler.io
 DOMAIN-SUFFIX,speedcat.me
 DOMAIN-SUFFIX,speedify.com
 DOMAIN-SUFFIX,spem.at
@@ -7309,21 +7304,15 @@ DOMAIN-SUFFIX,twitonmsn.com
 DOMAIN-SUFFIX,twitpic.com
 DOMAIN-SUFFIX,twitstat.com
 DOMAIN-SUFFIX,twittbot.net
-DOMAIN-SUFFIX,twitter.biz
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,twitter.jp
 DOMAIN-SUFFIX,twitter4j.org
-DOMAIN-SUFFIX,twittercommunity.com
 DOMAIN-SUFFIX,twittercounter.com
 DOMAIN-SUFFIX,twitterfeed.com
-DOMAIN-SUFFIX,twitterflightschool.com
 DOMAIN-SUFFIX,twittergadget.com
-DOMAIN-SUFFIX,twitterinc.com
 DOMAIN-SUFFIX,twitterkr.com
 DOMAIN-SUFFIX,twittermail.com
-DOMAIN-SUFFIX,twitteroauth.com
 DOMAIN-SUFFIX,twitterrific.com
-DOMAIN-SUFFIX,twitterstat.us
 DOMAIN-SUFFIX,twittertim.es
 DOMAIN-SUFFIX,twitthat.com
 DOMAIN-SUFFIX,twitturk.com
@@ -7339,12 +7328,9 @@ DOMAIN-SUFFIX,twstar.net
 DOMAIN-SUFFIX,twt.tl
 DOMAIN-SUFFIX,twtkr.com
 DOMAIN-SUFFIX,twtr2src.ogaoga.org
-DOMAIN-SUFFIX,twtrdns.net
 DOMAIN-SUFFIX,twtrland.com
 DOMAIN-SUFFIX,twttr.com
-DOMAIN-SUFFIX,twttr.net
 DOMAIN-SUFFIX,twurl.nl
-DOMAIN-SUFFIX,twvid.com
 DOMAIN-SUFFIX,twyac.org
 DOMAIN-SUFFIX,tx.me
 DOMAIN-SUFFIX,txcloud.net
@@ -8598,10 +8584,6 @@ IP-CIDR,180.163.151.34/32,no-resolve
 IP-CIDR,184.173.128.0/17,no-resolve
 IP-CIDR,185.60.216.0/22,no-resolve
 IP-CIDR,185.76.151.0/24,no-resolve
-IP-CIDR,192.133.76.0/22,no-resolve
-IP-CIDR,199.59.148.0/22,no-resolve
-IP-CIDR,199.96.56.0/21,no-resolve
-IP-CIDR,202.160.128.0/22,no-resolve
 IP-CIDR,203.104.128.0/19,no-resolve
 IP-CIDR,203.208.39.0/24,no-resolve
 IP-CIDR,203.208.40.0/24,no-resolve
@@ -8610,7 +8592,6 @@ IP-CIDR,203.208.43.0/24,no-resolve
 IP-CIDR,203.208.50.0/24,no-resolve
 IP-CIDR,204.15.20.0/22,no-resolve
 IP-CIDR,208.43.122.128/27,no-resolve
-IP-CIDR,209.237.192.0/19,no-resolve
 IP-CIDR,216.73.80.0/20,no-resolve
 IP-CIDR,220.181.174.162/32,no-resolve
 IP-CIDR,220.181.174.226/32,no-resolve
@@ -8635,7 +8616,6 @@ IP-CIDR,54.93.0.0/16,no-resolve
 IP-CIDR,66.220.144.0/20,no-resolve
 IP-CIDR,69.171.224.0/19,no-resolve
 IP-CIDR,69.171.235.0/16,no-resolve
-IP-CIDR,69.195.160.0/19,no-resolve
 IP-CIDR,69.63.176.0/20,no-resolve
 IP-CIDR,74.119.76.0/22,no-resolve
 IP-CIDR,74.125.0.0/16,no-resolve
@@ -8663,7 +8643,6 @@ USER-AGENT,Google.Drive*
 USER-AGENT,Microsoft*
 USER-AGENT,OneDrive*
 USER-AGENT,OneDriveiOSApp*
-USER-AGENT,SpeedTest*
 USER-AGENT,YouTube*
 USER-AGENT,YouTubeMusic*
 USER-AGENT,com.google.ios.youtube*
