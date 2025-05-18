@@ -1,5 +1,5 @@
 # NAME: GITHUB+
-# TOTAL: 36
+# TOTAL: 30
 
 DOMAIN-KEYWORD,github
 DOMAIN-SUFFIX,atom.io
@@ -22,12 +22,6 @@ DOMAIN-SUFFIX,githubpreview.dev
 DOMAIN-SUFFIX,githubstatus.com
 DOMAIN-SUFFIX,githubuniverse.com
 DOMAIN-SUFFIX,githubusercontent.com
-DOMAIN-SUFFIX,gitlab-assets.oss-cn-hongkong.aliyuncs.com
-DOMAIN-SUFFIX,gitlab-static.net
-DOMAIN-SUFFIX,gitlab.com
-DOMAIN-SUFFIX,gitlab.net
-DOMAIN-SUFFIX,gitter-static.net
-DOMAIN-SUFFIX,gitter.im
 DOMAIN-SUFFIX,myoctocat.com
 DOMAIN-SUFFIX,npm.community
 DOMAIN-SUFFIX,npmjs.com
