@@ -1,5 +1,5 @@
 # NAME: ADRULES
-# TOTAL: 8647
+# TOTAL: 8629
 
 DOMAIN,118.89.204.198
 DOMAIN,1500020991.vodplayer.wxamedia.com
@@ -83,7 +83,6 @@ DOMAIN,ad.toutiao.com
 DOMAIN,ad.v3mh.com
 DOMAIN,ad.wappalyzer.com
 DOMAIN,ad.winrar.com.cn
-DOMAIN,ad.xiaomi.com
 DOMAIN,ad.ximalaya.com
 DOMAIN,ad.xy2013.cn
 DOMAIN,ad.yixin.im
@@ -128,7 +127,7 @@ DOMAIN,adimg.uve.weibo.com
 DOMAIN,adimg.vue.weibo.com
 DOMAIN,adjust.cn
 DOMAIN,adjust.com
-DOMAIN,adkwai.com
+DOMAIN,adks.hpplay.cn
 DOMAIN,adlaunch.moji.com
 DOMAIN,adlaunch.qingting.fm
 DOMAIN,adlink-api.huan.tv
@@ -275,7 +274,6 @@ DOMAIN,adtrack.quark.cn
 DOMAIN,adtrack.ucweb.com
 DOMAIN,adtracker.adfunlink.com
 DOMAIN,adui.tg.meitu.com
-DOMAIN,adukwai.com
 DOMAIN,adv-adlog.variflight.com
 DOMAIN,adv-ads.variflight.com
 DOMAIN,adv.app.qq.com
@@ -362,6 +360,7 @@ DOMAIN,an.facebook.com
 DOMAIN,analysis.chatglm.cn
 DOMAIN,analysis.yozocloud.cn
 DOMAIN,analytics-api.samsunghealthcn.com
+DOMAIN,analytics.adjust.cn
 DOMAIN,analytics.google.com
 DOMAIN,analytics.infomaniak.com
 DOMAIN,analytics.msn.com
@@ -460,11 +459,11 @@ DOMAIN,applvn.com
 DOMAIN,appnext-a.akamaihd.net
 DOMAIN,appnext.hs.llnwd.net
 DOMAIN,apppv.zol.com.cn
+DOMAIN,appversion.115.com
 DOMAIN,ark.letv.com
 DOMAIN,arms-retcode.aliyuncs.com
 DOMAIN,asimgs.pplive.cn
 DOMAIN,aspect-upush.umeng.com
-DOMAIN,ata-sdk-uuid-report.dreport.meituan.net
 DOMAIN,atanx2.alicdn.com
 DOMAIN,atrace.chelaile.net.cn
 DOMAIN,auction.unityads.unity3d.com
@@ -723,7 +722,6 @@ DOMAIN,dsp.simba.taobao.com
 DOMAIN,dsp.toutiao.com
 DOMAIN,dualstack-logs.amap.com
 DOMAIN,duclick.baidu.com
-DOMAIN,dutils.com
 DOMAIN,dw-collect.ksosoft.com
 DOMAIN,dxp.baidu.com
 DOMAIN,dyp2p-ali.douyucdn.cn
@@ -817,7 +815,6 @@ DOMAIN,geo2.adobe.com
 DOMAIN,geofence.sys.miui.com
 DOMAIN,getui.cn
 DOMAIN,getui.com
-DOMAIN,getui.net
 DOMAIN,ggc.cmvideo.cn
 DOMAIN,ggic03.miguvideo.com
 DOMAIN,ggmk.miguvideo.com
@@ -851,7 +848,6 @@ DOMAIN,googleads.g.doubleclick.net
 DOMAIN,googleadservices-cn.com
 DOMAIN,googleadservices.com
 DOMAIN,googletagservices-cn.com
-DOMAIN,googletagservices.com
 DOMAIN,gorgon.youdao.com
 DOMAIN,gromore.pangolin-sdk-toutiao.com
 DOMAIN,grs.dbankcloud.asia
@@ -952,7 +948,6 @@ DOMAIN,hw-p2p-pull.video-voip.com
 DOMAIN,hw-p2p.pull.yximgs.com
 DOMAIN,hwad.zuimeitianqi.com
 DOMAIN,hwpub-s01-drcn.cloud.dbankcloud.cn
-DOMAIN,hya.comp.360os.com
 DOMAIN,hybrid.miniapp.taobao.com
 DOMAIN,hydra.alibaba.com
 DOMAIN,hye.comp.360os.com
@@ -981,7 +976,6 @@ DOMAIN,iflow.uczzd.com
 DOMAIN,iflow.uczzd.net
 DOMAIN,ifs.tanx.com
 DOMAIN,igame.xiaomi.com
-DOMAIN,igexin.com
 DOMAIN,ii.gdt.qq.com
 DOMAIN,im-x.jd.com
 DOMAIN,imag8.pubmatic.com
@@ -1070,7 +1064,6 @@ DOMAIN,ks.ferlytc.com
 DOMAIN,ks.pull.yximgs.com
 DOMAIN,kuaikan.netmon.360safe.com
 DOMAIN,kuaishou.httpdns.pro
-DOMAIN,kuiniuca.com
 DOMAIN,l6urqh27.sina.cn
 DOMAIN,launcher.smart-tv.cn
 DOMAIN,launcherimg.smart-tv.cn
@@ -1183,7 +1176,6 @@ DOMAIN,mediation.adnxs.com
 DOMAIN,meihua.xiaomi.com
 DOMAIN,mepodownload.mediatek.com
 DOMAIN,metrics-picture.d.meituan.net
-DOMAIN,metrics.apple.com
 DOMAIN,metrics.brevo.com
 DOMAIN,metrics.data.hicloud.com
 DOMAIN,metrics.icloud.com
@@ -1231,7 +1223,6 @@ DOMAIN,mobilead.kuwo.cn
 DOMAIN,mobileads.msn.com
 DOMAIN,mobilelog.kugou.com
 DOMAIN,mobilelog.upqzfile.com
-DOMAIN,mobileservice.cn
 DOMAIN,mobwsa.ximalaya.com
 DOMAIN,mon.zijieapi.com
 DOMAIN,monitor-ads-test.huan.tv
@@ -1401,7 +1392,6 @@ DOMAIN,qn-cdnfile1pcdn.msstatic.com
 DOMAIN,qqdata.ab.qq.com
 DOMAIN,qring-tms.qq.com
 DOMAIN,qsb.browser.miui.com
-DOMAIN,qwapi.apple.com
 DOMAIN,qzs.gdtimg.com
 DOMAIN,qzs.qq.com
 DOMAIN,r.51wnl-cq.com
@@ -1463,10 +1453,7 @@ DOMAIN,s.jpush.cn
 DOMAIN,s.magsrv.com
 DOMAIN,s.maketheweb.io
 DOMAIN,s.orbsrv.com
-DOMAIN,s1.qq.com
-DOMAIN,s2.qq.com
 DOMAIN,s3.pfp.sina.net
-DOMAIN,s3.qq.com
 DOMAIN,s3a.pstatp.com
 DOMAIN,s8t.teads.tv
 DOMAIN,sa.api.intl.miui.com
@@ -1500,7 +1487,6 @@ DOMAIN,saxn.sina.com.cn
 DOMAIN,saxs.sina.cn
 DOMAIN,saxs.sina.com.cn
 DOMAIN,saxysec.com
-DOMAIN,scdown.qq.com
 DOMAIN,scene.vip.xunlei.com
 DOMAIN,scs.openspeech.cn
 DOMAIN,sdapprecv.app.cntvwb.cn
@@ -1786,7 +1772,6 @@ DOMAIN,umengacs.m.taobao.com
 DOMAIN,umengjmacs.m.taobao.com
 DOMAIN,umini.shujupie.com
 DOMAIN,umm.html.zone
-DOMAIN,umsns.com
 DOMAIN,union-httpdns.gslb.yy.com
 DOMAIN,union.baidu.cn
 DOMAIN,union.baidu.com
@@ -1905,8 +1890,6 @@ DOMAIN,xiaomi-dtv.m.cn.miaozhen.com
 DOMAIN,xiaomiir.yaokantv.com
 DOMAIN,xiazai.xiaomi.com
 DOMAIN,xitong.xiaomi.com
-DOMAIN,xlivrdr.com
-DOMAIN,xlmzc.cnjp-exp.com
 DOMAIN,xlog.jd.com
 DOMAIN,xlviiirdr.com
 DOMAIN,xlviirdr.com
@@ -1920,7 +1903,6 @@ DOMAIN,ykrec.youku.com
 DOMAIN,ylog.hiido.com
 DOMAIN,ynuf.aliapp.org
 DOMAIN,youku-acs.m.taobao.com
-DOMAIN,youxi.kugou.com
 DOMAIN,yt-adp.nosdn.127.net
 DOMAIN,yt-adp.ws.126.net
 DOMAIN,ytx-file.110route.cn
