@@ -1,5 +1,5 @@
 # NAME: GFW
-# TOTAL: 8674
+# TOTAL: 8675
 
 DOMAIN,api.mixpanel.com
 DOMAIN,audio4-ak-spotify-com.akamaized.net
@@ -8628,6 +8628,7 @@ IP-CIDR,31.13.64.0/18,no-resolve
 IP-CIDR,34.224.0.0/12,no-resolve
 IP-CIDR,35.186.224.47/32,no-resolve
 IP-CIDR,45.64.40.0/22,no-resolve
+IP-CIDR,5.28.192.0/18,no-resolve
 IP-CIDR,50.22.198.204/30,no-resolve
 IP-CIDR,52.200.0.0/13,no-resolve
 IP-CIDR,52.58.0.0/15,no-resolve
