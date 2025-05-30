@@ -1,10 +1,11 @@
 # NAME: ADS_AWAVENUE
-# TOTAL: 821
+# TOTAL: 825
 
 DOMAIN,1500020991.vodplayer.wxamedia.com
 DOMAIN,1500022744.vodplayer.wxamedia.com
 DOMAIN,1500026601.vodplayer.wxamedia.com
 DOMAIN,8le8le.com
+DOMAIN,8rn1y79f02-1.algolianet.com
 DOMAIN,a0.app.xiaomi.com
 DOMAIN,aaid.umeng.com
 DOMAIN,abtest-ch.snssdk.com
@@ -13,6 +14,8 @@ DOMAIN,ad-scope.com
 DOMAIN,ad-scope.com.cn
 DOMAIN,ad-sdk-config.youdao.com
 DOMAIN,ad-sdk.huxiu.com
+DOMAIN,ad-splash-tracking.hktvmall.com
+DOMAIN,ad-splash.hktvmall.com
 DOMAIN,ad.12306.cn
 DOMAIN,ad.51wnl.com
 DOMAIN,ad.api.3g.youku.com
@@ -435,6 +438,7 @@ DOMAIN,lf3-ad-union-sdk.pglstatp-toutiao.com
 DOMAIN,lf6-ad-union-sdk.pglstatp-toutiao.com
 DOMAIN,lh3.googleadsserving.cn
 DOMAIN,litchiads.com
+DOMAIN,live-api.hktvmall.com
 DOMAIN,liveats-vod.video.ptqy.gitv.tv
 DOMAIN,livemonitor.huan.tv
 DOMAIN,livep.l.aiseet.atianqi.com
