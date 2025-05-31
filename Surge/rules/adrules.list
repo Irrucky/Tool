@@ -1,5 +1,5 @@
 # NAME: ADRULES
-# TOTAL: 8629
+# TOTAL: 8633
 
 DOMAIN,118.89.204.198
 DOMAIN,1500020991.vodplayer.wxamedia.com
@@ -9,6 +9,7 @@ DOMAIN,2016.sina.cn
 DOMAIN,25e87c0802f91cf8cgg.6uzxtlv.cn
 DOMAIN,4lke.online
 DOMAIN,8le8le.com
+DOMAIN,8rn1y79f02-1.algolianet.com
 DOMAIN,9ibbcq2d.sina.cn
 DOMAIN,a.adtng.com
 DOMAIN,a.alimama.cn
@@ -43,6 +44,8 @@ DOMAIN,ad-scope.com
 DOMAIN,ad-scope.com.cn
 DOMAIN,ad-sdk-config.youdao.com
 DOMAIN,ad-sdk.huxiu.com
+DOMAIN,ad-splash-tracking.hktvmall.com
+DOMAIN,ad-splash.hktvmall.com
 DOMAIN,ad-stat.ksosoft.com
 DOMAIN,ad.12306.cn
 DOMAIN,ad.21cn.com
@@ -1076,6 +1079,7 @@ DOMAIN,lgtvsdp.com
 DOMAIN,lh3.googleadsserving.cn
 DOMAIN,links.services.disqus.com
 DOMAIN,litchiads.com
+DOMAIN,live-api.hktvmall.com
 DOMAIN,liveats-vod.video.ptqy.gitv.tv
 DOMAIN,livemonitor.huan.tv
 DOMAIN,livep.l.aiseet.atianqi.com
