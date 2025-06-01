@@ -1,5 +1,5 @@
 # NAME: GFW
-# TOTAL: 8681
+# TOTAL: 8682
 
 DOMAIN,api.mixpanel.com
 DOMAIN,audio4-ak-spotify-com.akamaized.net
@@ -912,6 +912,7 @@ DOMAIN-SUFFIX,bjzc.org
 DOMAIN-SUFFIX,bl-doujinsouko.com
 DOMAIN-SUFFIX,blacked.com
 DOMAIN-SUFFIX,blacklogic.com
+DOMAIN-SUFFIX,blackmagicdesign.com
 DOMAIN-SUFFIX,blackvpn.com
 DOMAIN-SUFFIX,blazor.net
 DOMAIN-SUFFIX,blewpass.com
