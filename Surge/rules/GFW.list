@@ -1,5 +1,5 @@
 # NAME: GFW
-# TOTAL: 8685
+# TOTAL: 8686
 
 DOMAIN,api.mixpanel.com
 DOMAIN,audio4-ak-spotify-com.akamaized.net
@@ -1604,6 +1604,7 @@ DOMAIN-SUFFIX,codeskulptor.org
 DOMAIN-SUFFIX,codespot.com
 DOMAIN-SUFFIX,codethemicrobit.com
 DOMAIN-SUFFIX,cofacts.tw
+DOMAIN-SUFFIX,coffeemanga.to
 DOMAIN-SUFFIX,coin2co.in
 DOMAIN-SUFFIX,coinbase.com
 DOMAIN-SUFFIX,coinbene.com
