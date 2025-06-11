@@ -1,5 +1,5 @@
 # NAME: ADS_AWAVENUE
-# TOTAL: 825
+# TOTAL: 826
 
 DOMAIN,1500020991.vodplayer.wxamedia.com
 DOMAIN,1500022744.vodplayer.wxamedia.com
@@ -626,6 +626,7 @@ DOMAIN,sdk-ab-config.qquanquan.com
 DOMAIN,sdk-cache.video.ptqy.gitv.tv
 DOMAIN,sdk.1rtb.net
 DOMAIN,sdk.ad.smaato.net
+DOMAIN,sdk.adx.adwangmai.com
 DOMAIN,sdk.beizi.biz
 DOMAIN,sdk.cferw.com
 DOMAIN,sdk.e.qq.com
