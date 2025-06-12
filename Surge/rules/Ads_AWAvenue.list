@@ -1,5 +1,5 @@
 # NAME: ADS_AWAVENUE
-# TOTAL: 826
+# TOTAL: 825
 
 DOMAIN,1500020991.vodplayer.wxamedia.com
 DOMAIN,1500022744.vodplayer.wxamedia.com
@@ -164,7 +164,6 @@ DOMAIN,analysis.chatglm.cn
 DOMAIN,analysis.yozocloud.cn
 DOMAIN,analytics-api.samsunghealthcn.com
 DOMAIN,analytics.adjust.cn
-DOMAIN,analytics.google.com
 DOMAIN,analytics.pinterest.com
 DOMAIN,analytics.pointdrive.linkedin.com
 DOMAIN,analytics.query.yahoo.com
