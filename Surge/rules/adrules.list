@@ -1,5 +1,5 @@
 # NAME: ADRULES
-# TOTAL: 8637
+# TOTAL: 8638
 
 DOMAIN,118.89.204.198
 DOMAIN,1500020991.vodplayer.wxamedia.com
@@ -1503,6 +1503,7 @@ DOMAIN,sdk-open-phone.getui.com
 DOMAIN,sdk.1rtb.net
 DOMAIN,sdk.51.la
 DOMAIN,sdk.ad.smaato.net
+DOMAIN,sdk.adx.adwangmai.com
 DOMAIN,sdk.beizi.biz
 DOMAIN,sdk.cferw.com
 DOMAIN,sdk.e.qq.com
