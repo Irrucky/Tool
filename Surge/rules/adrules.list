@@ -1,5 +1,5 @@
 # NAME: ADRULES
-# TOTAL: 8638
+# TOTAL: 8637
 
 DOMAIN,118.89.204.198
 DOMAIN,1500020991.vodplayer.wxamedia.com
@@ -364,7 +364,6 @@ DOMAIN,analysis.chatglm.cn
 DOMAIN,analysis.yozocloud.cn
 DOMAIN,analytics-api.samsunghealthcn.com
 DOMAIN,analytics.adjust.cn
-DOMAIN,analytics.google.com
 DOMAIN,analytics.infomaniak.com
 DOMAIN,analytics.msn.com
 DOMAIN,analytics.nexon.com
