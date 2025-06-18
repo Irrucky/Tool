@@ -1,5 +1,5 @@
 # NAME: ADS_AWAVENUE
-# TOTAL: 825
+# TOTAL: 829
 
 DOMAIN,1500020991.vodplayer.wxamedia.com
 DOMAIN,1500022744.vodplayer.wxamedia.com
@@ -289,6 +289,7 @@ DOMAIN,csjplatform.com
 DOMAIN,cws-cctv.conviva.com
 DOMAIN,d.applovin.com
 DOMAIN,d.applvn.com
+DOMAIN,data-sdk-uuid-log.d.meituan.net
 DOMAIN,data.ads.oppomobile.com
 DOMAIN,data.chsmarttv.com
 DOMAIN,data.mistat.india.xiaomi.com
@@ -362,6 +363,7 @@ DOMAIN,gslb.hpplay.cn
 DOMAIN,gvideo.qpic.cn
 DOMAIN,h-adashx.ut.taobao.com
 DOMAIN,h.trace.qq.com
+DOMAIN,h5.analytics.126.net
 DOMAIN,h5.hpplay.com.cn
 DOMAIN,hanlanad.com
 DOMAIN,hc-ssp.sm.cn
@@ -464,6 +466,7 @@ DOMAIN,log.avlyun.com
 DOMAIN,log.avlyun.sec.intl.miui.com
 DOMAIN,log.byteoversea.com
 DOMAIN,log.fc.yahoo.com
+DOMAIN,log.iflytek.com
 DOMAIN,log.kuwo.cn
 DOMAIN,log.pinterest.com
 DOMAIN,log.popin.cc
@@ -648,6 +651,7 @@ DOMAIN,search5-search.ixigua.com
 DOMAIN,securemetrics.apple.com
 DOMAIN,securepubads.g.doubleclick.net
 DOMAIN,sensors-log.dongqiudi.com
+DOMAIN,sentry.music.163.com
 DOMAIN,service.changhong.upgrade2.huan.tv
 DOMAIN,service.vmos.cn
 DOMAIN,sf16-static.i18n-pglstatp.com
