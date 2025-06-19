@@ -1,5 +1,5 @@
 # NAME: ADRULES
-# TOTAL: 8641
+# TOTAL: 8645
 
 DOMAIN,118.89.204.198
 DOMAIN,1500020991.vodplayer.wxamedia.com
@@ -670,6 +670,7 @@ DOMAIN,da.toponadss.com
 DOMAIN,dagonghuzhu.com
 DOMAIN,das.mobile.youku.com
 DOMAIN,data-hoisin.coocaa.com
+DOMAIN,data-sdk-uuid-log.d.meituan.net
 DOMAIN,data.ads.oppomobile.com
 DOMAIN,data.chsmarttv.com
 DOMAIN,data.flurry.com
@@ -870,6 +871,7 @@ DOMAIN,gvod.aiseejapp.atianqi.com
 DOMAIN,h-adashx.ut.taobao.com
 DOMAIN,h.msn.com
 DOMAIN,h.trace.qq.com
+DOMAIN,h5.analytics.126.net
 DOMAIN,h5.hpplay.com.cn
 DOMAIN,haitaoad.nosdn.127.net
 DOMAIN,hanlanad.com
@@ -1112,6 +1114,7 @@ DOMAIN,log.avlyun.sec.intl.miui.com
 DOMAIN,log.b612kaji.com
 DOMAIN,log.byteoversea.com
 DOMAIN,log.fc.yahoo.com
+DOMAIN,log.iflytek.com
 DOMAIN,log.kuwo.cn
 DOMAIN,log.music.baidu.com
 DOMAIN,log.pinterest.com
@@ -1542,6 +1545,7 @@ DOMAIN,securemetrics.apple.com
 DOMAIN,securepubads.g.doubleclick.net
 DOMAIN,security.browser.miui.com
 DOMAIN,sensors-log.dongqiudi.com
+DOMAIN,sentry.music.163.com
 DOMAIN,service.changhong.upgrade2.huan.tv
 DOMAIN,service.vmos.cn
 DOMAIN,sf16-static.i18n-pglstatp.com
