@@ -1,5 +1,5 @@
 # NAME: GFW
-# TOTAL: 8590
+# TOTAL: 8591
 
 DOMAIN,api.mixpanel.com
 DOMAIN,audio4-ak-spotify-com.akamaized.net
@@ -2439,6 +2439,7 @@ DOMAIN-SUFFIX,foolsmountain.com
 DOMAIN-SUFFIX,fooooo.com
 DOMAIN-SUFFIX,footprintdns.com
 DOMAIN-SUFFIX,footwiball.com
+DOMAIN-SUFFIX,forbes.com
 DOMAIN-SUFFIX,foreignaffairs.com
 DOMAIN-SUFFIX,foreignpolicy.com
 DOMAIN-SUFFIX,form.new
