@@ -1,0 +1,85 @@
+name: Update Rules
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0,12 * * *"
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          repository: Irrucky/Tool
+          path: Tool-repo
+
+      - name: Download
+        run: |
+          curl -L https://raw.githubusercontent.com/Irrucky/Tool/main/Source/build.sh | bash
+
+      - name: Surge
+        run: |
+          cd Tool-repo/Surge/rules || exit 1
+          for file in *.list; do
+            if [ -f "$file" ]; then
+              sed -i -E '
+                s/IP-CIDR,[[:space:]]*/IP-CIDR,/g
+                s/DOMAIN-WILDCARD,[[:space:]]*/DOMAIN-WILDCARD,/g
+                s/DOMAIN,[[:space:]]*/DOMAIN,/g
+                s/IP-CIDR6,[[:space:]]*/IP-CIDR6,/g
+                s/DOMAIN-SUFFIX,[[:space:]]*/DOMAIN-SUFFIX,/g
+                s/DOMAIN-KEYWORD,[[:space:]]*/DOMAIN-KEYWORD,/g
+                s/,[[:space:]]*/,/g
+                /^[[:space:]]*[#;]/d
+                s| //.*||
+                /PROCESS-NAME|URL-REGEX|DOMAIN-WILDCARD/d
+                /404: Not Found/d
+              ' "$file"
+              cut -d, -f1-2 "$file" > tmp && mv tmp "$file"
+              awk '/^IP-/ && !/,no-resolve$/ {print $0",no-resolve"; next} {print}' "$file" > tmp && mv tmp "$file"
+              case "$file" in
+                "Ads_AWAvenue.list")
+                  sed -i -e '/DOMAIN-KEYWORD,/d' "$file"
+                  ;;
+                "Reject.list")
+                  sed -i -e 's/DOMAIN,/DOMAIN-SUFFIX,/g' \
+                         -e '/DOMAIN-SUFFIX,ad.12306.cn/d' \
+                         -e '/DOMAIN-SUFFIX,118.89.204.198/d' "$file"
+                  ;;
+              esac
+              awk '!seen[tolower($0)]++' "$file" | sort -o "$file"
+              sed -i -e '/^$/d' "$file"     
+              file_names=$(basename "$file" .list | tr '[:lower:]' '[:upper:]')
+              line_count=$(wc -l < "$file")
+              awk -v fname="$file_names" 'NR==1 {print "# NAME: " fname} {print}' "$file" > tmp && mv tmp "$file"
+              awk -v count="$line_count" 'NR==2 {print "# TOTAL: " count} {print}' "$file" > tmp && mv tmp "$file"
+              sed -i '2a\\' "$file"
+            else
+              echo "$file not found."
+            fi
+          done
+
+      - name: Push Update
+        run: |
+          cd Tool-repo
+          if [[ -n $(git status -s) ]]; then
+            git config --local user.name "actions"
+            git config --local user.email "action@github.com"
+            git add -A
+            git commit -m "$(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M:%S')"
+            git push origin HEAD
+          else
+            echo "No changes to commit."
+          fi
+
+      - name: Cleanup Workflow
+        uses: Mattraks/delete-workflow-runs@main
+        with:
+          retain_days: 0
+          keep_minimum_runs: 2
