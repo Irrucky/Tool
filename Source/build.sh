@@ -1,6 +1,6 @@
 #!/bin/bash  
 
-mkdir -p Tool-repo/{Surge/rules,QuantumultX/Script}
+mkdir -p Tool-repo/{Surge/rules,QuantumultX/Script,SingBox/RuleSet}
 
 # Ads_AWAvenue.list
 curl -L -o Tool-repo/Surge/rules/Ads_AWAvenue.list "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-Surge-RULE-SET.list"
@@ -87,3 +87,27 @@ curl -L -o Tool-repo/QuantumultX/Script/resourse-parser.js "https://raw.githubus
     echo ""
     curl -L "https://raw.githubusercontent.com/Centralmatrix3/Scripts/master/Ruleset/PornHub.list"
 } >> Tool-repo/Surge/rules/Porn+.list
+
+curl -L -o Tool-repo/SingBox/RuleSet/Reject.json "https://raw.githubusercontent.com/Irrucky/Tool/main/Surge/rules/Reject.list"
+
+curl -L -o Tool-repo/SingBox/RuleSet/Apple.json "https://github.com/Repcz/Tool/raw/X/Clash/Rules/Apple.list"
+
+curl -L -o Tool-repo/SingBox/RuleSet/AppleProxy.json "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AppleProxy/AppleProxy.list"
+
+curl -L -o Tool-repo/SingBox/RuleSet/YouTube.json "https://github.com/Repcz/Tool/raw/X/Clash/Rules/YouTube.list"
+
+curl -L -o Tool-repo/SingBox/RuleSet/Google.json "https://github.com/Repcz/Tool/raw/X/Clash/Rules/Google.list"
+
+curl -L -o Tool-repo/SingBox/RuleSet/Telegram.json "https://github.com/Repcz/Tool/raw/X/Clash/Rules/Telegram.list"
+
+curl -L -o Tool-repo/SingBox/RuleSet/Twitter.json "https://github.com/Repcz/Tool/raw/X/Clash/Rules/Twitter.list"
+
+curl -L -o Tool-repo/SingBox/RuleSet/AI.json "https://github.com/Repcz/Tool/raw/X/Clash/Rules/AI.list"
+
+curl -L -o Tool-repo/SingBox/RuleSet/GitHub.json "https://raw.githubusercontent.com/Irrucky/Tool/main/Surge/rules/GitHub+.list"
+
+curl -L -o Tool-repo/SingBox/RuleSet/Speedtest.json "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Speedtest/Speedtest.list"
+
+curl -L -o Tool-repo/SingBox/RuleSet/Porn.json "https://raw.githubusercontent.com/Irrucky/Tool/refs/heads/main/Surge/rules/Porn%2B.list"
+
+curl -L -o Tool-repo/SingBox/RuleSet/Instagram.json "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Instagram/Instagram.list"
