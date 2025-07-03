@@ -153,7 +153,7 @@ jobs:
           if [[ -n $(git status -s) ]]; then
             git config --local user.name "actions"
             git config --local user.email "action@github.com"
-            git add -A
+            git add .
             git commit -m "$(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M:%S')"
             git push origin HEAD
           else

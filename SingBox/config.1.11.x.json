@@ -46,7 +46,7 @@
       },
       {
         "rule_set": [
-          "ChinaDomain",
+          "geoip_domain",
           "Apple"
         ],
         "action": "route",
@@ -81,7 +81,7 @@
       "interrupt_exist_connections": true
     },
     {
-      "tag": "AI",
+      "tag": "ChatGPT",
       "type": "selector",
       "outbounds": [
         "Hong Kong",
@@ -109,91 +109,7 @@
       "interrupt_exist_connections": true
     },
     {
-      "tag": "Microsoft",
-      "type": "selector",
-      "outbounds": [
-        "Hong Kong",
-        "Taiwan",
-        "Japan",
-        "Korea",
-        "Singapore",
-        "United States"
-      ],
-      "default": "Hong Kong",
-      "interrupt_exist_connections": true
-    },
-    {
-      "tag": "Twitter",
-      "type": "selector",
-      "outbounds": [
-        "Hong Kong",
-        "Taiwan",
-        "Japan",
-        "Korea",
-        "Singapore",
-        "United States"
-      ],
-      "default": "Hong Kong",
-      "interrupt_exist_connections": true
-    },
-    {
       "tag": "Telegram",
-      "type": "selector",
-      "outbounds": [
-        "Hong Kong",
-        "Taiwan",
-        "Japan",
-        "Korea",
-        "Singapore",
-        "United States"
-      ],
-      "default": "Hong Kong",
-      "interrupt_exist_connections": true
-    },
-    {
-      "tag": "Emby",
-      "type": "selector",
-      "outbounds": [
-        "Hong Kong",
-        "Taiwan",
-        "Japan",
-        "Korea",
-        "Singapore",
-        "United States"
-      ],
-      "default": "Hong Kong",
-      "interrupt_exist_connections": true
-    },
-    {
-      "tag": "Game",
-      "type": "selector",
-      "outbounds": [
-        "Hong Kong",
-        "Taiwan",
-        "Japan",
-        "Korea",
-        "Singapore",
-        "United States"
-      ],
-      "default": "Hong Kong",
-      "interrupt_exist_connections": true
-    },
-    {
-      "tag": "Spotify",
-      "type": "selector",
-      "outbounds": [
-        "Hong Kong",
-        "Taiwan",
-        "Japan",
-        "Korea",
-        "Singapore",
-        "United States"
-      ],
-      "default": "Hong Kong",
-      "interrupt_exist_connections": true
-    },
-    {
-      "tag": "ProxyMedia",
       "type": "selector",
       "outbounds": [
         "Hong Kong",
@@ -227,9 +143,7 @@
       "interval": "10m",
       "tolerance": 0,
       "interrupt_exist_connections": true,
-      "outbounds": [
-
-      ]
+      "outbounds": []
     },
     {
       "type": "urltest",
@@ -238,9 +152,7 @@
       "interval": "10m",
       "tolerance": 0,
       "interrupt_exist_connections": true,
-      "outbounds": [
-
-      ]
+      "outbounds": []
     },
     {
       "type": "urltest",
@@ -249,9 +161,7 @@
       "interval": "10m",
       "tolerance": 0,
       "interrupt_exist_connections": true,
-      "outbounds": [
-
-      ]
+      "outbounds": []
     },
     {
       "type": "urltest",
@@ -260,9 +170,7 @@
       "interval": "10m",
       "tolerance": 0,
       "interrupt_exist_connections": true,
-      "outbounds": [
-
-      ]
+      "outbounds": []
     },
     {
       "type": "urltest",
@@ -271,9 +179,7 @@
       "interval": "10m",
       "tolerance": 0,
       "interrupt_exist_connections": true,
-      "outbounds": [
-
-      ]
+      "outbounds": []
     },
     {
       "type": "urltest",
@@ -282,9 +188,7 @@
       "interval": "10m",
       "tolerance": 0,
       "interrupt_exist_connections": true,
-      "outbounds": [
-
-      ]
+      "outbounds": []
     }
   ],
   "route": {
@@ -293,169 +197,85 @@
         "tag": "Ads",
         "type": "remote",
         "format": "binary",
-        "url": "https://ghfast.top/https://github.com/Repcz/Tool/raw/X/sing-box/Rules/Ads_SukkaW.srs",
-        "download_detour": "direct"
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/SingBox/RuleSet/Reject.srs"
       },
       {
         "tag": "Telegram",
         "type": "remote",
         "format": "binary",
-        "url": "https://ghfast.top/https://github.com/Repcz/Tool/raw/X/sing-box/Rules/Telegram.srs",
-        "download_detour": "direct"
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/SingBox/RuleSet/Telegram.srs"
       },
       {
         "tag": "YouTube",
         "type": "remote",
         "format": "binary",
-        "url": "https://ghfast.top/https://github.com/Repcz/Tool/raw/X/sing-box/Rules/YouTube.srs",
-        "download_detour": "direct"
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/SingBox/RuleSet/YouTube.srs"
       },
       {
         "tag": "Google",
         "type": "remote",
         "format": "binary",
-        "url": "https://ghfast.top/https://github.com/Repcz/Tool/raw/X/sing-box/Rules/Google.srs",
-        "download_detour": "direct"
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/SingBox/RuleSet/Google.srs"
       },
       {
-        "tag": "Microsoft",
+        "tag": "Porn",
         "type": "remote",
         "format": "binary",
-        "url": "https://ghfast.top/https://github.com/Repcz/Tool/raw/X/sing-box/Rules/Microsoft.srs",
-        "download_detour": "direct"
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/SingBox/RuleSet/Porn.srs"
       },
       {
-        "tag": "OneDrive",
+        "tag": "SpeedTest",
         "type": "remote",
         "format": "binary",
-        "url": "https://ghfast.top/https://github.com/Repcz/Tool/raw/X/sing-box/Rules/OneDrive.srs",
-        "download_detour": "direct"
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/SingBox/RuleSet/Speedtest.srs"
       },
       {
-        "tag": "Github",
+        "tag": "GitHub",
         "type": "remote",
         "format": "binary",
-        "url": "https://ghfast.top/https://github.com/Repcz/Tool/raw/X/sing-box/Rules/Github.srs",
-        "download_detour": "direct"
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/SingBox/RuleSet/GitHub.srs"
       },
       {
         "tag": "Twitter",
         "type": "remote",
         "format": "binary",
-        "url": "https://ghfast.top/https://github.com/Repcz/Tool/raw/X/sing-box/Rules/Twitter.srs",
-        "download_detour": "direct"
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/SingBox/RuleSet/Twitter.srs"
       },
       {
         "tag": "Apple",
         "type": "remote",
         "format": "binary",
-        "url": "https://ghfast.top/https://github.com/Repcz/Tool/raw/X/sing-box/Rules/Apple.srs",
-        "download_detour": "direct"
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/SingBox/RuleSet/Apple.srs"
       },
       {
         "tag": "AppleProxy",
         "type": "remote",
         "format": "binary",
-        "url": "https://ghfast.top/https://github.com/Repcz/Tool/raw/X/sing-box/Rules/AppleProxy.srs",
-        "download_detour": "direct"
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/SingBox/RuleSet/AppleProxy.srs"
       },
       {
         "tag": "AI",
         "type": "remote",
         "format": "binary",
-        "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/category-ai-chat-!cn.srs",
-        "download_detour": "direct"
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/SingBox/RuleSet/AI.srs"
       },
       {
-        "tag": "Emby",
+        "tag": "Instagram",
         "type": "remote",
         "format": "binary",
-        "url": "https://ghfast.top/https://github.com/Repcz/Tool/raw/X/sing-box/Rules/Emby.srs",
-        "download_detour": "direct"
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/SingBox/RuleSet/Instagram.srs"
       },
       {
-        "tag": "Epic",
+        "tag": "geoip_domain",
         "type": "remote",
         "format": "binary",
-        "url": "https://ghfast.top/https://github.com/Repcz/Tool/raw/X/sing-box/Rules/Epic.srs",
-        "download_detour": "direct"
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo-lite/geosite/cn.srs"
       },
       {
-        "tag": "Steam",
+        "tag": "geoip_ip",
         "type": "remote",
         "format": "binary",
-        "url": "https://ghfast.top/https://github.com/Repcz/Tool/raw/X/sing-box/Rules/Steam.srs",
-        "download_detour": "direct"
-      },
-      {
-        "tag": "Spotify",
-        "type": "remote",
-        "format": "binary",
-        "url": "https://ghfast.top/https://github.com/Repcz/Tool/raw/X/sing-box/Rules/Spotify.srs",
-        "download_detour": "direct"
-      },
-      {
-        "tag": "Bahamut",
-        "type": "remote",
-        "format": "binary",
-        "url": "https://ghfast.top/https://github.com/Repcz/Tool/raw/X/sing-box/Rules/Bahamut.srs",
-        "download_detour": "direct"
-      },
-      {
-        "tag": "Netflix",
-        "type": "remote",
-        "format": "binary",
-        "url": "https://ghfast.top/https://github.com/Repcz/Tool/raw/X/sing-box/Rules/Netflix.srs",
-        "download_detour": "direct"
-      },
-      {
-        "tag": "Disney",
-        "type": "remote",
-        "format": "binary",
-        "url": "https://ghfast.top/https://github.com/Repcz/Tool/raw/X/sing-box/Rules/Disney.srs",
-        "download_detour": "direct"
-      },
-      {
-        "tag": "PrimeVideo",
-        "type": "remote",
-        "format": "binary",
-        "url": "https://ghfast.top/https://github.com/Repcz/Tool/raw/X/sing-box/Rules/PrimeVideo.srs",
-        "download_detour": "direct"
-      },
-      {
-        "tag": "HBO",
-        "type": "remote",
-        "format": "binary",
-        "url": "https://ghfast.top/https://github.com/Repcz/Tool/raw/X/sing-box/Rules/HBO.srs",
-        "download_detour": "direct"
-      },
-      {
-        "tag": "TikTok",
-        "type": "remote",
-        "format": "binary",
-        "url": "https://ghfast.top/https://github.com/Repcz/Tool/raw/X/sing-box/Rules/TikTok.srs",
-        "download_detour": "direct"
-      },
-      {
-        "tag": "ChinaDomain",
-        "type": "remote",
-        "format": "binary",
-        "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/cn.srs",
-        "download_detour": "direct"
-      },
-      {
-        "tag": "ChinaIP",
-        "type": "remote",
-        "format": "binary",
-        "url": "https://ghfast.top/https://github.com/Loyalsoldier/geoip/raw/release/srs/cn.srs",
-        "download_detour": "direct"
-      },
-      {
-        "tag": "geolocation-!cn",
-        "type": "remote",
-        "format": "binary",
-        "url": "https://ghfast.top/https://raw.githubusercontent.com/CHIZI-0618/v2ray-rules-dat/release/singbox_rule_set/geosite-geolocation-!cn.srs",
-        "download_detour": "direct"
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo-lite/geoip/cn.srs"
       }
     ],
     "rules": [
@@ -508,7 +328,7 @@
           "AI"
         ],
         "action": "route",
-        "outbound": "AI"
+        "outbound": "ChatGPT"
       },
       {
         "rule_set": [
@@ -520,19 +340,12 @@
       },
       {
         "rule_set": [
-          "Microsoft",
-          "OneDrive",
-          "Github"
+          "GitHub",
+          "Twitter",
+          "Instagram"
         ],
         "action": "route",
-        "outbound": "Microsoft"
-      },
-      {
-        "rule_set": [
-          "Twitter"
-        ],
-        "action": "route",
-        "outbound": "Twitter"
+        "outbound": "Proxy"
       },
       {
         "rule_set": [
@@ -543,33 +356,6 @@
       },
       {
         "rule_set": [
-          "Emby"
-        ],
-        "action": "route",
-        "outbound": "Emby"
-      },
-      {
-        "rule_set": [
-          "Steam",
-          "Epic"
-        ],
-        "action": "route",
-        "outbound": "Game"
-      },
-      {
-        "rule_set": [
-          "Bahamut",
-          "Netflix",
-          "Disney",
-          "PrimeVideo",
-          "HBO",
-          "TikTok"
-        ],
-        "action": "route",
-        "outbound": "ProxyMedia"
-      },
-      {
-        "rule_set": [
           "AppleProxy"
         ],
         "action": "route",
@@ -577,18 +363,17 @@
       },
       {
         "rule_set": [
-          "geolocation-!cn"
+          "geoip_domain"
         ],
         "action": "route",
-        "outbound": "Proxy"
+        "outbound": "direct"
       },
       {
         "action": "resolve"
       },
       {
         "rule_set": [
-          "ChinaDomain",
-          "ChinaIP",
+          "geoip_ip",
           "Apple"
         ],
         "action": "route",
@@ -618,12 +403,6 @@
   },
   "inbounds": [
     {
-      "type": "mixed",
-      "listen": "127.0.0.1",
-      "listen_port": 7080,
-      "set_system_proxy": false
-    },
-    {
       "type": "tun",
       "address": [
         "172.18.0.1/30",
@@ -631,7 +410,7 @@
       ],
       "platform": {
         "http_proxy": {
-          "enabled": true,
+          "enabled": false,
           "server": "127.0.0.1",
           "server_port": 7080
         }
