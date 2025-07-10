@@ -8,8 +8,7 @@
       },
       {
         "tag": "ali",
-        "address": "223.5.5.5",
-        "detour": "direct"
+        "address": "223.5.5.5"
       },
       {
         "tag": "remote_fake_ip",
@@ -287,7 +286,7 @@
     "rules": [
       {
         "action": "sniff",
-        "inbounds": "tun",
+        "inbound": "tun",
         "timeout": "500ms"
       },
       {
