@@ -1,5 +1,5 @@
 # NAME: GFW
-# TOTAL: 8600
+# TOTAL: 8601
 
 DOMAIN,api.mixpanel.com
 DOMAIN,audio4-ak-spotify-com.akamaized.net
@@ -2046,6 +2046,7 @@ DOMAIN-SUFFIX,e-msedge.net
 DOMAIN-SUFFIX,e-traderland.net
 DOMAIN-SUFFIX,e-zone.com.hk
 DOMAIN-SUFFIX,e123.hk
+DOMAIN-SUFFIX,e621.net
 DOMAIN-SUFFIX,earlytibet.com
 DOMAIN-SUFFIX,earthcam.com
 DOMAIN-SUFFIX,earthvpn.com
