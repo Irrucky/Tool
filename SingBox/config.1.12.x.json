@@ -43,17 +43,9 @@
         "action": "route",
         "server": "remote_fake_ip",
         "rewrite_ttl": 1
-      },
-      {
-        "rule_set": [
-          "geoip_domain",
-          "Apple"
-        ],
-        "action": "route",
-        "server": "ali"
       }
     ],
-    "final": "cloudflare",
+    "final": "ali",
     "independent_cache": true
   },
   "outbounds": [
@@ -195,96 +187,105 @@
         "tag": "Ads",
         "type": "remote",
         "format": "binary",
-        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/SingBox/RuleSet/Reject.srs"
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/SingBox/RuleSet/Reject.srs",
+        "download_detour": "direct"
       },
       {
         "tag": "Telegram",
         "type": "remote",
         "format": "binary",
-        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/SingBox/RuleSet/Telegram.srs"
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/SingBox/RuleSet/Telegram.srs",
+        "download_detour": "direct"
       },
       {
         "tag": "YouTube",
         "type": "remote",
         "format": "binary",
-        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/SingBox/RuleSet/YouTube.srs"
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/SingBox/RuleSet/YouTube.srs",
+        "download_detour": "direct"
       },
       {
         "tag": "Google",
         "type": "remote",
         "format": "binary",
-        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/SingBox/RuleSet/Google.srs"
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/SingBox/RuleSet/Google.srs",
+        "download_detour": "direct"
       },
       {
         "tag": "Porn",
         "type": "remote",
         "format": "binary",
-        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/SingBox/RuleSet/Porn.srs"
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/SingBox/RuleSet/Porn.srs",
+        "download_detour": "direct"
       },
       {
         "tag": "SpeedTest",
         "type": "remote",
         "format": "binary",
-        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/SingBox/RuleSet/Speedtest.srs"
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/SingBox/RuleSet/Speedtest.srs",
+        "download_detour": "direct"
       },
       {
         "tag": "GitHub",
         "type": "remote",
         "format": "binary",
-        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/SingBox/RuleSet/GitHub.srs"
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/SingBox/RuleSet/GitHub.srs",
+        "download_detour": "direct"
       },
       {
         "tag": "Twitter",
         "type": "remote",
         "format": "binary",
-        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/SingBox/RuleSet/Twitter.srs"
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/SingBox/RuleSet/Twitter.srs",
+        "download_detour": "direct"
       },
       {
         "tag": "Apple",
         "type": "remote",
         "format": "binary",
-        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/SingBox/RuleSet/Apple.srs"
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/SingBox/RuleSet/Apple.srs",
+        "download_detour": "direct"
       },
       {
         "tag": "AppleProxy",
         "type": "remote",
         "format": "binary",
-        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/SingBox/RuleSet/AppleProxy.srs"
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/SingBox/RuleSet/AppleProxy.srs",
+        "download_detour": "direct"
       },
       {
         "tag": "AI",
         "type": "remote",
         "format": "binary",
-        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/SingBox/RuleSet/AI.srs"
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/SingBox/RuleSet/AI.srs",
+        "download_detour": "direct"
       },
       {
         "tag": "Instagram",
         "type": "remote",
         "format": "binary",
-        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/SingBox/RuleSet/Instagram.srs"
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/SingBox/RuleSet/Instagram.srs",
+        "download_detour": "direct"
       },
       {
         "tag": "geoip_domain",
         "type": "remote",
         "format": "binary",
-        "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo-lite/geosite/cn.srs"
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo-lite/geosite/cn.srs",
+        "download_detour": "direct"
       },
       {
         "tag": "geoip_ip",
         "type": "remote",
         "format": "binary",
-        "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo-lite/geoip/cn.srs"
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo-lite/geoip/cn.srs",
+        "download_detour": "direct"
       }
     ],
     "rules": [
       {
         "action": "sniff",
-        "sniffer": [
-          "http",
-          "tls",
-          "quic",
-          "dns"
-        ],
+        "inbounds": "tun",
         "timeout": "500ms"
       },
       {
@@ -340,7 +341,8 @@
         "rule_set": [
           "GitHub",
           "Twitter",
-          "Instagram"
+          "Instagram",
+          "Porn"
         ],
         "action": "route",
         "outbound": "Proxy"
@@ -361,7 +363,8 @@
       },
       {
         "rule_set": [
-          "geoip_domain"
+          "geoip_domain",
+          "Apple"
         ],
         "action": "route",
         "outbound": "direct"
@@ -371,8 +374,7 @@
       },
       {
         "rule_set": [
-          "geoip_ip",
-          "Apple"
+          "geoip_ip"
         ],
         "action": "route",
         "outbound": "direct"
@@ -396,11 +398,12 @@
       "external_controller": "127.0.0.1:9090",
       "external_ui": "ui",
       "external_ui_download_url": "https://ghfast.top/https://github.com/Zephyruso/zashboard/releases/latest/download/dist.zip",
-      "external_ui_download_detour": "Proxy"
+      "external_ui_download_detour": "direct"
     }
   },
   "inbounds": [
     {
+      "tag": "tun",
       "type": "tun",
       "address": [
         "172.18.0.1/30",
