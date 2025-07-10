@@ -1,5 +1,5 @@
 # NAME: ADRULES
-# TOTAL: 8645
+# TOTAL: 8644
 
 DOMAIN,118.89.204.198
 DOMAIN,1500020991.vodplayer.wxamedia.com
@@ -1670,7 +1670,6 @@ DOMAIN,telemetry.appex.bing.com
 DOMAIN,telemetry.sdk.inmobi.com
 DOMAIN,tempest.services.disqus.com
 DOMAIN,tencent-dtv.m.cn.miaozhen.com
-DOMAIN,terms-drcn.platform.dbankcloud.cn
 DOMAIN,test.ad.xiaomi.com
 DOMAIN,test.api.xlmc.sandai.net
 DOMAIN,test.e.ad.xiaomi.com
