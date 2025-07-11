@@ -77,7 +77,7 @@ jobs:
           sudo mv sing-box-${SING_BOX_VERSION}-linux-amd64/sing-box /usr/local/bin/sing-box
           sing-box version
           # 处理 Rules
-          for file in Tool-repo/SingBox/RuleSet/*.json; do
+          for file in Tool-repo/sing-box/RuleSet/*.json; do
             if [ -f "$file" ]; then
              sed -i -e '/^PROCESS-NAME/d' "$file"
              sed -i -e '/^AND/d' "$file"

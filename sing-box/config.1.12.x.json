@@ -45,6 +45,7 @@
       }
     ],
     "final": "ali",
+    "strategy": "prefer_ipv4",
     "independent_cache": true
   },
   "outbounds": [
@@ -186,84 +187,84 @@
         "tag": "Ads",
         "type": "remote",
         "format": "binary",
-        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/SingBox/RuleSet/Reject.srs",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/sing-box/RuleSet/Reject.srs",
         "download_detour": "direct"
       },
       {
         "tag": "Telegram",
         "type": "remote",
         "format": "binary",
-        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/SingBox/RuleSet/Telegram.srs",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/sing-box/RuleSet/Telegram.srs",
         "download_detour": "direct"
       },
       {
         "tag": "YouTube",
         "type": "remote",
         "format": "binary",
-        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/SingBox/RuleSet/YouTube.srs",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/sing-box/RuleSet/YouTube.srs",
         "download_detour": "direct"
       },
       {
         "tag": "Google",
         "type": "remote",
         "format": "binary",
-        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/SingBox/RuleSet/Google.srs",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/sing-box/RuleSet/Google.srs",
         "download_detour": "direct"
       },
       {
         "tag": "Porn",
         "type": "remote",
         "format": "binary",
-        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/SingBox/RuleSet/Porn.srs",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/sing-box/RuleSet/Porn.srs",
         "download_detour": "direct"
       },
       {
         "tag": "SpeedTest",
         "type": "remote",
         "format": "binary",
-        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/SingBox/RuleSet/Speedtest.srs",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/sing-box/RuleSet/Speedtest.srs",
         "download_detour": "direct"
       },
       {
         "tag": "GitHub",
         "type": "remote",
         "format": "binary",
-        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/SingBox/RuleSet/GitHub.srs",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/sing-box/RuleSet/GitHub.srs",
         "download_detour": "direct"
       },
       {
         "tag": "Twitter",
         "type": "remote",
         "format": "binary",
-        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/SingBox/RuleSet/Twitter.srs",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/sing-box/RuleSet/Twitter.srs",
         "download_detour": "direct"
       },
       {
         "tag": "Apple",
         "type": "remote",
         "format": "binary",
-        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/SingBox/RuleSet/Apple.srs",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/sing-box/RuleSet/Apple.srs",
         "download_detour": "direct"
       },
       {
         "tag": "AppleProxy",
         "type": "remote",
         "format": "binary",
-        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/SingBox/RuleSet/AppleProxy.srs",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/sing-box/RuleSet/AppleProxy.srs",
         "download_detour": "direct"
       },
       {
         "tag": "AI",
         "type": "remote",
         "format": "binary",
-        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/SingBox/RuleSet/AI.srs",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/sing-box/RuleSet/AI.srs",
         "download_detour": "direct"
       },
       {
         "tag": "Instagram",
         "type": "remote",
         "format": "binary",
-        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/SingBox/RuleSet/Instagram.srs",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/sing-box/RuleSet/Instagram.srs",
         "download_detour": "direct"
       },
       {
@@ -284,7 +285,10 @@
     "rules": [
       {
         "action": "sniff",
-        "inbound": "tun",
+        "inbound": [
+          "tun",
+          "mixed"
+        ],
         "timeout": "500ms"
       },
       {
@@ -402,6 +406,13 @@
   },
   "inbounds": [
     {
+      "tag": "mixed",
+      "type": "mixed",
+      "listen": "127.0.0.1",
+      "listen_port": 7890,
+      "set_system_proxy": false
+    },
+    {
       "tag": "tun",
       "type": "tun",
       "address": [
@@ -410,9 +421,9 @@
       ],
       "platform": {
         "http_proxy": {
-          "enabled": false,
+          "enabled": true,
           "server": "127.0.0.1",
-          "server_port": 7080
+          "server_port": 7890
         }
       },
       "stack": "mixed",
