@@ -1,5 +1,5 @@
 # NAME: ADRULES
-# TOTAL: 8645
+# TOTAL: 8646
 
 DOMAIN,118.89.204.198
 DOMAIN,1500020991.vodplayer.wxamedia.com
@@ -262,6 +262,7 @@ DOMAIN,adsmind.ugdtimg.com
 DOMAIN,adsp.xunlei.com
 DOMAIN,adsqqclick.qq.com
 DOMAIN,adsstatic.vivo.com.cn
+DOMAIN,adstat.izuiyou.com
 DOMAIN,adstats.tencentmusic.com
 DOMAIN,adstore-1252524079.file.myqcloud.com
 DOMAIN,adstore-index-1252524079.file.myqcloud.com
@@ -679,7 +680,6 @@ DOMAIN,data.mistat.india.xiaomi.com
 DOMAIN,data.mistat.rus.xiaomi.com
 DOMAIN,data.mistat.xiaomi.com
 DOMAIN,datacollection.uve.weibo.com
-DOMAIN,datk.anythinktech.com
 DOMAIN,dc.sigmob.cn
 DOMAIN,dcads.sina.com.cn
 DOMAIN,dd.iask.cn
@@ -1924,6 +1924,7 @@ DOMAIN,zhwnlapi.etouch.cn
 DOMAIN,ztoken.uyunad.com
 DOMAIN,zuimeitianqi.inveno.com
 DOMAIN,zx.game.xiaomi.com
+DOMAIN,zxid-m.mobileservice.cn
 DOMAIN,zzy1.quyaoya.com
 DOMAIN-KEYWORD,-ad-sign.byteimg.com
 DOMAIN-KEYWORD,-ad.byteoversea.com
