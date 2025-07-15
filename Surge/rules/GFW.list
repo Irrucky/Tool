@@ -1,5 +1,5 @@
 # NAME: GFW
-# TOTAL: 8601
+# TOTAL: 8602
 
 DOMAIN,api.mixpanel.com
 DOMAIN,audio4-ak-spotify-com.akamaized.net
@@ -7959,6 +7959,7 @@ DOMAIN-SUFFIX,www.taiwanonline.cc
 DOMAIN-SUFFIX,www.thechinastory.org
 DOMAIN-SUFFIX,www.wan-press.org
 DOMAIN-SUFFIX,www.websnapr.com
+DOMAIN-SUFFIX,www.xicons.org
 DOMAIN-SUFFIX,www.zensur.freerk.com
 DOMAIN-SUFFIX,www1.american.edu
 DOMAIN-SUFFIX,www1.biz
