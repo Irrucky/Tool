@@ -1,5 +1,5 @@
 # NAME: ADRULES
-# TOTAL: 8646
+# TOTAL: 8650
 
 DOMAIN,118.89.204.198
 DOMAIN,1500020991.vodplayer.wxamedia.com
@@ -507,6 +507,7 @@ DOMAIN,bj.ad.track.66mobi.com
 DOMAIN,bk01.hh.xiaomi.com
 DOMAIN,blog.xiaomi.com
 DOMAIN,books-analytics-events.apple.com
+DOMAIN,bootpreload.uve.weibo.com
 DOMAIN,brahe.apptimize.com
 DOMAIN,bravetense.com
 DOMAIN,browsercfg-drcn.cloud.dbankcloud.cn
@@ -6287,6 +6288,7 @@ DOMAIN-SUFFIX,pakaujf.icu
 DOMAIN-SUFFIX,panda.kdnet.net
 DOMAIN-SUFFIX,panel-cn.com
 DOMAIN-SUFFIX,pangle.io
+DOMAIN-SUFFIX,pangolin-dsp-toutiao.com
 DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
 DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
 DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com
@@ -7427,6 +7429,7 @@ DOMAIN-SUFFIX,top2099.com
 DOMAIN-SUFFIX,topitme.com
 DOMAIN-SUFFIX,torkeauwu.com
 DOMAIN-SUFFIX,toublii.top
+DOMAIN-SUFFIX,touch-moblie.com
 DOMAIN-SUFFIX,touclick.com
 DOMAIN-SUFFIX,touvxlii.top
 DOMAIN-SUFFIX,tovbus.cn
@@ -8181,6 +8184,7 @@ DOMAIN-SUFFIX,xcy8.com
 DOMAIN-SUFFIX,xd3r.javgg.eu
 DOMAIN-SUFFIX,xdcs-collector.ximalaya.com
 DOMAIN-SUFFIX,xdrig.com
+DOMAIN-SUFFIX,xdrun.com
 DOMAIN-SUFFIX,xdyjt.com
 DOMAIN-SUFFIX,xebetp.icu
 DOMAIN-SUFFIX,xeccotftw.com
