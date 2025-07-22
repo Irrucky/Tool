@@ -1,5 +1,5 @@
 # NAME: ADS_AWAVENUE
-# TOTAL: 838
+# TOTAL: 831
 
 DOMAIN,1500020991.vodplayer.wxamedia.com
 DOMAIN,1500022744.vodplayer.wxamedia.com
@@ -13,7 +13,6 @@ DOMAIN,ad-cdn.qingting.fm
 DOMAIN,ad-scope.com
 DOMAIN,ad-scope.com.cn
 DOMAIN,ad-sdk-config.youdao.com
-DOMAIN,ad-sdk.huxiu.com
 DOMAIN,ad-splash-tracking.hktvmall.com
 DOMAIN,ad-splash.hktvmall.com
 DOMAIN,ad.12306.cn
@@ -35,7 +34,6 @@ DOMAIN,ad.v3mh.com
 DOMAIN,ad.winrar.com.cn
 DOMAIN,ad.ximalaya.com
 DOMAIN,ad.zijieapi.com
-DOMAIN,ad2.ettoday.net
 DOMAIN,adapi.izuiyou.com
 DOMAIN,adapi.yynetwk.com
 DOMAIN,adashbc.ut.taobao.com
@@ -51,7 +49,6 @@ DOMAIN,adexp.chinaliftoff.io
 DOMAIN,adexp.liftoff.io
 DOMAIN,adexpo.tencentmusic.com
 DOMAIN,adfilter.imtt.qq.com
-DOMAIN,adfstat.yandex.ru
 DOMAIN,adguanggao.eee114.com
 DOMAIN,adjust.cn
 DOMAIN,adjust.com
@@ -70,14 +67,12 @@ DOMAIN,ads-sg.tiktok.com
 DOMAIN,ads-video-al.xhscdn.com
 DOMAIN,ads-video-qc.xhscdn.com
 DOMAIN,ads.95516.com
-DOMAIN,ads.flurry.com
 DOMAIN,ads.google.cn
 DOMAIN,ads.huan.tv
 DOMAIN,ads.huantest.com
 DOMAIN,ads.icloseli.cn
 DOMAIN,ads.inmobi.com
 DOMAIN,ads.linkedin.com
-DOMAIN,ads.music.126.net
 DOMAIN,ads.pinterest.com
 DOMAIN,ads.pubmatic.com
 DOMAIN,ads.raidrive.com
@@ -126,7 +121,6 @@ DOMAIN,adstudio.spotify.com
 DOMAIN,adtago.s3.amazonaws.com
 DOMAIN,adtech.yahooinc.com
 DOMAIN,adtrack.quark.cn
-DOMAIN,adv.fjtv.net
 DOMAIN,adv.sec.intl.miui.com
 DOMAIN,adv.sec.miui.com
 DOMAIN,advertising-api-eu.amazon.com
@@ -138,6 +132,7 @@ DOMAIN,advertising.yandex.ru
 DOMAIN,advice-ads.s3.amazonaws.com
 DOMAIN,adview.cn
 DOMAIN,adx-ad.smart-tv.cn
+DOMAIN,adx-bj-req.anythinktech.com
 DOMAIN,adx-bj.anythinktech.com
 DOMAIN,adx-cn.anythinktech.com
 DOMAIN,adx-drcn.op.dbankcloud.cn
@@ -211,7 +206,6 @@ DOMAIN,applog.lc.quark.cn
 DOMAIN,applog.uc.cn
 DOMAIN,applog.zijieapi.com
 DOMAIN,applovin.com
-DOMAIN,applvn.com
 DOMAIN,appversion.115.com
 DOMAIN,aspect-upush.umeng.com
 DOMAIN,auction.unityads.unity3d.com
@@ -256,7 +250,6 @@ DOMAIN,cdn-ad.wtzw.com
 DOMAIN,cdn-ads.oss-cn-shanghai.aliyuncs.com
 DOMAIN,cdn-f.adsmoloco.com
 DOMAIN,cdn-plugin-sync-upgrade-juui.hismarttv.com
-DOMAIN,cdn.ad.xiaomi.com
 DOMAIN,cdn.aiclk.com
 DOMAIN,cdn.chinaliftoff-creatives.io
 DOMAIN,cdn.hpplay.com.cn
@@ -401,17 +394,13 @@ DOMAIN,iadworkbench.apple.com
 DOMAIN,ifacelog.iqiyi.com
 DOMAIN,ifs.tanx.com
 DOMAIN,ii.gdt.qq.com
-DOMAIN,imag8.pubmatic.com
-DOMAIN,imag86.pubmatic.com
 DOMAIN,image-ad.sm.cn
 DOMAIN,image.hpplay.cn
-DOMAIN,imageplus.baidu.com
 DOMAIN,images.outbrainimg.com
 DOMAIN,images.pinduoduo.com
 DOMAIN,imdns.hpplay.cn
 DOMAIN,img-c.heytapimage.com
 DOMAIN,img-x.jd.com
-DOMAIN,img.adnyg.com
 DOMAIN,img.adnyg.com.w.kunlungr.com
 DOMAIN,impression-asia.chinaliftoff.io
 DOMAIN,impression-asia.liftoff.io
@@ -470,14 +459,12 @@ DOMAIN,log.aispeech.com
 DOMAIN,log.amemv.com
 DOMAIN,log.appstore3.huan.tv
 DOMAIN,log.avlyun.com
-DOMAIN,log.avlyun.sec.intl.miui.com
 DOMAIN,log.byteoversea.com
 DOMAIN,log.fc.yahoo.com
 DOMAIN,log.iflytek.com
 DOMAIN,log.kuwo.cn
 DOMAIN,log.pinterest.com
 DOMAIN,log.popin.cc
-DOMAIN,log.snssdk.com
 DOMAIN,log.stat.kugou.com
 DOMAIN,log.tagtic.cn
 DOMAIN,log.tbs.qq.com
@@ -496,12 +483,12 @@ DOMAIN,luimg.baidu.com
 DOMAIN,m-adnet.hiaiabc.com
 DOMAIN,m.ad.zhangyue.com
 DOMAIN,m.atm.youku.com
-DOMAIN,m.kubiqq.com
 DOMAIN,m1.ad.10010.com
 DOMAIN,mapi.m.jd.com
 DOMAIN,masdkv6.3g.qq.com
 DOMAIN,mazu.m.qq.com
 DOMAIN,mbdlog.iqiyi.com
+DOMAIN,mcs.zijieapi.com
 DOMAIN,metrics.data.hicloud.com
 DOMAIN,metrics.icloud.com
 DOMAIN,metrics.mzstatic.com
@@ -510,8 +497,6 @@ DOMAIN,metrika.yandex.ru
 DOMAIN,mi.gdt.qq.com
 DOMAIN,miav-cse.avlyun.com
 DOMAIN,micro-xdb.com
-DOMAIN,mime.baidu.com
-DOMAIN,mine.baidu.com
 DOMAIN,mini-prog-drm.vodplayvideo.net
 DOMAIN,mission-pub.smart-tv.cn
 DOMAIN,miui-fxcse.avlyun.com
@@ -598,6 +583,7 @@ DOMAIN,pms.mb.qq.com
 DOMAIN,policy.video.ptqy.gitv.tv
 DOMAIN,pos.baidu.com
 DOMAIN,prod-mediate-events.applovin.com
+DOMAIN,promotion-partner.kuaishou.com
 DOMAIN,proxy.advp.apple.com
 DOMAIN,public.gdtimg.com
 DOMAIN,q.i.gdt.qq.com
@@ -707,6 +693,7 @@ DOMAIN,tangram.e.qq.com
 DOMAIN,tdc.qq.com
 DOMAIN,tdsdk.cpatrk.net
 DOMAIN,tdsdk.xdrig.com
+DOMAIN,telecome.cn
 DOMAIN,telemetry.sdk.inmobi.com
 DOMAIN,tencent-dtv.m.cn.miaozhen.com
 DOMAIN,test.ad.xiaomi.com
@@ -720,13 +707,21 @@ DOMAIN,tmfmazu-wangka.m.qq.com
 DOMAIN,tmfmazu.m.qq.com
 DOMAIN,tmfsdk.m.qq.com
 DOMAIN,tmfsdktcpv4.m.qq.com
+DOMAIN,tnc0-aliec2.zijieapi.com
+DOMAIN,tnc0-alisc1.zijieapi.com
+DOMAIN,tnc0-bjlgy.zijieapi.com
 DOMAIN,tnc3-aliec1.toutiaoapi.com
 DOMAIN,tnc3-aliec2.bytedance.com
+DOMAIN,tnc3-aliec2.snssdk.com
 DOMAIN,tnc3-aliec2.toutiaoapi.com
+DOMAIN,tnc3-aliec2.zijieapi.com
 DOMAIN,tnc3-alisc1.bytedance.com
+DOMAIN,tnc3-alisc1.snssdk.com
+DOMAIN,tnc3-alisc1.toutiaoapi.com
 DOMAIN,tnc3-alisc1.zijieapi.com
 DOMAIN,tnc3-alisc2.zijieapi.com
 DOMAIN,tnc3-bjlgy.bytedance.com
+DOMAIN,tnc3-bjlgy.snssdk.com
 DOMAIN,tnc3-bjlgy.toutiaoapi.com
 DOMAIN,tnc3-bjlgy.zijieapi.com
 DOMAIN,toblog.ctobsnssdk.com
@@ -815,7 +810,6 @@ DOMAIN,ws-keyboard.shouji.sogou.com
 DOMAIN,ws.sj.qq.com
 DOMAIN,wv.inner-active.mobi
 DOMAIN,wwads.cn
-DOMAIN,www42.zskwai.com
 DOMAIN,wxa.wxs.qq.com
 DOMAIN,wxaintpcos.wxqcloud.qq.com.cn
 DOMAIN,wximg.wxs.qq.com
@@ -825,7 +819,6 @@ DOMAIN,wxsnsdy.tc.qq.com
 DOMAIN,wxsnsdy.wxs.qq.com
 DOMAIN,wxsnsdythumb.wxs.qq.com
 DOMAIN,xc.gdt.qq.com
-DOMAIN,xcultur.com
 DOMAIN,xiaomi-dtv.m.cn.miaozhen.com
 DOMAIN,xlog.jd.com
 DOMAIN,xlviiirdr.com
