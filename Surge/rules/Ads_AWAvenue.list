@@ -1,5 +1,5 @@
 # NAME: ADS_AWAVENUE
-# TOTAL: 831
+# TOTAL: 840
 
 DOMAIN,1500020991.vodplayer.wxamedia.com
 DOMAIN,1500022744.vodplayer.wxamedia.com
@@ -146,11 +146,14 @@ DOMAIN,adx.tuia.cn
 DOMAIN,adxlog-adnet.vivo.com.cn
 DOMAIN,adxserver.ad.cmvideo.cn
 DOMAIN,aegis.qq.com
+DOMAIN,aem.dentsuchina.cn
 DOMAIN,afs.googlesyndication.com
 DOMAIN,agn.aty.sohu.com
 DOMAIN,aiseet.aa.atianqi.com
 DOMAIN,ali-ad.a.yximgs.com
 DOMAIN,ali-p2p-v2.pull.yximgs.com
+DOMAIN,alicoccdncnc-xn.inter.71edge.com
+DOMAIN,alicoccdnct-xn.inter.71edge.com
 DOMAIN,alog.umeng.com
 DOMAIN,alogus.umeng.com
 DOMAIN,als.baidu.com
@@ -219,6 +222,7 @@ DOMAIN,bdad.123pan.cn
 DOMAIN,bdapi-ads.realmemobile.com
 DOMAIN,bdapi-in-ads.realmemobile.com
 DOMAIN,bdapi.ads.oppomobile.com
+DOMAIN,bdcdncnc.inter.71edge.com
 DOMAIN,beacon-api.aliyuncs.com
 DOMAIN,beacon.qq.com
 DOMAIN,beaconcdn.qq.com
@@ -402,6 +406,7 @@ DOMAIN,imdns.hpplay.cn
 DOMAIN,img-c.heytapimage.com
 DOMAIN,img-x.jd.com
 DOMAIN,img.adnyg.com.w.kunlungr.com
+DOMAIN,img2.360buyimg.com
 DOMAIN,impression-asia.chinaliftoff.io
 DOMAIN,impression-asia.liftoff.io
 DOMAIN,impression.appsflyer.com
@@ -483,6 +488,7 @@ DOMAIN,luimg.baidu.com
 DOMAIN,m-adnet.hiaiabc.com
 DOMAIN,m.ad.zhangyue.com
 DOMAIN,m.atm.youku.com
+DOMAIN,m.iqiyipic.com
 DOMAIN,m1.ad.10010.com
 DOMAIN,mapi.m.jd.com
 DOMAIN,masdkv6.3g.qq.com
@@ -666,6 +672,7 @@ DOMAIN,snowflake.qq.com
 DOMAIN,staging-notify.sec.miui.com
 DOMAIN,stat.dongqiudi.com
 DOMAIN,stat.y.qq.com
+DOMAIN,static-s.iqiyi.com
 DOMAIN,static.ads-twitter.com
 DOMAIN,statics.woozooo.com
 DOMAIN,stats.wp.com
@@ -824,7 +831,9 @@ DOMAIN,xlog.jd.com
 DOMAIN,xlviiirdr.com
 DOMAIN,xlviirdr.com
 DOMAIN,xycdn.com
+DOMAIN,yk-ssp-ad.cp31.ott.cibntv.net
 DOMAIN,yk-ssp.ad.youku.com
+DOMAIN,ykad-data.cp31.ott.cibntv.net
 DOMAIN,ykad-data.youku.com
 DOMAIN,ykad-gateway.youku.com
 DOMAIN,youku-acs.m.taobao.com
