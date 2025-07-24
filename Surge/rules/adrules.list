@@ -1,5 +1,5 @@
 # NAME: ADRULES
-# TOTAL: 8645
+# TOTAL: 8654
 
 DOMAIN,118.89.204.198
 DOMAIN,1500020991.vodplayer.wxamedia.com
@@ -334,6 +334,7 @@ DOMAIN,adxserver.ad.cmvideo.cn
 DOMAIN,ae.bdstatic.com
 DOMAIN,aedns.weixin.qq.com
 DOMAIN,aegis.qq.com
+DOMAIN,aem.dentsuchina.cn
 DOMAIN,afd.baidu.com
 DOMAIN,afdconf.baidu.com
 DOMAIN,aff-partners-io.ck-cdn.com
@@ -349,6 +350,8 @@ DOMAIN,al.autohome.com.cn
 DOMAIN,ali-ad.a.yximgs.com
 DOMAIN,ali-p2p-v2.pull.yximgs.com
 DOMAIN,ali-stats.jpush.cn
+DOMAIN,alicoccdncnc-xn.inter.71edge.com
+DOMAIN,alicoccdnct-xn.inter.71edge.com
 DOMAIN,alog.umeng.com
 DOMAIN,alogus.umeng.com
 DOMAIN,als.baidu.com
@@ -484,6 +487,7 @@ DOMAIN,bdad.123pan.cn
 DOMAIN,bdapi-ads.realmemobile.com
 DOMAIN,bdapi-in-ads.realmemobile.com
 DOMAIN,bdapi.ads.oppomobile.com
+DOMAIN,bdcdncnc.inter.71edge.com
 DOMAIN,bds.snssdk.com
 DOMAIN,be01.hh.xiaomi.com
 DOMAIN,beacon-api.aliyuncs.com
@@ -991,6 +995,7 @@ DOMAIN,img-c.heytapimage.com
 DOMAIN,img-x.jd.com
 DOMAIN,img.adnyg.com.w.kunlungr.com
 DOMAIN,img.auction-ads.wpscdn.cn
+DOMAIN,img2.360buyimg.com
 DOMAIN,imgad0.pcauto.com.cn
 DOMAIN,imgad0.pconline.com.cn
 DOMAIN,imgadpai.thepaper.cn
@@ -1143,6 +1148,7 @@ DOMAIN,m-adnet.hiaiabc.com
 DOMAIN,m.ad.zhangyue.com
 DOMAIN,m.atm.youku.com
 DOMAIN,m.game.weibo.cn
+DOMAIN,m.iqiyipic.com
 DOMAIN,m.mpl.dutils.com
 DOMAIN,m.simba.taobao.com
 DOMAIN,m.sjzhushou.com
@@ -1596,6 +1602,7 @@ DOMAIN,stat.simba.taobao.com
 DOMAIN,stat.xiaomi.com
 DOMAIN,stat.y.qq.com
 DOMAIN,stat.zuimeitianqi.com
+DOMAIN,static-s.iqiyi.com
 DOMAIN,static.ads-twitter.com
 DOMAIN,static.app.m.letv.com
 DOMAIN,static.game.xiaomi.com
@@ -1900,7 +1907,9 @@ DOMAIN,xlviirdr.com
 DOMAIN,xshare.api.xiaomi.com
 DOMAIN,xycdn.com
 DOMAIN,yiliao.hupan.com
+DOMAIN,yk-ssp-ad.cp31.ott.cibntv.net
 DOMAIN,yk-ssp.ad.youku.com
+DOMAIN,ykad-data.cp31.ott.cibntv.net
 DOMAIN,ykad-data.youku.com
 DOMAIN,ykad-gateway.youku.com
 DOMAIN,ykrec.youku.com
