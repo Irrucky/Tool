@@ -1,5 +1,5 @@
 # NAME: GFW
-# TOTAL: 8604
+# TOTAL: 8605
 
 DOMAIN,api.mixpanel.com
 DOMAIN,audio4-ak-spotify-com.akamaized.net
@@ -7656,6 +7656,7 @@ DOMAIN-SUFFIX,wainao.me
 DOMAIN-SUFFIX,waiwaier.com
 DOMAIN-SUFFIX,wallet.com
 DOMAIN-SUFFIX,walletbot.me
+DOMAIN-SUFFIX,walletconnect.com
 DOMAIN-SUFFIX,wallmama.com
 DOMAIN-SUFFIX,wallornot.org
 DOMAIN-SUFFIX,wallpapercasa.com
