@@ -1,5 +1,5 @@
 # NAME: ADS_AWAVENUE
-# TOTAL: 837
+# TOTAL: 848
 
 DOMAIN,1500020991.vodplayer.wxamedia.com
 DOMAIN,1500022744.vodplayer.wxamedia.com
@@ -838,3 +838,14 @@ DOMAIN,ytx-file.110route.cn
 DOMAIN,zeus.ad.xiaomi.com
 DOMAIN,zhihu-web-analytics.zhihu.com
 DOMAIN,zxid-m.mobileservice.cn
+DOMAIN-SUFFIX,1rtb.com
+DOMAIN-SUFFIX,a.market.xiaomi.com
+DOMAIN-SUFFIX,ad.gameley.com
+DOMAIN-SUFFIX,adintl.cn
+DOMAIN-SUFFIX,adx.adwangmai.com
+DOMAIN-SUFFIX,data.hicloud.com
+DOMAIN-SUFFIX,log.aliyuncs.com
+DOMAIN-SUFFIX,ubixioe.com
+DOMAIN-SUFFIX,vlion.cn
+DOMAIN-SUFFIX,yfanads.com
+DOMAIN-SUFFIX,zhangyuyidong.cn
