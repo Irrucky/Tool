@@ -1,5 +1,5 @@
 # NAME: ADRULES
-# TOTAL: 8652
+# TOTAL: 8659
 
 DOMAIN,118.89.204.198
 DOMAIN,1500020991.vodplayer.wxamedia.com
@@ -2645,6 +2645,7 @@ DOMAIN-SUFFIX,ad.duapps.com
 DOMAIN-SUFFIX,ad.duomi.com
 DOMAIN-SUFFIX,ad.fx168api.com
 DOMAIN-SUFFIX,ad.g.daum.net
+DOMAIN-SUFFIX,ad.gameley.com
 DOMAIN-SUFFIX,ad.ganji.com
 DOMAIN-SUFFIX,ad.gmw.cn
 DOMAIN-SUFFIX,ad.gt
@@ -2904,6 +2905,7 @@ DOMAIN-SUFFIX,advmob.cn
 DOMAIN-SUFFIX,adwetec.com
 DOMAIN-SUFFIX,adwhirl.com
 DOMAIN-SUFFIX,adwo.com
+DOMAIN-SUFFIX,adx.adwangmai.com
 DOMAIN-SUFFIX,adx.mala.cn
 DOMAIN-SUFFIX,adx.xiaodutv.com
 DOMAIN-SUFFIX,adxadserv.com
@@ -3834,6 +3836,7 @@ DOMAIN-SUFFIX,dasda64.fun
 DOMAIN-SUFFIX,dasdujaosjdioad.com
 DOMAIN-SUFFIX,dasljfoq.top
 DOMAIN-SUFFIX,daslkdlqk.top
+DOMAIN-SUFFIX,data.hicloud.com
 DOMAIN-SUFFIX,data.mistat.xiaomi.com
 DOMAIN-SUFFIX,data.waptime.cn
 DOMAIN-SUFFIX,datas.tianqistatic.com
@@ -5594,6 +5597,7 @@ DOMAIN-SUFFIX,location.ximalaya.com
 DOMAIN-SUFFIX,locdrop.query.yahoo.com
 DOMAIN-SUFFIX,locpikbb.icu
 DOMAIN-SUFFIX,lofqvl.icu
+DOMAIN-SUFFIX,log.aliyuncs.com
 DOMAIN-SUFFIX,log.cs.pp.cn
 DOMAIN-SUFFIX,log.hunantv.com
 DOMAIN-SUFFIX,log.kuwo.cn
@@ -7616,6 +7620,7 @@ DOMAIN-SUFFIX,uaqdgrfr.icu
 DOMAIN-SUFFIX,uaqe.cn
 DOMAIN-SUFFIX,ub1.job592.com
 DOMAIN-SUFFIX,uberads.com
+DOMAIN-SUFFIX,ubixioe.com
 DOMAIN-SUFFIX,ubmcmm.baidustatic.com
 DOMAIN-SUFFIX,ubmcvideo.baidustatic.com
 DOMAIN-SUFFIX,ubudhal.com
@@ -8347,6 +8352,7 @@ DOMAIN-SUFFIX,yengo.com
 DOMAIN-SUFFIX,yerhfnytky.top
 DOMAIN-SUFFIX,yeryt111.fun
 DOMAIN-SUFFIX,yes1.feng.com
+DOMAIN-SUFFIX,yfanads.com
 DOMAIN-SUFFIX,yfaqgk.xyz
 DOMAIN-SUFFIX,yfasjfk.icu
 DOMAIN-SUFFIX,yfoega.xyz
@@ -8504,6 +8510,7 @@ DOMAIN-SUFFIX,zfwgn.icu
 DOMAIN-SUFFIX,zg.mmyuer.com
 DOMAIN-SUFFIX,zgm1.com
 DOMAIN-SUFFIX,zhangqifeng12.top
+DOMAIN-SUFFIX,zhangyuyidong.cn
 DOMAIN-SUFFIX,zhaozecheng.cn
 DOMAIN-SUFFIX,zhengzhou12.top
 DOMAIN-SUFFIX,zhenxinet.com
