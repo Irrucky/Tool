@@ -1,5 +1,5 @@
 # NAME: GFW
-# TOTAL: 8609
+# TOTAL: 8610
 
 DOMAIN,api.mixpanel.com
 DOMAIN,audio4-ak-spotify-com.akamaized.net
@@ -4394,6 +4394,7 @@ DOMAIN-SUFFIX,matters.town
 DOMAIN-SUFFIX,matthewdgreen.wordpress.com
 DOMAIN-SUFFIX,mattwilcox.net
 DOMAIN-SUFFIX,maturejp.com
+DOMAIN-SUFFIX,maven.neoforged.net
 DOMAIN-SUFFIX,maven.org
 DOMAIN-SUFFIX,maxing.jp
 DOMAIN-SUFFIX,mayimayi.com
