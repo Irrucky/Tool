@@ -1,5 +1,5 @@
 # NAME: GFW
-# TOTAL: 8584
+# TOTAL: 8588
 
 DOMAIN,api.mixpanel.com
 DOMAIN,audio4-ak-spotify-com.akamaized.net
@@ -1829,6 +1829,7 @@ DOMAIN-SUFFIX,demo.opera-mini.net
 DOMAIN-SUFFIX,demo.unlock-music.dev
 DOMAIN-SUFFIX,democrats.org
 DOMAIN-SUFFIX,demosisto.hk
+DOMAIN-SUFFIX,deno.dev
 DOMAIN-SUFFIX,dependabot.com
 DOMAIN-SUFFIX,depositphotos.com
 DOMAIN-SUFFIX,deps.dev
@@ -1925,6 +1926,7 @@ DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,docs.cfw.lbyczf.com
 DOMAIN-SUFFIX,docs.com
+DOMAIN-SUFFIX,docs.deno.com
 DOMAIN-SUFFIX,docs.new
 DOMAIN-SUFFIX,doctorvoice.org
 DOMAIN-SUFFIX,documentingreality.com
@@ -2600,6 +2602,7 @@ DOMAIN-SUFFIX,furbo.org
 DOMAIN-SUFFIX,furhhdl.org
 DOMAIN-SUFFIX,furinkan.com
 DOMAIN-SUFFIX,furl.net
+DOMAIN-SUFFIX,furrybar.com
 DOMAIN-SUFFIX,futurechinaforum.org
 DOMAIN-SUFFIX,futuremessage.org
 DOMAIN-SUFFIX,fux.com
@@ -4961,6 +4964,7 @@ DOMAIN-SUFFIX,nationalreview.com
 DOMAIN-SUFFIX,nationsonline.org
 DOMAIN-SUFFIX,nationwide.com
 DOMAIN-SUFFIX,naughtyamerica.com
+DOMAIN-SUFFIX,naver.com
 DOMAIN-SUFFIX,naver.jp
 DOMAIN-SUFFIX,navy.mil
 DOMAIN-SUFFIX,navyfamily.navy.mil
