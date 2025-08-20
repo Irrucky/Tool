@@ -1,5 +1,5 @@
 # NAME: ADRULES
-# TOTAL: 9384
+# TOTAL: 9387
 
 DOMAIN,118.89.204.198
 DOMAIN,1500020991.vodplayer.wxamedia.com
@@ -889,6 +889,7 @@ DOMAIN,hexagon-analytics.com
 DOMAIN,heyue.xiaomi.com
 DOMAIN,hhbypdoecp.com
 DOMAIN,hk.mibi.xiaomi.com
+DOMAIN,hlog.bigda.com
 DOMAIN,hm.baidu.com
 DOMAIN,hm.xiaomi.com
 DOMAIN,hmma.baidu.com
@@ -1209,6 +1210,7 @@ DOMAIN,mitunes.game.xiaomi.com
 DOMAIN,miui-fxcse.avlyun.com
 DOMAIN,mixern.sina.cn
 DOMAIN,mixers.sina.cn
+DOMAIN,mlog.bigda.com
 DOMAIN,mlog.hiido.com
 DOMAIN,mlog.search.xiaomi.net
 DOMAIN,mmgame.qpic.cn
@@ -1786,6 +1788,7 @@ DOMAIN,umengjmacs.m.taobao.com
 DOMAIN,umini.shujupie.com
 DOMAIN,umm.html.zone
 DOMAIN,union-httpdns.gslb.yy.com
+DOMAIN,union-mlog.bigda.com
 DOMAIN,union.baidu.cn
 DOMAIN,union.baidu.com
 DOMAIN,union.gdtimg.com
