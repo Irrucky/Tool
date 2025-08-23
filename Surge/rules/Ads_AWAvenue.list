@@ -1,5 +1,5 @@
 # NAME: ADS_AWAVENUE
-# TOTAL: 854
+# TOTAL: 855
 
 DOMAIN,1500020991.vodplayer.wxamedia.com
 DOMAIN,1500022744.vodplayer.wxamedia.com
@@ -174,6 +174,7 @@ DOMAIN,analyticsengine.s3.amazonaws.com
 DOMAIN,analyze.lemurbrowser.com
 DOMAIN,android.bugly.qq.com
 DOMAIN,andrqd.play.aiseet.atianqi.com
+DOMAIN,ap.dongdianqiu.com
 DOMAIN,ap.dongqiudi.com
 DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
 DOMAIN,apd-pcdnwxnat.teg.tencent-cloud.net
