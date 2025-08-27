@@ -1,5 +1,5 @@
 # NAME: GFW
-# TOTAL: 8593
+# TOTAL: 8594
 
 DOMAIN,api.mixpanel.com
 DOMAIN,audio4-ak-spotify-com.akamaized.net
@@ -4721,6 +4721,7 @@ DOMAIN-SUFFIX,mog.com
 DOMAIN-SUFFIX,mohu.club
 DOMAIN-SUFFIX,mohu.ml
 DOMAIN-SUFFIX,mohu.rocks
+DOMAIN-SUFFIX,moj.gov.tw
 DOMAIN-SUFFIX,mojang.com
 DOMAIN-SUFFIX,mojim.com
 DOMAIN-SUFFIX,mol.gov.tw
