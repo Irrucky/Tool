@@ -1,5 +1,5 @@
 # NAME: GFW
-# TOTAL: 8597
+# TOTAL: 8598
 
 DOMAIN,api.mixpanel.com
 DOMAIN,audio4-ak-spotify-com.akamaized.net
@@ -3791,6 +3791,7 @@ DOMAIN-SUFFIX,iphonehacks.com
 DOMAIN-SUFFIX,iphonetaiwan.org
 DOMAIN-SUFFIX,iphonix.fr
 DOMAIN-SUFFIX,ipicture.ru
+DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,ipjetable.net
 DOMAIN-SUFFIX,ipobar.com
