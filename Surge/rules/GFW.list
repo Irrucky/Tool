@@ -1,5 +1,5 @@
 # NAME: GFW
-# TOTAL: 8609
+# TOTAL: 8610
 
 DOMAIN,api.mixpanel.com
 DOMAIN,audio4-ak-spotify-com.akamaized.net
@@ -6731,6 +6731,7 @@ DOMAIN-SUFFIX,taolun.info
 DOMAIN-SUFFIX,tap.io
 DOMAIN-SUFFIX,tapanwap.com
 DOMAIN-SUFFIX,tapatalk.com
+DOMAIN-SUFFIX,taptap.io
 DOMAIN-SUFFIX,taptap.tw
 DOMAIN-SUFFIX,taragana.com
 DOMAIN-SUFFIX,tardigrade.io
