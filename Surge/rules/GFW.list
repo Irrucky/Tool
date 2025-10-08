@@ -1,5 +1,5 @@
 # NAME: GFW
-# TOTAL: 8611
+# TOTAL: 8612
 
 DOMAIN,api.mixpanel.com
 DOMAIN,audio4-ak-spotify-com.akamaized.net
@@ -6404,6 +6404,7 @@ DOMAIN-SUFFIX,solana.com
 DOMAIN-SUFFIX,solarsystem.nasa.gov
 DOMAIN-SUFFIX,solidaritetibet.org
 DOMAIN-SUFFIX,solidfiles.com
+DOMAIN-SUFFIX,solscan.io
 DOMAIN-SUFFIX,solv.finance
 DOMAIN-SUFFIX,solveforx.com
 DOMAIN-SUFFIX,somee.com
