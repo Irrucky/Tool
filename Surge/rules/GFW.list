@@ -1,5 +1,5 @@
 # NAME: GFW
-# TOTAL: 8620
+# TOTAL: 8621
 
 DOMAIN,api.mixpanel.com
 DOMAIN,audio4-ak-spotify-com.akamaized.net
@@ -6801,6 +6801,7 @@ DOMAIN-SUFFIX,telesco.pe
 DOMAIN-SUFFIX,tellapart.com
 DOMAIN-SUFFIX,tellme.pw
 DOMAIN-SUFFIX,tellmewhygame.com
+DOMAIN-SUFFIX,temu.com
 DOMAIN-SUFFIX,tenacy.com
 DOMAIN-SUFFIX,tenor.com
 DOMAIN-SUFFIX,tensorflow.org
