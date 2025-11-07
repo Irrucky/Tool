@@ -1,5 +1,5 @@
 # NAME: GFW
-# TOTAL: 8621
+# TOTAL: 8622
 
 DOMAIN,api.mixpanel.com
 DOMAIN,audio4-ak-spotify-com.akamaized.net
@@ -2423,6 +2423,7 @@ DOMAIN-SUFFIX,flagsonline.it
 DOMAIN-SUFFIX,flecheinthepeche.fr
 DOMAIN-SUFFIX,fleshbot.com
 DOMAIN-SUFFIX,fleursdeslettres.com
+DOMAIN-SUFFIX,flexclip.com
 DOMAIN-SUFFIX,flexpool.io
 DOMAIN-SUFFIX,flgg.us
 DOMAIN-SUFFIX,flgjustice.org
