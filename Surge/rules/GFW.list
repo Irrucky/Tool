@@ -1,5 +1,5 @@
 # NAME: GFW
-# TOTAL: 8622
+# TOTAL: 8623
 
 DOMAIN,api.mixpanel.com
 DOMAIN,audio4-ak-spotify-com.akamaized.net
@@ -3712,6 +3712,7 @@ DOMAIN-SUFFIX,imagefap.com
 DOMAIN-SUFFIX,imageflea.com
 DOMAIN-SUFFIX,imageglass.org
 DOMAIN-SUFFIX,images-gaytube.com
+DOMAIN-SUFFIX,images.prismic.io
 DOMAIN-SUFFIX,imageshack.us
 DOMAIN-SUFFIX,imagevenue.com
 DOMAIN-SUFFIX,imagezilla.net
