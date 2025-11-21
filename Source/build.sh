@@ -90,19 +90,19 @@ curl -L -o Tool-repo/QuantumultX/Script/resourse-parser.js "https://raw.githubus
 
 curl -L -o Tool-repo/sing-box/RuleSet/Reject.json "https://raw.githubusercontent.com/Irrucky/Tool/main/Surge/rules/Reject.list"
 
-curl -L -o Tool-repo/sing-box/RuleSet/Apple.json "https://github.com/Repcz/Tool/raw/X/Clash/Rules/Apple.list"
+curl -L -o Tool-repo/sing-box/RuleSet/Apple.json "https://github.com/Repcz/Tool/raw/X/mihomo/Rules/Apple.list"
 
 curl -L -o Tool-repo/sing-box/RuleSet/AppleProxy.json "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AppleProxy/AppleProxy.list"
 
-curl -L -o Tool-repo/sing-box/RuleSet/YouTube.json "https://github.com/Repcz/Tool/raw/X/Clash/Rules/YouTube.list"
+curl -L -o Tool-repo/sing-box/RuleSet/YouTube.json "https://github.com/Repcz/Tool/raw/X/mihomo/Rules/YouTube.list"
 
-curl -L -o Tool-repo/sing-box/RuleSet/Google.json "https://github.com/Repcz/Tool/raw/X/Clash/Rules/Google.list"
+curl -L -o Tool-repo/sing-box/RuleSet/Google.json "https://github.com/Repcz/Tool/raw/X/mihomo/Rules/Google.list"
 
-curl -L -o Tool-repo/sing-box/RuleSet/Telegram.json "https://github.com/Repcz/Tool/raw/X/Clash/Rules/Telegram.list"
+curl -L -o Tool-repo/sing-box/RuleSet/Telegram.json "https://github.com/Repcz/Tool/raw/X/mihomo/Rules/Telegram.list"
 
-curl -L -o Tool-repo/sing-box/RuleSet/Twitter.json "https://github.com/Repcz/Tool/raw/X/Clash/Rules/Twitter.list"
+curl -L -o Tool-repo/sing-box/RuleSet/Twitter.json "https://github.com/Repcz/Tool/raw/X/mihomo/Rules/Twitter.list"
 
-curl -L -o Tool-repo/sing-box/RuleSet/AI.json "https://github.com/Repcz/Tool/raw/X/Clash/Rules/AI.list"
+curl -L -o Tool-repo/sing-box/RuleSet/AI.json "https://github.com/Repcz/Tool/raw/X/mihomo/Rules/AI.list"
 
 curl -L -o Tool-repo/sing-box/RuleSet/GitHub.json "https://raw.githubusercontent.com/Irrucky/Tool/main/Surge/rules/GitHub+.list"
 
