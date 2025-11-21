@@ -1,0 +1,437 @@
+{
+  "dns": {
+    "servers": [
+      {
+        "tag": "cloudflare",
+        "address": "https://1.1.1.1/dns-query",
+        "detour": "Proxy"
+      },
+      {
+        "tag": "ali",
+        "address": "https://223.5.5.5/dns-query",
+        "detour": "direct"
+      },
+      {
+        "tag": "remote_fake_ip",
+        "address": "fakeip"
+      }
+    ],
+    "rules": [
+      {
+        "outbound": "any",
+        "action": "route",
+        "server": "ali"
+      },
+      {
+        "clash_mode": "Direct",
+        "action": "route",
+        "server": "ali"
+      },
+      {
+        "clash_mode": "Global",
+        "action": "route",
+        "server": "remote_fake_ip"
+      },
+      {
+        "query_type": "HTTPS",
+        "action": "reject"
+      },
+      {
+        "query_type": [
+          "A",
+          "AAAA"
+        ],
+        "action": "route",
+        "server": "remote_fake_ip",
+        "rewrite_ttl": 1
+      }
+    ],
+    "final": "ali",
+    "fakeip": {
+      "enabled": true,
+      "inet4_range": "198.18.0.0/15",
+      "inet6_range": "fc00::/18"
+    },
+    "strategy": "prefer_ipv4",
+    "independent_cache": true
+  },
+  "outbounds": [
+    {
+      "tag": "direct",
+      "type": "direct"
+    },
+    {
+      "tag": "Proxy",
+      "type": "selector",
+      "outbounds": [
+        "Hong Kong",
+        "Taiwan",
+        "Japan",
+        "Korea",
+        "Singapore",
+        "United States"
+      ],
+      "default": "Hong Kong",
+      "interrupt_exist_connections": true
+    },
+    {
+      "tag": "ChatGPT",
+      "type": "selector",
+      "outbounds": [
+        "Hong Kong",
+        "Taiwan",
+        "Japan",
+        "Korea",
+        "Singapore",
+        "United States"
+      ],
+      "default": "United States",
+      "interrupt_exist_connections": true
+    },
+    {
+      "tag": "Google",
+      "type": "selector",
+      "outbounds": [
+        "Hong Kong",
+        "Taiwan",
+        "Japan",
+        "Korea",
+        "Singapore",
+        "United States"
+      ],
+      "default": "Hong Kong",
+      "interrupt_exist_connections": true
+    },
+    {
+      "tag": "Telegram",
+      "type": "selector",
+      "outbounds": [
+        "Hong Kong",
+        "Taiwan",
+        "Japan",
+        "Korea",
+        "Singapore",
+        "United States"
+      ],
+      "default": "Hong Kong",
+      "interrupt_exist_connections": true
+    },
+    {
+      "tag": "Final",
+      "type": "selector",
+      "outbounds": [
+        "Hong Kong",
+        "Taiwan",
+        "Japan",
+        "Korea",
+        "Singapore",
+        "United States"
+      ],
+      "default": "Hong Kong",
+      "interrupt_exist_connections": true
+    },
+    {
+      "type": "urltest",
+      "tag": "Hong Kong",
+      "url": "http://1.1.1.1/generate_204",
+      "interval": "10m",
+      "tolerance": 0,
+      "interrupt_exist_connections": true,
+      "outbounds": []
+    },
+    {
+      "type": "urltest",
+      "tag": "Taiwan",
+      "url": "http://1.1.1.1/generate_204",
+      "interval": "10m",
+      "tolerance": 0,
+      "interrupt_exist_connections": true,
+      "outbounds": []
+    },
+    {
+      "type": "urltest",
+      "tag": "Japan",
+      "url": "http://1.1.1.1/generate_204",
+      "interval": "10m",
+      "tolerance": 0,
+      "interrupt_exist_connections": true,
+      "outbounds": []
+    },
+    {
+      "type": "urltest",
+      "tag": "Korea",
+      "url": "http://1.1.1.1/generate_204",
+      "interval": "10m",
+      "tolerance": 0,
+      "interrupt_exist_connections": true,
+      "outbounds": []
+    },
+    {
+      "type": "urltest",
+      "tag": "Singapore",
+      "url": "http://1.1.1.1/generate_204",
+      "interval": "10m",
+      "tolerance": 0,
+      "interrupt_exist_connections": true,
+      "outbounds": []
+    },
+    {
+      "type": "urltest",
+      "tag": "United States",
+      "url": "http://1.1.1.1/generate_204",
+      "interval": "10m",
+      "tolerance": 0,
+      "interrupt_exist_connections": true,
+      "outbounds": []
+    }
+  ],
+  "route": {
+    "rule_set": [
+      {
+        "tag": "Ads",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/sing-box/RuleSet/Reject.srs",
+        "download_detour": "direct"
+      },
+      {
+        "tag": "Telegram",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/sing-box/RuleSet/Telegram.srs",
+        "download_detour": "direct"
+      },
+      {
+        "tag": "YouTube",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/sing-box/RuleSet/YouTube.srs",
+        "download_detour": "direct"
+      },
+      {
+        "tag": "Google",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/sing-box/RuleSet/Google.srs",
+        "download_detour": "direct"
+      },
+      {
+        "tag": "Porn",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/sing-box/RuleSet/Porn.srs",
+        "download_detour": "direct"
+      },
+      {
+        "tag": "SpeedTest",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/sing-box/RuleSet/Speedtest.srs",
+        "download_detour": "direct"
+      },
+      {
+        "tag": "GitHub",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/sing-box/RuleSet/GitHub.srs",
+        "download_detour": "direct"
+      },
+      {
+        "tag": "Twitter",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/sing-box/RuleSet/Twitter.srs",
+        "download_detour": "direct"
+      },
+      {
+        "tag": "Apple",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/sing-box/RuleSet/Apple.srs",
+        "download_detour": "direct"
+      },
+      {
+        "tag": "AppleProxy",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/sing-box/RuleSet/AppleProxy.srs",
+        "download_detour": "direct"
+      },
+      {
+        "tag": "AI",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/sing-box/RuleSet/AI.srs",
+        "download_detour": "direct"
+      },
+      {
+        "tag": "Instagram",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/Irrucky/Tool/main/sing-box/RuleSet/Instagram.srs",
+        "download_detour": "direct"
+      },
+      {
+        "tag": "geoip_domain",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo-lite/geosite/cn.srs",
+        "download_detour": "direct"
+      },
+      {
+        "tag": "geoip_ip",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/sing/geo-lite/geoip/cn.srs",
+        "download_detour": "direct"
+      }
+    ],
+    "rules": [
+      {
+        "action": "sniff",
+        "inbound": [
+          "tun",
+          "mixed"
+        ],
+        "timeout": "500ms"
+      },
+      {
+        "type": "logical",
+        "mode": "or",
+        "rules": [
+          {
+            "port": 53
+          },
+          {
+            "protocol": "dns"
+          }
+        ],
+        "action": "hijack-dns"
+      },
+      {
+        "ip_is_private": true,
+        "action": "route",
+        "outbound": "direct"
+      },
+      {
+        "clash_mode": "Direct",
+        "action": "route",
+        "outbound": "direct"
+      },
+      {
+        "clash_mode": "Global",
+        "action": "route",
+        "outbound": "Proxy"
+      },
+      {
+        "rule_set": [
+          "Ads"
+        ],
+        "action": "reject"
+      },
+      {
+        "rule_set": [
+          "AI"
+        ],
+        "action": "route",
+        "outbound": "ChatGPT"
+      },
+      {
+        "rule_set": [
+          "YouTube",
+          "Google"
+        ],
+        "action": "route",
+        "outbound": "Google"
+      },
+      {
+        "rule_set": [
+          "GitHub",
+          "Twitter",
+          "Instagram",
+          "Porn"
+        ],
+        "action": "route",
+        "outbound": "Proxy"
+      },
+      {
+        "rule_set": [
+          "Telegram"
+        ],
+        "action": "route",
+        "outbound": "Telegram"
+      },
+      {
+        "rule_set": [
+          "AppleProxy"
+        ],
+        "action": "route",
+        "outbound": "Hong Kong"
+      },
+      {
+        "rule_set": [
+          "geoip_domain",
+          "Apple"
+        ],
+        "action": "route",
+        "outbound": "direct"
+      },
+      {
+        "action": "resolve"
+      },
+      {
+        "rule_set": [
+          "geoip_ip"
+        ],
+        "action": "route",
+        "outbound": "direct"
+      }
+    ],
+    "auto_detect_interface": true,
+    "final": "Final"
+  },
+  "log": {
+    "disabled": false,
+    "level": "info",
+    "output": "sing-box.log",
+    "timestamp": true
+  },
+  "experimental": {
+    "cache_file": {
+      "enabled": true,
+      "store_fakeip": true
+    },
+    "clash_api": {
+      "external_controller": "127.0.0.1:9090",
+      "external_ui": "ui",
+      "external_ui_download_url": "https://ghfast.top/https://github.com/Zephyruso/zashboard/releases/latest/download/dist.zip",
+      "external_ui_download_detour": "direct"
+    }
+  },
+  "inbounds": [
+    {
+      "tag": "mixed",
+      "type": "mixed",
+      "listen": "127.0.0.1",
+      "listen_port": 7890,
+      "set_system_proxy": false
+    },
+    {
+      "tag": "tun",
+      "type": "tun",
+      "address": [
+        "172.18.0.1/30",
+        "fdfe:dcba:9876::1/126"
+      ],
+      "platform": {
+        "http_proxy": {
+          "enabled": true,
+          "server": "127.0.0.1",
+          "server_port": 7890
+        }
+      },
+      "stack": "mixed",
+      "auto_route": true
+    }
+  ]
+}
