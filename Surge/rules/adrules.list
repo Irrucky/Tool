@@ -1,5 +1,5 @@
 # NAME: ADRULES
-# TOTAL: 9625
+# TOTAL: 9624
 
 DOMAIN,118.89.204.198
 DOMAIN,1500020991.vodplayer.wxamedia.com
@@ -834,7 +834,6 @@ DOMAIN,geo.yahoo.com
 DOMAIN,geo2.adobe.com
 DOMAIN,geofence.sys.miui.com
 DOMAIN,getui.cn
-DOMAIN,getui.com
 DOMAIN,ggc.cmvideo.cn
 DOMAIN,ggic03.miguvideo.com
 DOMAIN,ggmk.miguvideo.com
