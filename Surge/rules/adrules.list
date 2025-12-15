@@ -1,5 +1,5 @@
 # NAME: ADRULES
-# TOTAL: 9624
+# TOTAL: 9625
 
 DOMAIN,118.89.204.198
 DOMAIN,1500020991.vodplayer.wxamedia.com
@@ -2051,6 +2051,7 @@ DOMAIN-KEYWORD,hostingcloud
 DOMAIN-KEYWORD,iflyad.bj.openstorage.cn
 DOMAIN-KEYWORD,in-page-push
 DOMAIN-KEYWORD,insights-collector.
+DOMAIN-KEYWORD,itabelog
 DOMAIN-KEYWORD,jads
 DOMAIN-KEYWORD,jshosting
 DOMAIN-KEYWORD,juruigj
