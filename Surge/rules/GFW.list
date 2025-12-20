@@ -1,5 +1,5 @@
 # NAME: GFW
-# TOTAL: 8669
+# TOTAL: 8670
 
 DOMAIN,api.mixpanel.com
 DOMAIN,audio4-ak-spotify-com.akamaized.net
@@ -5503,6 +5503,7 @@ DOMAIN-SUFFIX,parkansky.com
 DOMAIN-SUFFIX,parler.com
 DOMAIN-SUFFIX,parse.com
 DOMAIN-SUFFIX,parsevideo.com
+DOMAIN-SUFFIX,partnerstack.xyz
 DOMAIN-SUFFIX,partycasino.com
 DOMAIN-SUFFIX,partylikeits1986.org
 DOMAIN-SUFFIX,partypoker.com
