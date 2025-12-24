@@ -1,5 +1,5 @@
 # NAME: ADRULES
-# TOTAL: 9625
+# TOTAL: 9629
 
 DOMAIN,118.89.204.198
 DOMAIN,1500020991.vodplayer.wxamedia.com
@@ -277,6 +277,7 @@ DOMAIN,adtech.yahooinc.com
 DOMAIN,adtrack.quark.cn
 DOMAIN,adtrack.ucweb.com
 DOMAIN,adtracker.adfunlink.com
+DOMAIN,adtracker.medproad.com
 DOMAIN,adui.tg.meitu.com
 DOMAIN,adv-adlog.variflight.com
 DOMAIN,adv-ads.variflight.com
@@ -1195,6 +1196,7 @@ DOMAIN,mcs.zijieapi.com
 DOMAIN,md-i-s.apptimize.com
 DOMAIN,mdrecv.app.cntvwb.cn
 DOMAIN,mediation.adnxs.com
+DOMAIN,medproad.com
 DOMAIN,meihua.xiaomi.com
 DOMAIN,mepodownload.mediatek.com
 DOMAIN,metrics-picture.d.meituan.net
@@ -1411,6 +1413,7 @@ DOMAIN,pv.zol.com.cn
 DOMAIN,pvnapp.zol.com.cn
 DOMAIN,q.i.gdt.qq.com
 DOMAIN,qa.viglink.com
+DOMAIN,qcwx.medproad.com
 DOMAIN,qgnu18wo.sina.cn
 DOMAIN,qiye.xiaomi.com
 DOMAIN,qmlog.baertt.com
@@ -1665,6 +1668,7 @@ DOMAIN,syh-imp.cdnjtzy.com
 DOMAIN,syh.zybang.com
 DOMAIN,szbdyd.com
 DOMAIN,t-ads.xiaohongshu.com
+DOMAIN,t-adx.52qumao.com
 DOMAIN,t-dsp.pinduoduo.com
 DOMAIN,t.applovin.com
 DOMAIN,t.fanglinad.com
