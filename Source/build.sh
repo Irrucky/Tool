@@ -75,8 +75,6 @@ curl -L -o Tool-repo/QuantumultX/Script/resourse-parser.js "https://raw.githubus
     curl -L "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GitLab/GitLab.list"
     echo ""
     curl -L "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GitHub/GitHub.list"
-    echo ""
-    curl -L "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Gitee/Gitee.list"
 } > Tool-repo/Surge/rules/GitHub+.list
 
 # Porn+.list

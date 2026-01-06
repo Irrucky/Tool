@@ -1,13 +1,11 @@
 # NAME: Github
-# TOTAL: 39
+# TOTAL: 37
 
 DOMAIN-KEYWORD,github
 DOMAIN-SUFFIX,atom.io
 DOMAIN-SUFFIX,dependabot.com
 DOMAIN-SUFFIX,ghcr.io
 DOMAIN-SUFFIX,git.io
-DOMAIN-SUFFIX,gitee.com
-DOMAIN-SUFFIX,gitee.io
 DOMAIN-SUFFIX,github-atom-io-herokuapp-com.freetls.fastly.net
 DOMAIN-SUFFIX,github-avatars.oss-cn-hongkong.aliyuncs.com
 DOMAIN-SUFFIX,github-cloud.s3.amazonaws.com
