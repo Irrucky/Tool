@@ -1,5 +1,5 @@
 # NAME: ADRULES
-# TOTAL: 9629
+# TOTAL: 9628
 
 DOMAIN,118.89.204.198
 DOMAIN,1500020991.vodplayer.wxamedia.com
@@ -529,7 +529,6 @@ DOMAIN,browser.events.data.msn.com
 DOMAIN,browsercfg-drcn.cloud.dbankcloud.cn
 DOMAIN,bsrv.qq.com
 DOMAIN,btrace.video.qq.com
-DOMAIN,bugly.qq.com
 DOMAIN,business-api.tiktok.com
 DOMAIN,business-cdn.shouji.sogou.com
 DOMAIN,business.inveno.com
