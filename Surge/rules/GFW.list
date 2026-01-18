@@ -1,5 +1,5 @@
 # NAME: GFW
-# TOTAL: 8680
+# TOTAL: 8685
 
 DOMAIN,api.mixpanel.com
 DOMAIN,audio4-ak-spotify-com.akamaized.net
@@ -335,6 +335,7 @@ DOMAIN-SUFFIX,aka.ms
 DOMAIN-SUFFIX,akademiye.org
 DOMAIN-SUFFIX,akadns.net
 DOMAIN-SUFFIX,akamai.net
+DOMAIN-SUFFIX,akamai.tvb.com
 DOMAIN-SUFFIX,akamaihd.net
 DOMAIN-SUFFIX,akamaistream.net
 DOMAIN-SUFFIX,akamaized.net
@@ -429,7 +430,10 @@ DOMAIN-SUFFIX,animecrazy.net
 DOMAIN-SUFFIX,animeshippuuden.com
 DOMAIN-SUFFIX,aniscartujo.com
 DOMAIN-SUFFIX,ankarazirvesi2018.com
+DOMAIN-SUFFIX,annas-archive.in
+DOMAIN-SUFFIX,annas-archive.li
 DOMAIN-SUFFIX,annas-archive.org
+DOMAIN-SUFFIX,annas-archive.pm
 DOMAIN-SUFFIX,annas-archive.se
 DOMAIN-SUFFIX,annatam.com
 DOMAIN-SUFFIX,anobii.com
@@ -2492,7 +2496,6 @@ DOMAIN-SUFFIX,forum.mymaji.com
 DOMAIN-SUFFIX,forum.omy.sg
 DOMAIN-SUFFIX,forum.palmislife.com
 DOMAIN-SUFFIX,forum.slime.com.tw
-DOMAIN-SUFFIX,forum.tvb.com
 DOMAIN-SUFFIX,forum.xinbao.de
 DOMAIN-SUFFIX,forum4hk.com
 DOMAIN-SUFFIX,forums-free.com
@@ -4985,6 +4988,7 @@ DOMAIN-SUFFIX,myspacecdn.com
 DOMAIN-SUFFIX,mytalkbox.com
 DOMAIN-SUFFIX,myteamspeak.com
 DOMAIN-SUFFIX,mytizi.com
+DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,mywife.cc
 DOMAIN-SUFFIX,mywww.biz
 DOMAIN-SUFFIX,myz.info
@@ -7237,6 +7241,7 @@ DOMAIN-SUFFIX,tv.com
 DOMAIN-SUFFIX,tv.jtbc.joins.com
 DOMAIN-SUFFIX,tvants.com
 DOMAIN-SUFFIX,tvb.com
+DOMAIN-SUFFIX,tvbanywhere.com
 DOMAIN-SUFFIX,tvboxnow.com
 DOMAIN-SUFFIX,tvbs.com.tw
 DOMAIN-SUFFIX,tvider.com
