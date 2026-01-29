@@ -39,12 +39,13 @@ jobs:
           curl -fsSL -o sing-box.tar.gz "https://github.com/SagerNet/sing-box/releases/download/v${SING_BOX_VERSION}/sing-box-${SING_BOX_VERSION}-linux-amd64.tar.gz"
           tar -xzf sing-box.tar.gz
           chmod +x "sing-box-${SING_BOX_VERSION}-linux-amd64/sing-box"
-          sudo  mv "sing-box-${SING_BOX_VERSION}-linux-amd64/sing-box" /usr/local/bin/sing-box
+          sudo mv "sing-box-${SING_BOX_VERSION}-linux-amd64/sing-box" /usr/local/bin/sing-box
           sing-box version
           for file in sing-box/rule/*.json; do
             [ ! -f "$file" ] && echo "$file not found." && continue
             sing-box rule-set compile "$file" -o "${file%.json}.srs"
           done
+          rm -rf sing-box-${SING_BOX_VERSION}-linux-amd64 sing-box.tar.gz
 
       - name: Push Update
         run: |
