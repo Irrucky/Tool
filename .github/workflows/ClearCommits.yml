@@ -1,0 +1,32 @@
+name: Clean commit
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4.2.2
+        with:
+          ref: main
+      - name: Configure Git
+        run: |
+          git config --local user.name "actions"
+          git config --local user.email "action@github.com"
+          git checkout --orphan clearhistory
+          git branch -D main
+          git checkout --orphan main
+          git add .
+          git commit -m "ㅤ"
+          git push -f -u origin main
+          
+      - name: Cleanup Workflow
+        uses: Mattraks/delete-workflow-runs@main
+        with:
+          retain_days: 0
+          keep_minimum_runs: 0
