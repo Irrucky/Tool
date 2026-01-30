@@ -72,7 +72,7 @@ curl -L -o QuantumultX/Script/resourse-parser.js "https://raw.githubusercontent.
 } >> Surge/rules/Porn+.list
 
 curl -L -o sing-box/rule/AppleProxy.json "https://github.com/Repcz/Tool/raw/X/Surge/Rules/AppleProxy.list"
-curl -L -o sing-box/rule/Goole.json "https://github.com/blackmatrix7/ios_rule_script/raw/master/rule/Surge/Google/Google.list"
+curl -L -o sing-box/rule/Google.json "https://github.com/blackmatrix7/ios_rule_script/raw/master/rule/Surge/Google/Google.list"
 curl -L -o sing-box/rule/YouTube.json "https://github.com/blackmatrix7/ios_rule_script/raw/master/rule/Surge/YouTube/YouTube.list"
 curl -L -o sing-box/rule/AI.json "https://github.com/Repcz/Tool/raw/X/Surge/Rules/AI.list"
 curl -L -o sing-box/rule/Twitter.json "https://github.com/Repcz/Tool/raw/X/Surge/Rules/Twitter.list"

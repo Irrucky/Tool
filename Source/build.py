@@ -5,17 +5,52 @@ import re
 from collections import defaultdict
 from pathlib import Path
 
-def process_surge():
-    rules_folder = Path("../Surge/rules")
+SCRIPT_DIR = Path(__file__).resolve().parent.parent
+
+VALID_PREFIXES = [
+    'DOMAIN,', 'DOMAIN-SUFFIX,', 'DOMAIN-KEYWORD,',
+    'DOMAIN-WILDCARD,', 'IP-CIDR,', 'IP-CIDR6,', 'IP-ASN,'
+]
+
+IP_CIDR_PREFIXES = ('IP-CIDR,', 'IP-CIDR6,', 'IP-ASN,')
+
+
+def _find_files(folder_name: str, pattern: str) -> list[Path]:
+    rules_folder = SCRIPT_DIR / folder_name
 
     if not rules_folder.exists():
         print(f"Error: Folder {rules_folder} does not exist")
-        return
+        return []
 
-    list_files = list(rules_folder.glob("*.list"))
+    files = list(rules_folder.glob(pattern))
+
+    if not files:
+        print(f"Warning: No {pattern} files found in {rules_folder}")
+        return []
+
+    return files
+
+
+def _parse_line(line: str) -> str | None:
+    line = line.strip()
+    if not line or line.startswith('#'):
+        return None
+
+    line = re.sub(r'(?<!:)//.*$', '', line).strip()
+    if '#' in line:
+        line = line.split('#')[0].strip()
+
+    return line if line else None
+
+
+def _deduplicate_and_sort(lines: list[str]) -> list[str]:
+    return list(dict.fromkeys(lines))
+
+
+def process_surge():
+    list_files = _find_files("Surge/rules", "*.list")
 
     if not list_files:
-        print(f"Warning: No .list files found in {rules_folder}")
         return
 
     print(f"Found {len(list_files)} .list files")
@@ -36,30 +71,17 @@ def process_single_file(file_path):
 
         processed_lines = []
         for line in lines:
-            line = line.strip()
-            if not line or line.startswith('#'):
+            parsed = _parse_line(line)
+            if not parsed:
                 continue
 
-            line = re.sub(r'(?<!:)//.*$', '', line).strip()
-            if '#' in line:
-                line = line.split('#')[0].strip()
-
-            if not line:
+            if not any(parsed.startswith(prefix) for prefix in VALID_PREFIXES):
                 continue
 
-            valid_prefixes = [
-                'DOMAIN,', 'DOMAIN-SUFFIX,', 'DOMAIN-KEYWORD,',
-                'DOMAIN-WILDCARD,', 'IP-CIDR,', 'IP-CIDR6,', 'IP-ASN,'
-            ]
+            if parsed.startswith(IP_CIDR_PREFIXES) and not parsed.endswith(',no-resolve'):
+                parsed = parsed + ',no-resolve'
 
-            if not any(line.startswith(prefix) for prefix in valid_prefixes):
-                continue
-
-            if line.startswith(('IP-CIDR,', 'IP-CIDR6,', 'IP-ASN,')):
-                if not line.endswith(',no-resolve'):
-                    line = line + ',no-resolve'
-
-            processed_lines.append(line)
+            processed_lines.append(parsed)
 
         if file_name == 'Ads_AWAvenue.list':
             processed_lines = [line for line in processed_lines
@@ -75,7 +97,7 @@ def process_single_file(file_path):
             processed_lines = [line for line in processed_lines
                                if 'ad.12306.cn' not in line]
 
-        processed_lines = sorted(set(processed_lines))
+        processed_lines = _deduplicate_and_sort(processed_lines)
 
         name = file_path.stem
         count = len(processed_lines)
@@ -99,17 +121,11 @@ def process_single_file(file_path):
 
 
 def process_sing_box():
-    rules_folder = Path("../sing-box/rule")
-
-    if not rules_folder.exists():
-        print(f"Error: Folder {rules_folder} does not exist")
-        return
-
-    json_files = list(rules_folder.glob("*.json"))
+    json_files = _find_files("sing-box/rule", "*.json")
 
     if not json_files:
-        print(f"Warning: No .json files found in {rules_folder}")
         return
+
     print(f"Found {len(json_files)} .json files")
 
     for file_path in json_files:
@@ -127,44 +143,36 @@ def process_single_json(file_path):
         rules_dict = defaultdict(list)
 
         for line in lines:
-            line = line.strip()
-
-            if not line or line.startswith('#'):
+            parsed = _parse_line(line)
+            if not parsed:
                 continue
 
-            line = re.sub(r'(?<!:)//.*$', '', line).strip()
-            if '#' in line:
-                line = line.split('#')[0].strip()
-
-            if not line:
-                continue
-
-            if line.startswith('DOMAIN,'):
-                domain = line.replace('DOMAIN,', '').split(',')[0].strip()
+            if parsed.startswith('DOMAIN,'):
+                domain = parsed.replace('DOMAIN,', '').split(',')[0].strip()
                 if domain:
                     rules_dict['domain'].append(domain)
 
-            elif line.startswith('DOMAIN-SUFFIX,'):
-                suffix = line.replace('DOMAIN-SUFFIX,', '').split(',')[0].strip()
+            elif parsed.startswith('DOMAIN-SUFFIX,'):
+                suffix = parsed.replace('DOMAIN-SUFFIX,', '').split(',')[0].strip()
                 if suffix:
                     rules_dict['domain_suffix'].append(suffix)
 
-            elif line.startswith('DOMAIN-KEYWORD,'):
-                keyword = line.replace('DOMAIN-KEYWORD,', '').split(',')[0].strip()
+            elif parsed.startswith('DOMAIN-KEYWORD,'):
+                keyword = parsed.replace('DOMAIN-KEYWORD,', '').split(',')[0].strip()
                 if keyword:
                     rules_dict['domain_keyword'].append(keyword)
 
-            elif line.startswith('IP-CIDR,') or line.startswith('IP-CIDR6,'):
-                if line.startswith('IP-CIDR,'):
-                    cidr = line.replace('IP-CIDR,', '').split(',')[0].strip()
+            elif parsed.startswith('IP-CIDR,') or parsed.startswith('IP-CIDR6,'):
+                if parsed.startswith('IP-CIDR,'):
+                    cidr = parsed.replace('IP-CIDR,', '').split(',')[0].strip()
                 else:
-                    cidr = line.replace('IP-CIDR6,', '').split(',')[0].strip()
+                    cidr = parsed.replace('IP-CIDR6,', '').split(',')[0].strip()
 
                 if cidr:
                     rules_dict['ip_cidr'].append(cidr)
 
         for rule_type in rules_dict:
-            rules_dict[rule_type] = sorted(set(rules_dict[rule_type]))
+            rules_dict[rule_type] = _deduplicate_and_sort(rules_dict[rule_type])
 
         json_output = {
             "version": 3,
