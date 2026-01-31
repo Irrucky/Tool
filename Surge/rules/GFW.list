@@ -1,5 +1,5 @@
 # Name: GFW
-# Count: 8655
+# Count: 8657
 
 DOMAIN,voice.telephony.goog
 DOMAIN-SUFFIX,0emm.com
@@ -8515,6 +8515,7 @@ DOMAIN-SUFFIX,share.america.gov
 DOMAIN-SUFFIX,share.ovi.com
 DOMAIN-SUFFIX,share.youthwant.com.tw
 DOMAIN-SUFFIX,shopping.yahoo.co.jp
+DOMAIN-SUFFIX,simianx.ai
 DOMAIN-SUFFIX,simplecd.me
 DOMAIN-SUFFIX,social.datalabour.com
 DOMAIN-SUFFIX,softwaredownload.gitbooks.io
@@ -8647,6 +8648,7 @@ DOMAIN-SUFFIX,xcancel.com
 DOMAIN-SUFFIX,xijie.wordpress.com
 DOMAIN-SUFFIX,xinqimeng.over-blog.com
 DOMAIN-SUFFIX,xys.dxiong.com
+DOMAIN-SUFFIX,yfsp.tv
 DOMAIN-SUFFIX,youmind.com
 DOMAIN-SUFFIX,zh-hans.cfsh99.com
 DOMAIN-SUFFIX,zh.ecdm.wikia.com
