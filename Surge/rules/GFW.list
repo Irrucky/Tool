@@ -1,5 +1,5 @@
 # Name: GFW
-# Count: 8660
+# Count: 8661
 
 DOMAIN,voice.telephony.goog
 DOMAIN-SUFFIX,0emm.com
@@ -8543,6 +8543,7 @@ DOMAIN-SUFFIX,sujiatun.wordpress.com
 DOMAIN-SUFFIX,sunwinism.joinbbs.net
 DOMAIN-SUFFIX,sydney.bing.com
 DOMAIN-SUFFIX,tacc.cwb.gov.tw
+DOMAIN-SUFFIX,tails.net
 DOMAIN-SUFFIX,taipei.gov.tw
 DOMAIN-SUFFIX,taiwanjobs.gov.tw
 DOMAIN-SUFFIX,taiwannation.50webs.com
