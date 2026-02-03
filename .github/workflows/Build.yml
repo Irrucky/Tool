@@ -27,15 +27,11 @@ jobs:
 
       - name: Download
         run: |
-          bash Source/build.sh
+          bash Source/build.sh   
 
       - name: Process
         run: |
-          cd Source
-          python ./build.py
-
-      - name: Generate srs
-        run: |
+          python Source/build.py
           curl -fsSL -o sing-box.tar.gz "https://github.com/SagerNet/sing-box/releases/download/v${SING_BOX_VERSION}/sing-box-${SING_BOX_VERSION}-linux-amd64.tar.gz"
           tar -xzf sing-box.tar.gz
           chmod +x "sing-box-${SING_BOX_VERSION}-linux-amd64/sing-box"
