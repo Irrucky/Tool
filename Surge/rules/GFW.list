@@ -1,5 +1,5 @@
 # Name: GFW
-# Count: 8667
+# Count: 8658
 
 DOMAIN,voice.telephony.goog
 DOMAIN-SUFFIX,0emm.com
@@ -8194,7 +8194,6 @@ DOMAIN-SUFFIX,56cun04.jigsy.com
 DOMAIN-SUFFIX,89.64.charter.constitutionalism.solutions
 DOMAIN-SUFFIX,a248.e.akamai.net
 DOMAIN-SUFFIX,abematv.akamaized.net
-DOMAIN-SUFFIX,abitno.linpie.com
 DOMAIN-SUFFIX,about.gitlab.com
 DOMAIN-SUFFIX,addons.mozilla.org
 DOMAIN-SUFFIX,admin.recaptcha.net
@@ -8235,7 +8234,6 @@ DOMAIN-SUFFIX,bbs.hanminzu.org
 DOMAIN-SUFFIX,bbs.huasing.org
 DOMAIN-SUFFIX,bbs.junglobal.net
 DOMAIN-SUFFIX,bbs.mikocon.com
-DOMAIN-SUFFIX,bbs.morbell.com
 DOMAIN-SUFFIX,bbs.mychat.to
 DOMAIN-SUFFIX,bbs.naixi.net
 DOMAIN-SUFFIX,bbs.nyinfor.com
@@ -8252,7 +8250,6 @@ DOMAIN-SUFFIX,blog.foolsmountain.com
 DOMAIN-SUFFIX,blog.fuckgfw233.org
 DOMAIN-SUFFIX,blog.goo.ne.jp
 DOMAIN-SUFFIX,blog.jackjia.com
-DOMAIN-SUFFIX,blog.lester850.info
 DOMAIN-SUFFIX,blog.martinoei.com
 DOMAIN-SUFFIX,blog.pathtosharepoint.com
 DOMAIN-SUFFIX,blog.pentalogic.net
@@ -8273,8 +8270,6 @@ DOMAIN-SUFFIX,casino.williamhill.com
 DOMAIN-SUFFIX,cbs.ntu.edu.tw
 DOMAIN-SUFFIX,cdn-images.mailchimp.com
 DOMAIN-SUFFIX,cdn.arstechnica.net
-DOMAIN-SUFFIX,cdn.assets.lfpcontent.com
-DOMAIN-SUFFIX,cdn.helixstudios.net
 DOMAIN-SUFFIX,cdn.jwplayer.com
 DOMAIN-SUFFIX,cdn.printfriendly.com
 DOMAIN-SUFFIX,cdn.seatguru.com
@@ -8345,7 +8340,6 @@ DOMAIN-SUFFIX,files.oaiusercontent.com
 DOMAIN-SUFFIX,fnc.ebc.net.tw
 DOMAIN-SUFFIX,forum.baby-kingdom.com
 DOMAIN-SUFFIX,forum.cyberctm.com
-DOMAIN-SUFFIX,forum.mymaji.com
 DOMAIN-SUFFIX,forum.palmislife.com
 DOMAIN-SUFFIX,forum.slime.com.tw
 DOMAIN-SUFFIX,forum.xinbao.de
@@ -8369,7 +8363,6 @@ DOMAIN-SUFFIX,hk.jiepang.com
 DOMAIN-SUFFIX,hka8964.wordpress.com
 DOMAIN-SUFFIX,hkanews.wordpress.com
 DOMAIN-SUFFIX,hkcoc.weather.com.hk
-DOMAIN-SUFFIX,hkreporter.loved.hk
 DOMAIN-SUFFIX,hole.thu.monster
 DOMAIN-SUFFIX,home.sina.com
 DOMAIN-SUFFIX,hongkong.fandom.com
@@ -8397,7 +8390,6 @@ DOMAIN-SUFFIX,isc.sans.edu
 DOMAIN-SUFFIX,itaiwan.gov.tw
 DOMAIN-SUFFIX,ithelp.ithome.com.tw
 DOMAIN-SUFFIX,jhelab.org
-DOMAIN-SUFFIX,jihadintel.meforum.org
 DOMAIN-SUFFIX,jmsc.hku.hk
 DOMAIN-SUFFIX,jobnewera.wordpress.com
 DOMAIN-SUFFIX,jp.hao123.com
@@ -8434,7 +8426,6 @@ DOMAIN-SUFFIX,moj.gov.tw
 DOMAIN-SUFFIX,mol.gov.tw
 DOMAIN-SUFFIX,mvdis.gov.tw
 DOMAIN-SUFFIX,mx.hao123.com
-DOMAIN-SUFFIX,my.mail.ru
 DOMAIN-SUFFIX,my.opera.com
 DOMAIN-SUFFIX,my.pcloud.com
 DOMAIN-SUFFIX,myshare.url.com.tw
@@ -8460,7 +8451,6 @@ DOMAIN-SUFFIX,news.ycombinator.com
 DOMAIN-SUFFIX,nhi.gov.tw
 DOMAIN-SUFFIX,nic.cz.cc
 DOMAIN-SUFFIX,nikke.hotcool.tw
-DOMAIN-SUFFIX,nko.navy.mil
 DOMAIN-SUFFIX,npa.gov.tw
 DOMAIN-SUFFIX,npm.gov.tw
 DOMAIN-SUFFIX,nsc.gov.tw
@@ -8610,6 +8600,7 @@ DOMAIN-SUFFIX,wiki.metacubex.one
 DOMAIN-SUFFIX,wiki.oauth.net
 DOMAIN-SUFFIX,wiki.phonegap.com
 DOMAIN-SUFFIX,wikiless.funami.tech
+DOMAIN-SUFFIX,wikis.tw
 DOMAIN-SUFFIX,wlcnew.jigsy.com
 DOMAIN-SUFFIX,wo3ttt.wordpress.com
 DOMAIN-SUFFIX,writer.zoho.com
