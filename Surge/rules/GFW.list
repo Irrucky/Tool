@@ -1,5 +1,5 @@
 # Name: GFW
-# Count: 8544
+# Count: 8545
 
 DOMAIN,voice.telephony.goog
 DOMAIN-SUFFIX,0emm.com
@@ -8495,6 +8495,7 @@ DOMAIN-SUFFIX,vod.wwe.com
 DOMAIN-SUFFIX,vpl.bibliocommons.com
 DOMAIN-SUFFIX,vpn.cmu.edu
 DOMAIN-SUFFIX,vpn.sv.cmu.edu
+DOMAIN-SUFFIX,wallzhihu.com
 DOMAIN-SUFFIX,wda.gov.tw
 DOMAIN-SUFFIX,wego.here.com
 DOMAIN-SUFFIX,weights.com
