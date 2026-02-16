@@ -1,5 +1,5 @@
 # Name: GFW
-# Count: 8545
+# Count: 8548
 
 DOMAIN,voice.telephony.goog
 DOMAIN-SUFFIX,0emm.com
@@ -8313,6 +8313,7 @@ DOMAIN-SUFFIX,gettyimages.it
 DOMAIN-SUFFIX,gettyimages.us
 DOMAIN-SUFFIX,gfwbao.com
 DOMAIN-SUFFIX,global.bing.com
+DOMAIN-SUFFIX,gmgn.ai
 DOMAIN-SUFFIX,gojet.krtco.com.tw
 DOMAIN-SUFFIX,greatfire.us7.list-manage.com
 DOMAIN-SUFFIX,grokipedia.com
@@ -8451,6 +8452,7 @@ DOMAIN-SUFFIX,softwaredownload.gitbooks.io
 DOMAIN-SUFFIX,solarsystem.nasa.gov
 DOMAIN-SUFFIX,southpark.cc.com
 DOMAIN-SUFFIX,spaces.hightail.com
+DOMAIN-SUFFIX,spacex.com
 DOMAIN-SUFFIX,sports.williamhill.com
 DOMAIN-SUFFIX,ss7.vzw.com
 DOMAIN-SUFFIX,ssl.webpack.de
@@ -8495,6 +8497,7 @@ DOMAIN-SUFFIX,vod.wwe.com
 DOMAIN-SUFFIX,vpl.bibliocommons.com
 DOMAIN-SUFFIX,vpn.cmu.edu
 DOMAIN-SUFFIX,vpn.sv.cmu.edu
+DOMAIN-SUFFIX,walletconnect.org
 DOMAIN-SUFFIX,wallzhihu.com
 DOMAIN-SUFFIX,wda.gov.tw
 DOMAIN-SUFFIX,wego.here.com
