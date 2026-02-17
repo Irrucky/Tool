@@ -1,5 +1,5 @@
 # Name: GFW
-# Count: 8548
+# Count: 8514
 
 DOMAIN,voice.telephony.goog
 DOMAIN-SUFFIX,0emm.com
@@ -8197,7 +8197,6 @@ DOMAIN-SUFFIX,addons.mozilla.org
 DOMAIN-SUFFIX,admin.recaptcha.net
 DOMAIN-SUFFIX,adult.friendfinder.com
 DOMAIN-SUFFIX,ai.studio
-DOMAIN-SUFFIX,aiss.anws.gov.tw
 DOMAIN-SUFFIX,akamai.tvb.com
 DOMAIN-SUFFIX,aljazeera.net
 DOMAIN-SUFFIX,annas-archive.in
@@ -8214,7 +8213,6 @@ DOMAIN-SUFFIX,app.box.com
 DOMAIN-SUFFIX,app.cloudcone.com
 DOMAIN-SUFFIX,app.smartmailcloud.com
 DOMAIN-SUFFIX,apps.evozi.com
-DOMAIN-SUFFIX,archives.gov.tw
 DOMAIN-SUFFIX,assets.bwbx.io
 DOMAIN-SUFFIX,auctions.yahoo.co.jp
 DOMAIN-SUFFIX,auntology.fandom.com
@@ -8277,7 +8275,6 @@ DOMAIN-SUFFIX,contests.twilio.com
 DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,css.pixnet.in
 DOMAIN-SUFFIX,danbooru.donmai.us
-DOMAIN-SUFFIX,data.gov.tw
 DOMAIN-SUFFIX,dazn.com
 DOMAIN-SUFFIX,dcs-spotify.megaphone.fm
 DOMAIN-SUFFIX,demo.unlock-music.dev
@@ -8292,11 +8289,7 @@ DOMAIN-SUFFIX,en.favotter.net
 DOMAIN-SUFFIX,esg.t91y.com
 DOMAIN-SUFFIX,etools.ncol.com
 DOMAIN-SUFFIX,evchk.wikia.com
-DOMAIN-SUFFIX,exam.gov.tw
-DOMAIN-SUFFIX,ey.gov.tw
-DOMAIN-SUFFIX,fa.gov.tw
 DOMAIN-SUFFIX,fast.wistia.com
-DOMAIN-SUFFIX,fda.gov.tw
 DOMAIN-SUFFIX,feeds.fileforum.com
 DOMAIN-SUFFIX,fiddle.jshell.net
 DOMAIN-SUFFIX,files.oaiusercontent.com
@@ -8327,7 +8320,6 @@ DOMAIN-SUFFIX,hkanews.wordpress.com
 DOMAIN-SUFFIX,hkcoc.weather.com.hk
 DOMAIN-SUFFIX,hole.thu.monster
 DOMAIN-SUFFIX,hongkong.fandom.com
-DOMAIN-SUFFIX,hpa.gov.tw
 DOMAIN-SUFFIX,hqsbnet.wordpress.com
 DOMAIN-SUFFIX,hqsbonline.wordpress.com
 DOMAIN-SUFFIX,htx.com
@@ -8342,17 +8334,14 @@ DOMAIN-SUFFIX,iipdigital.usembassy.gov
 DOMAIN-SUFFIX,images.prismic.io
 DOMAIN-SUFFIX,img.dlsite.jp
 DOMAIN-SUFFIX,img.picgo.net
-DOMAIN-SUFFIX,immigration.gov.tw
 DOMAIN-SUFFIX,inews-api.tvb.com
 DOMAIN-SUFFIX,investigating.wordpress.com
 DOMAIN-SUFFIX,ipfs.4everland.io
 DOMAIN-SUFFIX,isc.sans.edu
-DOMAIN-SUFFIX,itaiwan.gov.tw
 DOMAIN-SUFFIX,jhelab.org
 DOMAIN-SUFFIX,jmsc.hku.hk
 DOMAIN-SUFFIX,jobnewera.wordpress.com
 DOMAIN-SUFFIX,jpl.nasa.gov
-DOMAIN-SUFFIX,judicial.gov.tw
 DOMAIN-SUFFIX,kb.monitorware.com
 DOMAIN-SUFFIX,lab.skk.moe
 DOMAIN-SUFFIX,library.usc.cuhk.edu.hk
@@ -8360,7 +8349,6 @@ DOMAIN-SUFFIX,linear-abematv.akamaized.net
 DOMAIN-SUFFIX,login.target.com
 DOMAIN-SUFFIX,lovart.ai
 DOMAIN-SUFFIX,lt.sntp.uk
-DOMAIN-SUFFIX,ly.gov.tw
 DOMAIN-SUFFIX,m.hkgalden.com
 DOMAIN-SUFFIX,m.moegirl.org
 DOMAIN-SUFFIX,main-ecnpaper-economist.content.pugpig.com
@@ -8370,18 +8358,11 @@ DOMAIN-SUFFIX,me.ns.ci
 DOMAIN-SUFFIX,media.nu.nl
 DOMAIN-SUFFIX,mike.cz.cc
 DOMAIN-SUFFIX,minghuiyw.wordpress.com
-DOMAIN-SUFFIX,mjib.gov.tw
 DOMAIN-SUFFIX,mjlsh.usc.cuhk.edu.hk
 DOMAIN-SUFFIX,mo.nightlife141.com
-DOMAIN-SUFFIX,moeaic.gov.tw
-DOMAIN-SUFFIX,mofa.gov.tw
-DOMAIN-SUFFIX,moj.gov.tw
-DOMAIN-SUFFIX,mol.gov.tw
-DOMAIN-SUFFIX,mvdis.gov.tw
 DOMAIN-SUFFIX,my.pcloud.com
 DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,nakedsecurity.sophos.com
-DOMAIN-SUFFIX,nat.gov.tw
 DOMAIN-SUFFIX,navyfamily.navy.mil
 DOMAIN-SUFFIX,navyreserve.navy.mil
 DOMAIN-SUFFIX,nephobox.com
@@ -8390,15 +8371,8 @@ DOMAIN-SUFFIX,news.mt.co.kr
 DOMAIN-SUFFIX,news.seehua.com
 DOMAIN-SUFFIX,news.tvbs.com.tw
 DOMAIN-SUFFIX,news.ycombinator.com
-DOMAIN-SUFFIX,nhi.gov.tw
 DOMAIN-SUFFIX,nic.cz.cc
 DOMAIN-SUFFIX,nikke.hotcool.tw
-DOMAIN-SUFFIX,npa.gov.tw
-DOMAIN-SUFFIX,npm.gov.tw
-DOMAIN-SUFFIX,nsc.gov.tw
-DOMAIN-SUFFIX,ntbk.gov.tw
-DOMAIN-SUFFIX,ntbna.gov.tw
-DOMAIN-SUFFIX,ntbt.gov.tw
 DOMAIN-SUFFIX,old.honeynet.org
 DOMAIN-SUFFIX,one.one.one.one
 DOMAIN-SUFFIX,online.recoveryversion.org
@@ -8409,7 +8383,6 @@ DOMAIN-SUFFIX,ordns.he.net
 DOMAIN-SUFFIX,oversea.istarshine.com
 DOMAIN-SUFFIX,partnerstack.xyz
 DOMAIN-SUFFIX,payments-jp.amazon.com
-DOMAIN-SUFFIX,pcc.gov.tw
 DOMAIN-SUFFIX,pds.nasa.gov
 DOMAIN-SUFFIX,pdst.fm
 DOMAIN-SUFFIX,phosphation13.rssing.com
@@ -8442,7 +8415,6 @@ DOMAIN-SUFFIX,search.yahoo.co.jp
 DOMAIN-SUFFIX,secure.hustler.com
 DOMAIN-SUFFIX,secure.logmein.com
 DOMAIN-SUFFIX,secure.shadowsocks.nu
-DOMAIN-SUFFIX,sef.org.tw
 DOMAIN-SUFFIX,share.america.gov
 DOMAIN-SUFFIX,shopping.yahoo.co.jp
 DOMAIN-SUFFIX,simianx.ai
@@ -8456,7 +8428,6 @@ DOMAIN-SUFFIX,spacex.com
 DOMAIN-SUFFIX,sports.williamhill.com
 DOMAIN-SUFFIX,ss7.vzw.com
 DOMAIN-SUFFIX,ssl.webpack.de
-DOMAIN-SUFFIX,stat.gov.tw
 DOMAIN-SUFFIX,static.pocketcasts.com
 DOMAIN-SUFFIX,static.shemalez.com
 DOMAIN-SUFFIX,steamladder.com
@@ -8465,15 +8436,10 @@ DOMAIN-SUFFIX,store.steampowered.com
 DOMAIN-SUFFIX,suche.gmx.net
 DOMAIN-SUFFIX,sujiatun.wordpress.com
 DOMAIN-SUFFIX,sydney.bing.com
-DOMAIN-SUFFIX,tacc.cwb.gov.tw
 DOMAIN-SUFFIX,tails.net
-DOMAIN-SUFFIX,taipei.gov.tw
-DOMAIN-SUFFIX,taiwanjobs.gov.tw
 DOMAIN-SUFFIX,tarr.uspto.gov
-DOMAIN-SUFFIX,thb.gov.tw
 DOMAIN-SUFFIX,thecenter.mit.edu
 DOMAIN-SUFFIX,timesofindia.indiatimes.com
-DOMAIN-SUFFIX,tipo.gov.tw
 DOMAIN-SUFFIX,tn1.shemalez.com
 DOMAIN-SUFFIX,tn2.shemalez.com
 DOMAIN-SUFFIX,tn3.shemalez.com
@@ -8483,6 +8449,7 @@ DOMAIN-SUFFIX,tunein.streamguys1.com
 DOMAIN-SUFFIX,tv.jtbc.joins.com
 DOMAIN-SUFFIX,tvbanywhere.com
 DOMAIN-SUFFIX,tw.jiepang.com
+DOMAIN-SUFFIX,twgov.tw
 DOMAIN-SUFFIX,twimg.edgesuite.net
 DOMAIN-SUFFIX,up.audio
 DOMAIN-SUFFIX,updates.tdesktop.com
@@ -8499,7 +8466,6 @@ DOMAIN-SUFFIX,vpn.cmu.edu
 DOMAIN-SUFFIX,vpn.sv.cmu.edu
 DOMAIN-SUFFIX,walletconnect.org
 DOMAIN-SUFFIX,wallzhihu.com
-DOMAIN-SUFFIX,wda.gov.tw
 DOMAIN-SUFFIX,wego.here.com
 DOMAIN-SUFFIX,weights.com
 DOMAIN-SUFFIX,wiki.gamerp.jp
