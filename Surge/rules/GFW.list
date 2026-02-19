@@ -1,5 +1,5 @@
 # Name: GFW
-# Count: 8514
+# Count: 8515
 
 DOMAIN,voice.telephony.goog
 DOMAIN-SUFFIX,0emm.com
@@ -8360,6 +8360,7 @@ DOMAIN-SUFFIX,mike.cz.cc
 DOMAIN-SUFFIX,minghuiyw.wordpress.com
 DOMAIN-SUFFIX,mjlsh.usc.cuhk.edu.hk
 DOMAIN-SUFFIX,mo.nightlife141.com
+DOMAIN-SUFFIX,mosavi.io
 DOMAIN-SUFFIX,my.pcloud.com
 DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,nakedsecurity.sophos.com
