@@ -1,5 +1,5 @@
 # Name: GFW
-# Count: 8515
+# Count: 8520
 
 DOMAIN,voice.telephony.goog
 DOMAIN-SUFFIX,0emm.com
@@ -8198,6 +8198,7 @@ DOMAIN-SUFFIX,admin.recaptcha.net
 DOMAIN-SUFFIX,adult.friendfinder.com
 DOMAIN-SUFFIX,ai.studio
 DOMAIN-SUFFIX,akamai.tvb.com
+DOMAIN-SUFFIX,akile.io
 DOMAIN-SUFFIX,aljazeera.net
 DOMAIN-SUFFIX,annas-archive.in
 DOMAIN-SUFFIX,annas-archive.li
@@ -8214,6 +8215,7 @@ DOMAIN-SUFFIX,app.cloudcone.com
 DOMAIN-SUFFIX,app.smartmailcloud.com
 DOMAIN-SUFFIX,apps.evozi.com
 DOMAIN-SUFFIX,assets.bwbx.io
+DOMAIN-SUFFIX,assets.nxtrace.org
 DOMAIN-SUFFIX,auctions.yahoo.co.jp
 DOMAIN-SUFFIX,auntology.fandom.com
 DOMAIN-SUFFIX,b.hatena.ne.jp
@@ -8356,6 +8358,7 @@ DOMAIN-SUFFIX,matthewdgreen.wordpress.com
 DOMAIN-SUFFIX,maven.neoforged.net
 DOMAIN-SUFFIX,me.ns.ci
 DOMAIN-SUFFIX,media.nu.nl
+DOMAIN-SUFFIX,meee.com.tw
 DOMAIN-SUFFIX,mike.cz.cc
 DOMAIN-SUFFIX,minghuiyw.wordpress.com
 DOMAIN-SUFFIX,mjlsh.usc.cuhk.edu.hk
@@ -8380,6 +8383,7 @@ DOMAIN-SUFFIX,online.recoveryversion.org
 DOMAIN-SUFFIX,ooni.io
 DOMAIN-SUFFIX,ooni.org
 DOMAIN-SUFFIX,open.firstory.me
+DOMAIN-SUFFIX,opencritic.com
 DOMAIN-SUFFIX,ordns.he.net
 DOMAIN-SUFFIX,oversea.istarshine.com
 DOMAIN-SUFFIX,partnerstack.xyz
@@ -8481,6 +8485,7 @@ DOMAIN-SUFFIX,www.ajsands.com
 DOMAIN-SUFFIX,www.antd.org
 DOMAIN-SUFFIX,www.aolnews.com
 DOMAIN-SUFFIX,www.bing.com
+DOMAIN-SUFFIX,www.clashverge.dev
 DOMAIN-SUFFIX,www.cmoinc.org
 DOMAIN-SUFFIX,www.dmm.com
 DOMAIN-SUFFIX,www.eastturkistan.net
