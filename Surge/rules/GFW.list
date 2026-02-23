@@ -1,5 +1,5 @@
 # Name: GFW
-# Count: 8520
+# Count: 8522
 
 DOMAIN,voice.telephony.goog
 DOMAIN-SUFFIX,0emm.com
@@ -8448,6 +8448,7 @@ DOMAIN-SUFFIX,timesofindia.indiatimes.com
 DOMAIN-SUFFIX,tn1.shemalez.com
 DOMAIN-SUFFIX,tn2.shemalez.com
 DOMAIN-SUFFIX,tn3.shemalez.com
+DOMAIN-SUFFIX,tor.eff.org
 DOMAIN-SUFFIX,tosh.comedycentral.com
 DOMAIN-SUFFIX,tsdr.uspto.gov
 DOMAIN-SUFFIX,tunein.streamguys1.com
@@ -8456,6 +8457,7 @@ DOMAIN-SUFFIX,tvbanywhere.com
 DOMAIN-SUFFIX,tw.jiepang.com
 DOMAIN-SUFFIX,twgov.tw
 DOMAIN-SUFFIX,twimg.edgesuite.net
+DOMAIN-SUFFIX,uniswap.org
 DOMAIN-SUFFIX,up.audio
 DOMAIN-SUFFIX,updates.tdesktop.com
 DOMAIN-SUFFIX,use.typekit.net
