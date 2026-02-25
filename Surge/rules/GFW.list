@@ -1,5 +1,5 @@
 # Name: GFW
-# Count: 8522
+# Count: 8523
 
 DOMAIN,voice.telephony.goog
 DOMAIN-SUFFIX,0emm.com
@@ -8297,6 +8297,7 @@ DOMAIN-SUFFIX,fiddle.jshell.net
 DOMAIN-SUFFIX,files.oaiusercontent.com
 DOMAIN-SUFFIX,fnc.ebc.net.tw
 DOMAIN-SUFFIX,forum.cyberctm.com
+DOMAIN-SUFFIX,freedom.gov
 DOMAIN-SUFFIX,freedominfonetweb.wordpress.com
 DOMAIN-SUFFIX,freeterabox.com
 DOMAIN-SUFFIX,gettyimages.ae
