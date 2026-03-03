@@ -1,5 +1,5 @@
 # Name: GFW
-# Count: 8523
+# Count: 8524
 
 DOMAIN,voice.telephony.goog
 DOMAIN-SUFFIX,0emm.com
@@ -8261,6 +8261,7 @@ DOMAIN-SUFFIX,chenshan20042005.wordpress.com
 DOMAIN-SUFFIX,china.ucanews.com
 DOMAIN-SUFFIX,chinaview.wordpress.com
 DOMAIN-SUFFIX,chinese.engadget.com
+DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,cldr.unicode.org
 DOMAIN-SUFFIX,cloud.dify.ai
 DOMAIN-SUFFIX,cloud.mail.ru
@@ -8355,6 +8356,7 @@ DOMAIN-SUFFIX,lt.sntp.uk
 DOMAIN-SUFFIX,m.hkgalden.com
 DOMAIN-SUFFIX,m.moegirl.org
 DOMAIN-SUFFIX,main-ecnpaper-economist.content.pugpig.com
+DOMAIN-SUFFIX,manus.im
 DOMAIN-SUFFIX,matthewdgreen.wordpress.com
 DOMAIN-SUFFIX,maven.neoforged.net
 DOMAIN-SUFFIX,me.ns.ci
@@ -8497,7 +8499,6 @@ DOMAIN-SUFFIX,www.gmiddle.net
 DOMAIN-SUFFIX,www.hoyolab.com
 DOMAIN-SUFFIX,www.hustlercash.com
 DOMAIN-SUFFIX,www.idlcoyote.com
-DOMAIN-SUFFIX,www.imdb.com
 DOMAIN-SUFFIX,www.kindleren.com
 DOMAIN-SUFFIX,www.lorenzetti.com.br
 DOMAIN-SUFFIX,www.m-sport.co.uk
