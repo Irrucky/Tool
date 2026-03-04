@@ -16,7 +16,7 @@ curl -L -o QuantumultX/Script/resourse-parser.js "https://raw.githubusercontent.
     echo ""
     curl -L "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-Surge-RULE-SET.list"
     echo ""
-} >> Surge/rules/adrules.list
+} > Surge/rules/adrules.list
 
 # Reject.list
 {
