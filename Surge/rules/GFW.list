@@ -1,5 +1,5 @@
 # Name: GFW
-# Count: 8527
+# Count: 8528
 
 DOMAIN,voice.telephony.goog
 DOMAIN-SUFFIX,0emm.com
@@ -8288,6 +8288,7 @@ DOMAIN-SUFFIX,disk.yandex.com
 DOMAIN-SUFFIX,disk.yandex.ru
 DOMAIN-SUFFIX,dl.box.net
 DOMAIN-SUFFIX,download.aircrack-ng.org
+DOMAIN-SUFFIX,download.dappcdn.com
 DOMAIN-SUFFIX,dynupdate.no-ip.com
 DOMAIN-SUFFIX,ebook.hyread.com.tw
 DOMAIN-SUFFIX,en.favotter.net
