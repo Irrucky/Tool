@@ -1,5 +1,5 @@
 # Name: GFW
-# Count: 8533
+# Count: 8535
 
 DOMAIN,voice.telephony.goog
 DOMAIN-SUFFIX,0emm.com
@@ -8386,6 +8386,8 @@ DOMAIN-SUFFIX,news.tvbs.com.tw
 DOMAIN-SUFFIX,news.ycombinator.com
 DOMAIN-SUFFIX,nic.cz.cc
 DOMAIN-SUFFIX,nikke.hotcool.tw
+DOMAIN-SUFFIX,okcoin.com
+DOMAIN-SUFFIX,oklink.com
 DOMAIN-SUFFIX,old.honeynet.org
 DOMAIN-SUFFIX,one.one.one.one
 DOMAIN-SUFFIX,online.recoveryversion.org
