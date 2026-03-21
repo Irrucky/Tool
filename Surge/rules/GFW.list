@@ -1,5 +1,5 @@
 # Name: GFW
-# Count: 8535
+# Count: 8536
 
 DOMAIN,voice.telephony.goog
 DOMAIN-SUFFIX,0emm.com
@@ -8264,6 +8264,7 @@ DOMAIN-SUFFIX,chenshan20042005.wordpress.com
 DOMAIN-SUFFIX,china.ucanews.com
 DOMAIN-SUFFIX,chinaview.wordpress.com
 DOMAIN-SUFFIX,chinese.engadget.com
+DOMAIN-SUFFIX,cia.gov
 DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,cldr.unicode.org
 DOMAIN-SUFFIX,cloud.dify.ai
