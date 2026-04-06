@@ -1,5 +1,5 @@
 # Name: GFW
-# Count: 8539
+# Count: 8543
 
 DOMAIN,voice.telephony.goog
 DOMAIN-SUFFIX,0emm.com
@@ -8215,6 +8215,7 @@ DOMAIN-SUFFIX,app.box.com
 DOMAIN-SUFFIX,app.cloudcone.com
 DOMAIN-SUFFIX,app.smartmailcloud.com
 DOMAIN-SUFFIX,apps.evozi.com
+DOMAIN-SUFFIX,archive-it.org
 DOMAIN-SUFFIX,arena.ai
 DOMAIN-SUFFIX,arweave.org
 DOMAIN-SUFFIX,assets.bwbx.io
@@ -8290,6 +8291,9 @@ DOMAIN-SUFFIX,disk.yandex.com
 DOMAIN-SUFFIX,disk.yandex.ru
 DOMAIN-SUFFIX,dl.box.net
 DOMAIN-SUFFIX,dns.cloudflare.com
+DOMAIN-SUFFIX,dns.sb
+DOMAIN-SUFFIX,doh.sb
+DOMAIN-SUFFIX,dot.sb
 DOMAIN-SUFFIX,download.aircrack-ng.org
 DOMAIN-SUFFIX,download.dappcdn.com
 DOMAIN-SUFFIX,dynupdate.no-ip.com
