@@ -1,5 +1,5 @@
 # Name: Ads_AWAvenue
-# Count: 904
+# Count: 906
 
 DOMAIN,1500020991.vodplayer.wxamedia.com
 DOMAIN,1500022744.vodplayer.wxamedia.com
@@ -197,6 +197,7 @@ DOMAIN,ap.dongqiudi.com
 DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
 DOMAIN,apd-pcdnwxnat.teg.tencent-cloud.net
 DOMAIN,apd-pcdnwxstat.teg.tencent-cloud.net
+DOMAIN,api-access.pangolin-sdk-toutiao-b.com
 DOMAIN,api-access.pangolin-sdk-toutiao.com
 DOMAIN,api-access.pangolin-sdk-toutiao1.com
 DOMAIN,api-access.pangolin-sdk-toutiao2.com
@@ -544,6 +545,7 @@ DOMAIN,mobads-pre-config.cdn.bcebos.com
 DOMAIN,mobads.baidu.com
 DOMAIN,mobaliyun.res.mgtv.com
 DOMAIN,mobile.da.mgtv.com
+DOMAIN,mobile.events.data.microsoft.com
 DOMAIN,mobilead.kuwo.cn
 DOMAIN,mobilelog.kugou.com
 DOMAIN,mobilelog.upqzfile.com
