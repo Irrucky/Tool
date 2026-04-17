@@ -1,5 +1,5 @@
 # Name: GFW
-# Count: 8538
+# Count: 8539
 
 DOMAIN,voice.telephony.goog
 DOMAIN-SUFFIX,0emm.com
@@ -8222,6 +8222,7 @@ DOMAIN-SUFFIX,assets.bwbx.io
 DOMAIN-SUFFIX,assets.nxtrace.org
 DOMAIN-SUFFIX,auctions.yahoo.co.jp
 DOMAIN-SUFFIX,auntology.fandom.com
+DOMAIN-SUFFIX,avistaz.to
 DOMAIN-SUFFIX,b.hatena.ne.jp
 DOMAIN-SUFFIX,backend-v2.crixet.com
 DOMAIN-SUFFIX,bartender.dowjones.com
