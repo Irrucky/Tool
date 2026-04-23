@@ -1,5 +1,5 @@
 # Name: GFW
-# Count: 8539
+# Count: 8548
 
 DOMAIN,voice.telephony.goog
 DOMAIN-SUFFIX,0emm.com
@@ -8213,11 +8213,13 @@ DOMAIN-SUFFIX,api.recaptcha.net
 DOMAIN-SUFFIX,api.steampowered.com
 DOMAIN-SUFFIX,app.box.com
 DOMAIN-SUFFIX,app.cloudcone.com
+DOMAIN-SUFFIX,app.element.io
 DOMAIN-SUFFIX,app.smartmailcloud.com
 DOMAIN-SUFFIX,apps.evozi.com
 DOMAIN-SUFFIX,archive-it.org
 DOMAIN-SUFFIX,arena.ai
 DOMAIN-SUFFIX,arweave.org
+DOMAIN-SUFFIX,asiasociety.org
 DOMAIN-SUFFIX,assets.bwbx.io
 DOMAIN-SUFFIX,assets.nxtrace.org
 DOMAIN-SUFFIX,auctions.yahoo.co.jp
@@ -8234,6 +8236,7 @@ DOMAIN-SUFFIX,bbs.mikocon.com
 DOMAIN-SUFFIX,bbs.mychat.to
 DOMAIN-SUFFIX,bbs.naixi.net
 DOMAIN-SUFFIX,bbs.nyinfor.com
+DOMAIN-SUFFIX,bellingcat.com
 DOMAIN-SUFFIX,bitbaby.com
 DOMAIN-SUFFIX,bittorrent.com
 DOMAIN-SUFFIX,blog.cryptographyengineering.com
@@ -8353,12 +8356,14 @@ DOMAIN-SUFFIX,investigating.wordpress.com
 DOMAIN-SUFFIX,investing.com
 DOMAIN-SUFFIX,ipfs.4everland.io
 DOMAIN-SUFFIX,isc.sans.edu
+DOMAIN-SUFFIX,issues.chromium.org
 DOMAIN-SUFFIX,jhelab.org
 DOMAIN-SUFFIX,jmsc.hku.hk
 DOMAIN-SUFFIX,jobnewera.wordpress.com
 DOMAIN-SUFFIX,jpl.nasa.gov
 DOMAIN-SUFFIX,kb.monitorware.com
 DOMAIN-SUFFIX,lab.skk.moe
+DOMAIN-SUFFIX,lantern.io
 DOMAIN-SUFFIX,library.usc.cuhk.edu.hk
 DOMAIN-SUFFIX,linear-abematv.akamaized.net
 DOMAIN-SUFFIX,login.target.com
@@ -8418,8 +8423,11 @@ DOMAIN-SUFFIX,purpose.nike.com
 DOMAIN-SUFFIX,radio.co
 DOMAIN-SUFFIX,radiojar.com
 DOMAIN-SUFFIX,raw.githack.com
+DOMAIN-SUFFIX,rawstory.com
 DOMAIN-SUFFIX,rcam.target.com
+DOMAIN-SUFFIX,recordedfuture.com
 DOMAIN-SUFFIX,relay.firefox.com
+DOMAIN-SUFFIX,roblox.com
 DOMAIN-SUFFIX,rtm.tnt-ea.com
 DOMAIN-SUFFIX,s.yimg.com
 DOMAIN-SUFFIX,s3-ap-northeast-1.amazonaws.com
@@ -8458,6 +8466,7 @@ DOMAIN-SUFFIX,sydney.bing.com
 DOMAIN-SUFFIX,tails.net
 DOMAIN-SUFFIX,tarr.uspto.gov
 DOMAIN-SUFFIX,thecenter.mit.edu
+DOMAIN-SUFFIX,thinkchina.sg
 DOMAIN-SUFFIX,timesofindia.indiatimes.com
 DOMAIN-SUFFIX,tn1.shemalez.com
 DOMAIN-SUFFIX,tn2.shemalez.com
