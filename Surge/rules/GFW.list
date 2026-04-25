@@ -1,5 +1,5 @@
 # Name: GFW
-# Count: 8548
+# Count: 8549
 
 DOMAIN,voice.telephony.goog
 DOMAIN-SUFFIX,0emm.com
@@ -8465,6 +8465,7 @@ DOMAIN-SUFFIX,sujiatun.wordpress.com
 DOMAIN-SUFFIX,sydney.bing.com
 DOMAIN-SUFFIX,tails.net
 DOMAIN-SUFFIX,tarr.uspto.gov
+DOMAIN-SUFFIX,techbang.com
 DOMAIN-SUFFIX,thecenter.mit.edu
 DOMAIN-SUFFIX,thinkchina.sg
 DOMAIN-SUFFIX,timesofindia.indiatimes.com
