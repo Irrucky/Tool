@@ -1,5 +1,5 @@
 # Name: GFW
-# Count: 8550
+# Count: 8546
 
 DOMAIN,voice.telephony.goog
 DOMAIN-SUFFIX,0emm.com
@@ -8432,9 +8432,6 @@ DOMAIN-SUFFIX,rtm.tnt-ea.com
 DOMAIN-SUFFIX,s.yimg.com
 DOMAIN-SUFFIX,s3-ap-northeast-1.amazonaws.com
 DOMAIN-SUFFIX,sbti.unun.dev
-DOMAIN-SUFFIX,scache.vzw.com
-DOMAIN-SUFFIX,scache1.vzw.com
-DOMAIN-SUFFIX,scache2.vzw.com
 DOMAIN-SUFFIX,scratch.mit.edu
 DOMAIN-SUFFIX,search.aol.com
 DOMAIN-SUFFIX,search.yahoo.co.jp
@@ -8453,7 +8450,6 @@ DOMAIN-SUFFIX,southpark.cc.com
 DOMAIN-SUFFIX,spaces.hightail.com
 DOMAIN-SUFFIX,spacex.com
 DOMAIN-SUFFIX,sports.williamhill.com
-DOMAIN-SUFFIX,ss7.vzw.com
 DOMAIN-SUFFIX,ssl.webpack.de
 DOMAIN-SUFFIX,static.pocketcasts.com
 DOMAIN-SUFFIX,static.shemalez.com
