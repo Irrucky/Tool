@@ -1,5 +1,5 @@
 # Name: GFW
-# Count: 8546
+# Count: 8570
 
 DOMAIN,voice.telephony.goog
 DOMAIN-SUFFIX,0emm.com
@@ -8194,6 +8194,7 @@ DOMAIN-SUFFIX,a248.e.akamai.net
 DOMAIN-SUFFIX,aave.com
 DOMAIN-SUFFIX,abematv.akamaized.net
 DOMAIN-SUFFIX,about.gitlab.com
+DOMAIN-SUFFIX,acg.mn
 DOMAIN-SUFFIX,addons.mozilla.org
 DOMAIN-SUFFIX,admin.recaptcha.net
 DOMAIN-SUFFIX,adult.friendfinder.com
@@ -8239,6 +8240,7 @@ DOMAIN-SUFFIX,bbs.nyinfor.com
 DOMAIN-SUFFIX,bellingcat.com
 DOMAIN-SUFFIX,bitbaby.com
 DOMAIN-SUFFIX,bittorrent.com
+DOMAIN-SUFFIX,bleepingcomputer.com
 DOMAIN-SUFFIX,blog.cryptographyengineering.com
 DOMAIN-SUFFIX,blog.excite.co.jp
 DOMAIN-SUFFIX,blog.expofutures.com
@@ -8253,6 +8255,7 @@ DOMAIN-SUFFIX,blog.reimu.net
 DOMAIN-SUFFIX,blog.soylent.com
 DOMAIN-SUFFIX,blog.tiney.com
 DOMAIN-SUFFIX,blogspot.cat
+DOMAIN-SUFFIX,boomplay.com
 DOMAIN-SUFFIX,c.mi.com
 DOMAIN-SUFFIX,casino.williamhill.com
 DOMAIN-SUFFIX,cbs.ntu.edu.tw
@@ -8280,12 +8283,14 @@ DOMAIN-SUFFIX,cn.shafaqna.com
 DOMAIN-SUFFIX,cn.theaustralian.com.au
 DOMAIN-SUFFIX,cn.uptodown.com
 DOMAIN-SUFFIX,cnbbnews.wordpress.com
+DOMAIN-SUFFIX,cnbc.com
 DOMAIN-SUFFIX,cnnews.chosun.com
 DOMAIN-SUFFIX,co.ng.mil
 DOMAIN-SUFFIX,connect.facebook.net
 DOMAIN-SUFFIX,contests.twilio.com
 DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,css.pixnet.in
+DOMAIN-SUFFIX,ctinsider.com
 DOMAIN-SUFFIX,danbooru.donmai.us
 DOMAIN-SUFFIX,dazn.com
 DOMAIN-SUFFIX,dcs-spotify.megaphone.fm
@@ -8301,6 +8306,7 @@ DOMAIN-SUFFIX,dot.sb
 DOMAIN-SUFFIX,download.dappcdn.com
 DOMAIN-SUFFIX,dynupdate.no-ip.com
 DOMAIN-SUFFIX,ebook.hyread.com.tw
+DOMAIN-SUFFIX,edigest.hk
 DOMAIN-SUFFIX,en.favotter.net
 DOMAIN-SUFFIX,esg.t91y.com
 DOMAIN-SUFFIX,etools.ncol.com
@@ -8330,6 +8336,7 @@ DOMAIN-SUFFIX,grokipedia.com
 DOMAIN-SUFFIX,gsp.target.com
 DOMAIN-SUFFIX,help.byspotify.com
 DOMAIN-SUFFIX,hembed.com
+DOMAIN-SUFFIX,hive.blog
 DOMAIN-SUFFIX,hk.gradconnection.com
 DOMAIN-SUFFIX,hk.jiepang.com
 DOMAIN-SUFFIX,hka8964.wordpress.com
@@ -8352,6 +8359,7 @@ DOMAIN-SUFFIX,images.prismic.io
 DOMAIN-SUFFIX,img.dlsite.jp
 DOMAIN-SUFFIX,img.picgo.net
 DOMAIN-SUFFIX,inews-api.tvb.com
+DOMAIN-SUFFIX,infosec.exchange
 DOMAIN-SUFFIX,investigating.wordpress.com
 DOMAIN-SUFFIX,investing.com
 DOMAIN-SUFFIX,ipfs.4everland.io
@@ -8361,9 +8369,11 @@ DOMAIN-SUFFIX,jhelab.org
 DOMAIN-SUFFIX,jmsc.hku.hk
 DOMAIN-SUFFIX,jobnewera.wordpress.com
 DOMAIN-SUFFIX,jpl.nasa.gov
+DOMAIN-SUFFIX,kathmandupost.com
 DOMAIN-SUFFIX,kb.monitorware.com
 DOMAIN-SUFFIX,lab.skk.moe
 DOMAIN-SUFFIX,lantern.io
+DOMAIN-SUFFIX,libgen.is
 DOMAIN-SUFFIX,library.usc.cuhk.edu.hk
 DOMAIN-SUFFIX,linear-abematv.akamaized.net
 DOMAIN-SUFFIX,login.target.com
@@ -8377,13 +8387,16 @@ DOMAIN-SUFFIX,matthewdgreen.wordpress.com
 DOMAIN-SUFFIX,maven.neoforged.net
 DOMAIN-SUFFIX,me.ns.ci
 DOMAIN-SUFFIX,media.nu.nl
+DOMAIN-SUFFIX,mediamatters.org
 DOMAIN-SUFFIX,meee.com.tw
 DOMAIN-SUFFIX,mike.cz.cc
 DOMAIN-SUFFIX,minghuiyw.wordpress.com
 DOMAIN-SUFFIX,mistral.ai
+DOMAIN-SUFFIX,mjj.today
 DOMAIN-SUFFIX,mjlsh.usc.cuhk.edu.hk
 DOMAIN-SUFFIX,mo.nightlife141.com
 DOMAIN-SUFFIX,mosavi.io
+DOMAIN-SUFFIX,music.amazon.com
 DOMAIN-SUFFIX,my.pcloud.com
 DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,nakedsecurity.sophos.com
@@ -8395,6 +8408,10 @@ DOMAIN-SUFFIX,news.mt.co.kr
 DOMAIN-SUFFIX,news.seehua.com
 DOMAIN-SUFFIX,news.tvbs.com.tw
 DOMAIN-SUFFIX,news.ycombinator.com
+DOMAIN-SUFFIX,newshub.co.nz
+DOMAIN-SUFFIX,newstimes.com
+DOMAIN-SUFFIX,nfsc.press
+DOMAIN-SUFFIX,nfscofficial.com
 DOMAIN-SUFFIX,nic.cz.cc
 DOMAIN-SUFFIX,nikke.hotcool.tw
 DOMAIN-SUFFIX,okcoin.com
@@ -8409,11 +8426,13 @@ DOMAIN-SUFFIX,openart.ai
 DOMAIN-SUFFIX,opencritic.com
 DOMAIN-SUFFIX,ordns.he.net
 DOMAIN-SUFFIX,osmand.net
+DOMAIN-SUFFIX,overdrive.com
 DOMAIN-SUFFIX,oversea.istarshine.com
 DOMAIN-SUFFIX,partnerstack.xyz
 DOMAIN-SUFFIX,payments-jp.amazon.com
 DOMAIN-SUFFIX,pds.nasa.gov
 DOMAIN-SUFFIX,pdst.fm
+DOMAIN-SUFFIX,penguin.com.au
 DOMAIN-SUFFIX,phosphation13.rssing.com
 DOMAIN-SUFFIX,podwise.ai
 DOMAIN-SUFFIX,posts.careerengine.us
@@ -8429,6 +8448,7 @@ DOMAIN-SUFFIX,recordedfuture.com
 DOMAIN-SUFFIX,relay.firefox.com
 DOMAIN-SUFFIX,roblox.com
 DOMAIN-SUFFIX,rtm.tnt-ea.com
+DOMAIN-SUFFIX,rts.ch
 DOMAIN-SUFFIX,s.yimg.com
 DOMAIN-SUFFIX,s3-ap-northeast-1.amazonaws.com
 DOMAIN-SUFFIX,sbti.unun.dev
@@ -8462,7 +8482,9 @@ DOMAIN-SUFFIX,sydney.bing.com
 DOMAIN-SUFFIX,tails.net
 DOMAIN-SUFFIX,tarr.uspto.gov
 DOMAIN-SUFFIX,techbang.com
+DOMAIN-SUFFIX,the-sun.com
 DOMAIN-SUFFIX,thecenter.mit.edu
+DOMAIN-SUFFIX,theweek.com
 DOMAIN-SUFFIX,thinkchina.sg
 DOMAIN-SUFFIX,timesofindia.indiatimes.com
 DOMAIN-SUFFIX,tn1.shemalez.com
@@ -8474,6 +8496,7 @@ DOMAIN-SUFFIX,tsdr.uspto.gov
 DOMAIN-SUFFIX,tunein.streamguys1.com
 DOMAIN-SUFFIX,tv.jtbc.joins.com
 DOMAIN-SUFFIX,tvbanywhere.com
+DOMAIN-SUFFIX,tvdy1.com
 DOMAIN-SUFFIX,tw.jiepang.com
 DOMAIN-SUFFIX,twgov.tw
 DOMAIN-SUFFIX,twimg.edgesuite.net
@@ -8489,6 +8512,7 @@ DOMAIN-SUFFIX,vegas.williamhill.com
 DOMAIN-SUFFIX,video.aol.com
 DOMAIN-SUFFIX,vod-abematv.akamaized.net
 DOMAIN-SUFFIX,vod.wwe.com
+DOMAIN-SUFFIX,vox.com
 DOMAIN-SUFFIX,vpl.bibliocommons.com
 DOMAIN-SUFFIX,vpn.cmu.edu
 DOMAIN-SUFFIX,vpn.sv.cmu.edu
