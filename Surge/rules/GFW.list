@@ -1,5 +1,5 @@
 # Name: GFW
-# Count: 8571
+# Count: 8573
 
 DOMAIN,voice.telephony.goog
 DOMAIN-SUFFIX,0emm.com
@@ -8292,6 +8292,7 @@ DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,css.pixnet.in
 DOMAIN-SUFFIX,ctinsider.com
 DOMAIN-SUFFIX,danbooru.donmai.us
+DOMAIN-SUFFIX,data18.com
 DOMAIN-SUFFIX,dazn.com
 DOMAIN-SUFFIX,dcs-spotify.megaphone.fm
 DOMAIN-SUFFIX,demo.unlock-music.dev
@@ -8304,6 +8305,7 @@ DOMAIN-SUFFIX,dns.sb
 DOMAIN-SUFFIX,doh.sb
 DOMAIN-SUFFIX,dot.sb
 DOMAIN-SUFFIX,download.dappcdn.com
+DOMAIN-SUFFIX,dt18.com
 DOMAIN-SUFFIX,dynupdate.no-ip.com
 DOMAIN-SUFFIX,ebook.hyread.com.tw
 DOMAIN-SUFFIX,edigest.hk
