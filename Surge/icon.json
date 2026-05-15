@@ -1,11 +1,49 @@
 {
-    "name": "Icon set",
+    "name": "Useful icons",
     "icons": [
-     { "name": "surge_1", "url": "https://raw.githubusercontent.com/Irrucky/Tool/main/Surge/icon/surge_1.png"},
-     { "name": "surge_2", "url": "https://raw.githubusercontent.com/Irrucky/Tool/main/Surge/icon/surge_2.png"},
-     { "name": "surge_3", "url": "https://raw.githubusercontent.com/Irrucky/Tool/main/Surge/icon/surge_3.png"},
-     { "name": "surge_4", "url": "https://raw.githubusercontent.com/Irrucky/Tool/main/Surge/icon/surge_4.png"},
-     { "name": "surge_5", "url": "https://raw.githubusercontent.com/Irrucky/Tool/main/Surge/icon/surge_5.png"},
-     { "name": "Surge-1", "url": "https://raw.githubusercontent.com/Irrucky/Tool/main/Surge/icon/Surge-1.png"}
+        {
+            "name": "surge_1",
+            "url": "https://raw.githubusercontent.com/Irrucky/Tool/main/Surge/icon/surge_1.png"
+        },
+        {
+            "name": "surge_2",
+            "url": "https://raw.githubusercontent.com/Irrucky/Tool/main/Surge/icon/surge_2.png"
+        },
+        {
+            "name": "surge_3",
+            "url": "https://raw.githubusercontent.com/Irrucky/Tool/main/Surge/icon/surge_3.png"
+        },
+        {
+            "name": "surge_4",
+            "url": "https://raw.githubusercontent.com/Irrucky/Tool/main/Surge/icon/surge_4.png"
+        },
+        {
+            "name": "surge_5",
+            "url": "https://raw.githubusercontent.com/Irrucky/Tool/main/Surge/icon/surge_5.png"
+        },
+        {
+            "name": "surge_6",
+            "url": "https://raw.githubusercontent.com/Irrucky/Tool/main/Surge/icon/surge_6.png"
+        },
+        {
+            "name": "ChatGPT",
+            "url": "https://raw.githubusercontent.com/Irrucky/Tool/main/Surge/icon/ChatGPT.png"
+        },
+        {
+            "name": "Loon",
+            "url": "https://raw.githubusercontent.com/Irrucky/Tool/main/Surge/icon/Loon.png"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://raw.githubusercontent.com/Irrucky/Tool/main/Surge/icon/Telegram.png"
+        },
+        {
+            "name": "Egern",
+            "url": "https://raw.githubusercontent.com/Irrucky/Tool/main/Surge/icon/Egern.png"
+        },
+        {
+            "name": "Surge5",
+            "url": "https://raw.githubusercontent.com/Irrucky/Tool/main/Surge/icon/Surge5.png"
+        }
     ]
 }
