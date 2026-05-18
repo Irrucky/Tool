@@ -1,5 +1,5 @@
 # Name: GFW
-# Count: 8567
+# Count: 8569
 
 DOMAIN,voice.telephony.goog
 DOMAIN-SUFFIX,0emm.com
@@ -8457,6 +8457,7 @@ DOMAIN-SUFFIX,secure.shadowsocks.nu
 DOMAIN-SUFFIX,share.america.gov
 DOMAIN-SUFFIX,shitjournal.org
 DOMAIN-SUFFIX,shopping.yahoo.co.jp
+DOMAIN-SUFFIX,sider.ai
 DOMAIN-SUFFIX,simianx.ai
 DOMAIN-SUFFIX,simplecd.me
 DOMAIN-SUFFIX,social.datalabour.com
@@ -8567,4 +8568,5 @@ DOMAIN-SUFFIX,zh-hans.cfsh99.com
 DOMAIN-SUFFIX,zh.ecdm.wikia.com
 DOMAIN-SUFFIX,zh.pokerstrategy.com
 DOMAIN-SUFFIX,zh.wikiquote.org
+DOMAIN-SUFFIX,zhangzhehan.net
 DOMAIN-SUFFIX,zhao.1984.city
