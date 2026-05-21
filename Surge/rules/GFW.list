@@ -1,5 +1,5 @@
 # Name: GFW
-# Count: 8569
+# Count: 8575
 
 DOMAIN,voice.telephony.goog
 DOMAIN-SUFFIX,0emm.com
@@ -8307,6 +8307,7 @@ DOMAIN-SUFFIX,en.favotter.net
 DOMAIN-SUFFIX,esg.t91y.com
 DOMAIN-SUFFIX,etools.ncol.com
 DOMAIN-SUFFIX,evchk.wikia.com
+DOMAIN-SUFFIX,f95zone.to
 DOMAIN-SUFFIX,fast.wistia.com
 DOMAIN-SUFFIX,feeds.fileforum.com
 DOMAIN-SUFFIX,fiddle.jshell.net
@@ -8316,6 +8317,7 @@ DOMAIN-SUFFIX,forum.cyberctm.com
 DOMAIN-SUFFIX,freedom.gov
 DOMAIN-SUFFIX,freedominfonetweb.wordpress.com
 DOMAIN-SUFFIX,freeterabox.com
+DOMAIN-SUFFIX,g.ai
 DOMAIN-SUFFIX,gettyimages.ae
 DOMAIN-SUFFIX,gettyimages.ca
 DOMAIN-SUFFIX,gettyimages.de
@@ -8369,6 +8371,7 @@ DOMAIN-SUFFIX,kathmandupost.com
 DOMAIN-SUFFIX,kb.monitorware.com
 DOMAIN-SUFFIX,lab.skk.moe
 DOMAIN-SUFFIX,lantern.io
+DOMAIN-SUFFIX,leonardo.ai
 DOMAIN-SUFFIX,libgen.is
 DOMAIN-SUFFIX,library.usc.cuhk.edu.hk
 DOMAIN-SUFFIX,linear-abematv.akamaized.net
@@ -8437,6 +8440,7 @@ DOMAIN-SUFFIX,pullfolio.co
 DOMAIN-SUFFIX,purpose.nike.com
 DOMAIN-SUFFIX,radio.co
 DOMAIN-SUFFIX,radiojar.com
+DOMAIN-SUFFIX,raphael.app
 DOMAIN-SUFFIX,raw.githack.com
 DOMAIN-SUFFIX,rawstory.com
 DOMAIN-SUFFIX,rcam.target.com
@@ -8445,6 +8449,7 @@ DOMAIN-SUFFIX,relay.firefox.com
 DOMAIN-SUFFIX,roblox.com
 DOMAIN-SUFFIX,rtm.tnt-ea.com
 DOMAIN-SUFFIX,rts.ch
+DOMAIN-SUFFIX,rule34.us
 DOMAIN-SUFFIX,s.yimg.com
 DOMAIN-SUFFIX,s3-ap-northeast-1.amazonaws.com
 DOMAIN-SUFFIX,sbti.unun.dev
@@ -8463,6 +8468,7 @@ DOMAIN-SUFFIX,simplecd.me
 DOMAIN-SUFFIX,social.datalabour.com
 DOMAIN-SUFFIX,softwaredownload.gitbooks.io
 DOMAIN-SUFFIX,solarsystem.nasa.gov
+DOMAIN-SUFFIX,sotwe.com
 DOMAIN-SUFFIX,southpark.cc.com
 DOMAIN-SUFFIX,spaces.hightail.com
 DOMAIN-SUFFIX,spacex.com
