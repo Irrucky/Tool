@@ -1,5 +1,5 @@
 # Name: GFW
-# Count: 8580
+# Count: 8586
 
 DOMAIN,voice.telephony.goog
 DOMAIN-SUFFIX,0emm.com
@@ -8214,6 +8214,7 @@ DOMAIN-SUFFIX,apps.evozi.com
 DOMAIN-SUFFIX,archive-it.org
 DOMAIN-SUFFIX,arena.ai
 DOMAIN-SUFFIX,arweave.org
+DOMAIN-SUFFIX,as.mr
 DOMAIN-SUFFIX,asiasociety.org
 DOMAIN-SUFFIX,assets.bwbx.io
 DOMAIN-SUFFIX,assets.nxtrace.org
@@ -8222,6 +8223,7 @@ DOMAIN-SUFFIX,auntology.fandom.com
 DOMAIN-SUFFIX,avistaz.to
 DOMAIN-SUFFIX,b.hatena.ne.jp
 DOMAIN-SUFFIX,backend-v2.crixet.com
+DOMAIN-SUFFIX,bangumi.tv
 DOMAIN-SUFFIX,bartender.dowjones.com
 DOMAIN-SUFFIX,bbc.pdn.tritondigital.com
 DOMAIN-SUFFIX,bbs.cantonese.asia
@@ -8232,6 +8234,7 @@ DOMAIN-SUFFIX,bbs.mychat.to
 DOMAIN-SUFFIX,bbs.naixi.net
 DOMAIN-SUFFIX,bbs.nyinfor.com
 DOMAIN-SUFFIX,bellingcat.com
+DOMAIN-SUFFIX,bgm.tv
 DOMAIN-SUFFIX,bitbaby.com
 DOMAIN-SUFFIX,bittorrent.com
 DOMAIN-SUFFIX,bleepingcomputer.com
@@ -8263,6 +8266,7 @@ DOMAIN-SUFFIX,cdn.statically.io
 DOMAIN-SUFFIX,certificate.revocationcheck.com
 DOMAIN-SUFFIX,chat.lmsys.org
 DOMAIN-SUFFIX,chenshan20042005.wordpress.com
+DOMAIN-SUFFIX,chii.in
 DOMAIN-SUFFIX,china.ucanews.com
 DOMAIN-SUFFIX,chinaview.wordpress.com
 DOMAIN-SUFFIX,chinese.engadget.com
@@ -8278,7 +8282,6 @@ DOMAIN-SUFFIX,cn.shafaqna.com
 DOMAIN-SUFFIX,cn.theaustralian.com.au
 DOMAIN-SUFFIX,cn.uptodown.com
 DOMAIN-SUFFIX,cnbbnews.wordpress.com
-DOMAIN-SUFFIX,cnbc.com
 DOMAIN-SUFFIX,cnnews.chosun.com
 DOMAIN-SUFFIX,co.ng.mil
 DOMAIN-SUFFIX,connect.facebook.net
@@ -8320,6 +8323,7 @@ DOMAIN-SUFFIX,freedom.gov
 DOMAIN-SUFFIX,freedominfonetweb.wordpress.com
 DOMAIN-SUFFIX,freeterabox.com
 DOMAIN-SUFFIX,g.ai
+DOMAIN-SUFFIX,gencraft.com
 DOMAIN-SUFFIX,gettyimages.ae
 DOMAIN-SUFFIX,gettyimages.ca
 DOMAIN-SUFFIX,gettyimages.de
@@ -8336,6 +8340,7 @@ DOMAIN-SUFFIX,grokipedia.com
 DOMAIN-SUFFIX,gsp.target.com
 DOMAIN-SUFFIX,help.byspotify.com
 DOMAIN-SUFFIX,hembed.com
+DOMAIN-SUFFIX,hiddify.com
 DOMAIN-SUFFIX,hive.blog
 DOMAIN-SUFFIX,hk.gradconnection.com
 DOMAIN-SUFFIX,hk.jiepang.com
@@ -8517,6 +8522,7 @@ DOMAIN-SUFFIX,use.typekit.net
 DOMAIN-SUFFIX,usno.navy.mil
 DOMAIN-SUFFIX,uygur.fc2web.com
 DOMAIN-SUFFIX,v2.hysteria.network
+DOMAIN-SUFFIX,veed.io
 DOMAIN-SUFFIX,vegas.williamhill.com
 DOMAIN-SUFFIX,video.aol.com
 DOMAIN-SUFFIX,vod-abematv.akamaized.net
