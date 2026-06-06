@@ -1,5 +1,5 @@
 # Name: GFW
-# Count: 8586
+# Count: 8588
 
 DOMAIN,voice.telephony.goog
 DOMAIN-SUFFIX,0emm.com
@@ -8491,6 +8491,7 @@ DOMAIN-SUFFIX,storage.yandex.net
 DOMAIN-SUFFIX,store.steampowered.com
 DOMAIN-SUFFIX,suche.gmx.net
 DOMAIN-SUFFIX,sujiatun.wordpress.com
+DOMAIN-SUFFIX,suyingtv.com
 DOMAIN-SUFFIX,sydney.bing.com
 DOMAIN-SUFFIX,tails.net
 DOMAIN-SUFFIX,tarr.uspto.gov
@@ -8544,6 +8545,7 @@ DOMAIN-SUFFIX,wikiless.funami.tech
 DOMAIN-SUFFIX,wikis.tw
 DOMAIN-SUFFIX,wispbyte.com
 DOMAIN-SUFFIX,wo3ttt.wordpress.com
+DOMAIN-SUFFIX,wplace.live
 DOMAIN-SUFFIX,www.ajsands.com
 DOMAIN-SUFFIX,www.antd.org
 DOMAIN-SUFFIX,www.aolnews.com
