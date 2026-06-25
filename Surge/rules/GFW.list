@@ -1,5 +1,5 @@
 # Name: GFW
-# Count: 8677
+# Count: 8678
 
 DOMAIN,voice.telephony.goog
 DOMAIN-SUFFIX,0emm.com
@@ -8365,6 +8365,7 @@ DOMAIN-SUFFIX,fututrade.com
 DOMAIN-SUFFIX,fututrustee.com
 DOMAIN-SUFFIX,g.ai
 DOMAIN-SUFFIX,gencraft.com
+DOMAIN-SUFFIX,get.dappcdn.com
 DOMAIN-SUFFIX,gettyimages.ae
 DOMAIN-SUFFIX,gettyimages.ca
 DOMAIN-SUFFIX,gettyimages.de
