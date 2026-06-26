@@ -1,5 +1,5 @@
 # Name: GFW
-# Count: 8678
+# Count: 8679
 
 DOMAIN,voice.telephony.goog
 DOMAIN-SUFFIX,0emm.com
@@ -8298,6 +8298,7 @@ DOMAIN-SUFFIX,co.ng.mil
 DOMAIN-SUFFIX,connect.facebook.net
 DOMAIN-SUFFIX,contests.twilio.com
 DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,creader.com
 DOMAIN-SUFFIX,css.pixnet.in
 DOMAIN-SUFFIX,ctinsider.com
 DOMAIN-SUFFIX,danbooru.donmai.us
