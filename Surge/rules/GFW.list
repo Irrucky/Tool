@@ -1,5 +1,5 @@
 # Name: GFW
-# Count: 8679
+# Count: 8694
 
 DOMAIN,voice.telephony.goog
 DOMAIN-SUFFIX,0emm.com
@@ -8196,6 +8196,7 @@ DOMAIN-SUFFIX,addons.mozilla.org
 DOMAIN-SUFFIX,admin.recaptcha.net
 DOMAIN-SUFFIX,adult.friendfinder.com
 DOMAIN-SUFFIX,ai.studio
+DOMAIN-SUFFIX,airuniversity.af.edu
 DOMAIN-SUFFIX,akamai.tvb.com
 DOMAIN-SUFFIX,akile.io
 DOMAIN-SUFFIX,aljazeera.net
@@ -8365,6 +8366,7 @@ DOMAIN-SUFFIX,futustatic.com
 DOMAIN-SUFFIX,fututrade.com
 DOMAIN-SUFFIX,fututrustee.com
 DOMAIN-SUFFIX,g.ai
+DOMAIN-SUFFIX,gate.com
 DOMAIN-SUFFIX,gencraft.com
 DOMAIN-SUFFIX,get.dappcdn.com
 DOMAIN-SUFFIX,gettyimages.ae
@@ -8390,6 +8392,7 @@ DOMAIN-SUFFIX,hk.jiepang.com
 DOMAIN-SUFFIX,hka8964.wordpress.com
 DOMAIN-SUFFIX,hkanews.wordpress.com
 DOMAIN-SUFFIX,hkcoc.weather.com.hk
+DOMAIN-SUFFIX,hkong.hk
 DOMAIN-SUFFIX,hole.thu.monster
 DOMAIN-SUFFIX,hongkong.fandom.com
 DOMAIN-SUFFIX,hqsbnet.wordpress.com
@@ -8420,6 +8423,7 @@ DOMAIN-SUFFIX,jobnewera.wordpress.com
 DOMAIN-SUFFIX,jpl.nasa.gov
 DOMAIN-SUFFIX,kathmandupost.com
 DOMAIN-SUFFIX,kb.monitorware.com
+DOMAIN-SUFFIX,kfor.com
 DOMAIN-SUFFIX,lab.skk.moe
 DOMAIN-SUFFIX,lantern.io
 DOMAIN-SUFFIX,laohu8.com
@@ -8452,6 +8456,7 @@ DOMAIN-SUFFIX,me.ns.ci
 DOMAIN-SUFFIX,media.nu.nl
 DOMAIN-SUFFIX,mediamatters.org
 DOMAIN-SUFFIX,meee.com.tw
+DOMAIN-SUFFIX,mhwindow.org
 DOMAIN-SUFFIX,mike.cz.cc
 DOMAIN-SUFFIX,minghuiyw.wordpress.com
 DOMAIN-SUFFIX,mistral.ai
@@ -8505,9 +8510,11 @@ DOMAIN-SUFFIX,overdrive.com
 DOMAIN-SUFFIX,oversea.istarshine.com
 DOMAIN-SUFFIX,partnerstack.xyz
 DOMAIN-SUFFIX,payments-jp.amazon.com
+DOMAIN-SUFFIX,pcgamesn.com
 DOMAIN-SUFFIX,pds.nasa.gov
 DOMAIN-SUFFIX,pdst.fm
 DOMAIN-SUFFIX,penguin.com.au
+DOMAIN-SUFFIX,perma.cc
 DOMAIN-SUFFIX,phosphation13.rssing.com
 DOMAIN-SUFFIX,podwise.ai
 DOMAIN-SUFFIX,posts.careerengine.us
@@ -8525,6 +8532,7 @@ DOMAIN-SUFFIX,rawstory.com
 DOMAIN-SUFFIX,rcam.target.com
 DOMAIN-SUFFIX,recordedfuture.com
 DOMAIN-SUFFIX,relay.firefox.com
+DOMAIN-SUFFIX,restofworld.org
 DOMAIN-SUFFIX,roblox.com
 DOMAIN-SUFFIX,rtm.tnt-ea.com
 DOMAIN-SUFFIX,rts.ch
@@ -8556,6 +8564,7 @@ DOMAIN-SUFFIX,softwaredownload.gitbooks.io
 DOMAIN-SUFFIX,solarsystem.nasa.gov
 DOMAIN-SUFFIX,sotwe.com
 DOMAIN-SUFFIX,southpark.cc.com
+DOMAIN-SUFFIX,spaceforce.mil
 DOMAIN-SUFFIX,spaces.hightail.com
 DOMAIN-SUFFIX,spacex.com
 DOMAIN-SUFFIX,sports.williamhill.com
@@ -8568,6 +8577,7 @@ DOMAIN-SUFFIX,store.steampowered.com
 DOMAIN-SUFFIX,suche.gmx.net
 DOMAIN-SUFFIX,sujiatun.wordpress.com
 DOMAIN-SUFFIX,support.futunn.com
+DOMAIN-SUFFIX,supremecourt.gov
 DOMAIN-SUFFIX,suyingtv.com
 DOMAIN-SUFFIX,sydney.bing.com
 DOMAIN-SUFFIX,tails.net
@@ -8575,6 +8585,7 @@ DOMAIN-SUFFIX,tarr.uspto.gov
 DOMAIN-SUFFIX,techbang.com
 DOMAIN-SUFFIX,the-sun.com
 DOMAIN-SUFFIX,thecenter.mit.edu
+DOMAIN-SUFFIX,theintercept.com
 DOMAIN-SUFFIX,theweek.com
 DOMAIN-SUFFIX,thinkchina.sg
 DOMAIN-SUFFIX,tigerbbs.cn
@@ -8592,6 +8603,7 @@ DOMAIN-SUFFIX,tosh.comedycentral.com
 DOMAIN-SUFFIX,trade.futunn.com
 DOMAIN-SUFFIX,trade.longportapp.com
 DOMAIN-SUFFIX,tradeup.com
+DOMAIN-SUFFIX,trtworld.com
 DOMAIN-SUFFIX,tsdr.uspto.gov
 DOMAIN-SUFFIX,tunein.streamguys1.com
 DOMAIN-SUFFIX,tv.jtbc.joins.com
@@ -8600,6 +8612,7 @@ DOMAIN-SUFFIX,tvdy1.com
 DOMAIN-SUFFIX,tw.jiepang.com
 DOMAIN-SUFFIX,twgov.tw
 DOMAIN-SUFFIX,twimg.edgesuite.net
+DOMAIN-SUFFIX,twstalker.com
 DOMAIN-SUFFIX,umap.openstreetmap.fr
 DOMAIN-SUFFIX,uniswap.org
 DOMAIN-SUFFIX,up.audio
@@ -8620,6 +8633,7 @@ DOMAIN-SUFFIX,vpn.cmu.edu
 DOMAIN-SUFFIX,vpn.sv.cmu.edu
 DOMAIN-SUFFIX,walletconnect.org
 DOMAIN-SUFFIX,wallzhihu.com
+DOMAIN-SUFFIX,washingtontimes.com
 DOMAIN-SUFFIX,wbrks.com
 DOMAIN-SUFFIX,wego.here.com
 DOMAIN-SUFFIX,weights.com
@@ -8670,6 +8684,7 @@ DOMAIN-SUFFIX,xijie.wordpress.com
 DOMAIN-SUFFIX,xn--1jqvh729avzfcy2d8ummib.com
 DOMAIN-SUFFIX,xn--kcrv3utim32hx9f6qe.com
 DOMAIN-SUFFIX,xn--vuqv2cf7wzyig79c.com
+DOMAIN-SUFFIX,xuan.com.my
 DOMAIN-SUFFIX,yfsp.tv
 DOMAIN-SUFFIX,youmind.com
 DOMAIN-SUFFIX,zh-hans.cfsh99.com
