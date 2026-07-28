@@ -1,5 +1,5 @@
 # Name: GFW
-# Count: 8695
+# Count: 8696
 
 DOMAIN,api.mixpanel.com
 DOMAIN,cloud.oracle.com
@@ -7204,6 +7204,7 @@ DOMAIN-SUFFIX,truth101.co.tv
 DOMAIN-SUFFIX,truthontour.org
 DOMAIN-SUFFIX,truthsocial.com
 DOMAIN-SUFFIX,truveo.com
+DOMAIN-SUFFIX,tryai.dev
 DOMAIN-SUFFIX,tryfunctions.com
 DOMAIN-SUFFIX,tryheart.jp
 DOMAIN-SUFFIX,tsctv.net
