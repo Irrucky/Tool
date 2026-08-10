@@ -1,5 +1,5 @@
 # Name: GFW
-# Count: 8696
+# Count: 8700
 
 DOMAIN,api.mixpanel.com
 DOMAIN,cloud.oracle.com
@@ -305,6 +305,7 @@ DOMAIN-SUFFIX,ai.dev
 DOMAIN-SUFFIX,ai.google
 DOMAIN-SUFFIX,ai.studio
 DOMAIN-SUFFIX,aicscience.com
+DOMAIN-SUFFIX,aihub.top
 DOMAIN-SUFFIX,aiosearch.com
 DOMAIN-SUFFIX,aiph.net
 DOMAIN-SUFFIX,airasia.com
@@ -740,6 +741,7 @@ DOMAIN-SUFFIX,barton.de
 DOMAIN-SUFFIX,bartvpn.com
 DOMAIN-SUFFIX,baselinestudy.com
 DOMAIN-SUFFIX,baselinestudy.org
+DOMAIN-SUFFIX,basemaps.arcgis.com
 DOMAIN-SUFFIX,bastillepost.com
 DOMAIN-SUFFIX,bayvoice.net
 DOMAIN-SUFFIX,baywords.com
@@ -2206,6 +2208,7 @@ DOMAIN-SUFFIX,eromon.net
 DOMAIN-SUFFIX,eroprofile.com
 DOMAIN-SUFFIX,eroticsaloon.net
 DOMAIN-SUFFIX,esg.t91y.com
+DOMAIN-SUFFIX,esim.redteago.com
 DOMAIN-SUFFIX,eslite.com
 DOMAIN-SUFFIX,esmtp.biz
 DOMAIN-SUFFIX,esurance.com
@@ -2246,6 +2249,7 @@ DOMAIN-SUFFIX,exp-tas.com
 DOMAIN-SUFFIX,expatshield.com
 DOMAIN-SUFFIX,expecthim.com
 DOMAIN-SUFFIX,expekt.com
+DOMAIN-SUFFIX,experience.arcgis.com
 DOMAIN-SUFFIX,experts-univers.com
 DOMAIN-SUFFIX,exploader.net
 DOMAIN-SUFFIX,explorebing.com
