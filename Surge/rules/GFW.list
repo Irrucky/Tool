@@ -1,5 +1,5 @@
 # Name: GFW
-# Count: 8701
+# Count: 8702
 
 DOMAIN,api.mixpanel.com
 DOMAIN,cloud.oracle.com
@@ -4330,6 +4330,7 @@ DOMAIN-SUFFIX,livestation.com
 DOMAIN-SUFFIX,livestream.com
 DOMAIN-SUFFIX,livetileedge.dsx.mp.microsoft.com.edgekey.net
 DOMAIN-SUFFIX,livevideo.com
+DOMAIN-SUFFIX,livingatlas.arcgis.com
 DOMAIN-SUFFIX,livingonline.us
 DOMAIN-SUFFIX,livingstream.com
 DOMAIN-SUFFIX,livingyourambition.com
