@@ -1,5 +1,5 @@
 # Name: GFW
-# Count: 8704
+# Count: 8705
 
 DOMAIN,api.mixpanel.com
 DOMAIN,cloud.oracle.com
@@ -5358,6 +5358,7 @@ DOMAIN-SUFFIX,okpool.me
 DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,old-cat.net
 DOMAIN-SUFFIX,old.honeynet.org
+DOMAIN-SUFFIX,oldmapsonline.org
 DOMAIN-SUFFIX,olehdtv.com
 DOMAIN-SUFFIX,olelive.com
 DOMAIN-SUFFIX,olevod.com
