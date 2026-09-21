@@ -1,5 +1,5 @@
 # Name: adrules
-# Count: 2550
+# Count: 2552
 
 DOMAIN,1500020991.vodplayer.wxamedia.com
 DOMAIN,1500022744.vodplayer.wxamedia.com
@@ -663,6 +663,8 @@ DOMAIN,pgdt.gtimg.cn
 DOMAIN,pgdt.gtimg.com
 DOMAIN,pgdt.ugdtimg.com
 DOMAIN,pglstatp-toutiao.com
+DOMAIN,pica-a-display.diwodiwo.xyz
+DOMAIN,pica-ad-api.diwodiwo.xyz
 DOMAIN,pig.pupuapi.com
 DOMAIN,pin.hpplay.cn
 DOMAIN,pixon.ads-pixiv.net
