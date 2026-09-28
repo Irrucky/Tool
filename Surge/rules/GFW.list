@@ -1,5 +1,5 @@
 # Name: GFW
-# Count: 8716
+# Count: 8719
 
 DOMAIN,api.mixpanel.com
 DOMAIN,cloud.oracle.com
@@ -6557,6 +6557,9 @@ DOMAIN-SUFFIX,speed.cloudflare.com
 DOMAIN-SUFFIX,speed.dler.io
 DOMAIN-SUFFIX,speedcat.me
 DOMAIN-SUFFIX,speedify.com
+DOMAIN-SUFFIX,speedtest.co
+DOMAIN-SUFFIX,speedtest.net
+DOMAIN-SUFFIX,speedtestcustom.com
 DOMAIN-SUFFIX,spem.at
 DOMAIN-SUFFIX,spencertipping.com
 DOMAIN-SUFFIX,spendee.com
