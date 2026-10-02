@@ -1,5 +1,5 @@
 # Name: GFW
-# Count: 8721
+# Count: 8722
 
 DOMAIN,api.mixpanel.com
 DOMAIN,cloud.oracle.com
@@ -7775,6 +7775,7 @@ DOMAIN-SUFFIX,wallet.com
 DOMAIN-SUFFIX,walletbot.me
 DOMAIN-SUFFIX,walletconnect.com
 DOMAIN-SUFFIX,walletconnect.org
+DOMAIN-SUFFIX,wallhaven.cc
 DOMAIN-SUFFIX,wallmama.com
 DOMAIN-SUFFIX,wallornot.org
 DOMAIN-SUFFIX,wallpapercasa.com
