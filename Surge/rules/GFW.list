@@ -1,5 +1,5 @@
 # Name: GFW
-# Count: 8758
+# Count: 8760
 
 DOMAIN,api.mixpanel.com
 DOMAIN,cloud.oracle.com
@@ -1640,6 +1640,7 @@ DOMAIN-SUFFIX,connect.facebook.net
 DOMAIN-SUFFIX,conoha.jp
 DOMAIN-SUFFIX,conscrypt.com
 DOMAIN-SUFFIX,conscrypt.org
+DOMAIN-SUFFIX,console.typesafe.ai
 DOMAIN-SUFFIX,constitutionalism.solutions
 DOMAIN-SUFFIX,contactmagazine.net
 DOMAIN-SUFFIX,contest.com
@@ -2696,6 +2697,7 @@ DOMAIN-SUFFIX,g.kfd.me
 DOMAIN-SUFFIX,g.page
 DOMAIN-SUFFIX,g0v.social
 DOMAIN-SUFFIX,g6hentai.com
+DOMAIN-SUFFIX,ga.jspm.io
 DOMAIN-SUFFIX,gab.com
 DOMAIN-SUFFIX,gabocorp.com
 DOMAIN-SUFFIX,gaeproxy.com
