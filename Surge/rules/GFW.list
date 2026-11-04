@@ -1,5 +1,5 @@
 # Name: GFW
-# Count: 8777
+# Count: 8778
 
 DOMAIN,api.mixpanel.com
 DOMAIN,cloud.oracle.com
@@ -863,6 +863,7 @@ DOMAIN-SUFFIX,bigone.com
 DOMAIN-SUFFIX,bigsound.org
 DOMAIN-SUFFIX,biing.com
 DOMAIN-SUFFIX,bild.de
+DOMAIN-SUFFIX,bilibili.tv
 DOMAIN-SUFFIX,bilinovel.com
 DOMAIN-SUFFIX,biliworld.com
 DOMAIN-SUFFIX,billypan.com
