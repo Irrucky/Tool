@@ -1,5 +1,5 @@
 # Name: GFW
-# Count: 8778
+# Count: 8777
 
 DOMAIN,api.mixpanel.com
 DOMAIN,cloud.oracle.com
@@ -4524,7 +4524,6 @@ DOMAIN-SUFFIX,matters.town
 DOMAIN-SUFFIX,matthewdgreen.wordpress.com
 DOMAIN-SUFFIX,mattwilcox.net
 DOMAIN-SUFFIX,maturejp.com
-DOMAIN-SUFFIX,maven.neoforged.net
 DOMAIN-SUFFIX,maven.org
 DOMAIN-SUFFIX,maxing.jp
 DOMAIN-SUFFIX,mayimayi.com
