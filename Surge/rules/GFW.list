@@ -1,5 +1,5 @@
 # Name: GFW
-# Count: 8708
+# Count: 8749
 
 DOMAIN,2mdn-cn.net
 DOMAIN,2mdn.net
@@ -49,6 +49,11 @@ DOMAIN,cloudaicompanion.googleapis.com
 DOMAIN,cloudcode-pa.googleapis.com
 DOMAIN,cn.widevine.com
 DOMAIN,connectivitycheck.gstatic.com
+DOMAIN,copilot-proxy.githubusercontent.com
+DOMAIN,copilot-telemetry-service.githubusercontent.com
+DOMAIN,copilot-telemetry.githubusercontent.com
+DOMAIN,copilot-workspace.githubnext.com
+DOMAIN,copilotprodattachments.blob.core.windows.net
 DOMAIN,crashlyticsreports-pa.googleapis.com
 DOMAIN,crl.pki.goog
 DOMAIN,crls.pki.goog
@@ -86,6 +91,14 @@ DOMAIN,g2.gstatic.com
 DOMAIN,g3.gstatic.com
 DOMAIN,geminiweb-pa.clients.google.com
 DOMAIN,geminiweb-pa.clients6.google.com
+DOMAIN,github-api.arkoselabs.com
+DOMAIN,github-cloud.s3.amazonaws.com
+DOMAIN,github-production-release-asset-2e65be.s3.amazonaws.com
+DOMAIN,github-production-repository-file-5c1aeb.s3.amazonaws.com
+DOMAIN,github-production-repository-image-32fea6.s3.amazonaws.com
+DOMAIN,github-production-upload-manifest-file-7fdce7.s3.amazonaws.com
+DOMAIN,github-production-user-asset-6210df.s3.amazonaws.com
+DOMAIN,gitlab-assets.oss-cn-hongkong.aliyuncs.com
 DOMAIN,gonglchuangl.net
 DOMAIN,gongyichuangyi.net
 DOMAIN,google-analytics-cn.com
@@ -130,6 +143,26 @@ DOMAIN,preprod-publicca.googleapis.com
 DOMAIN,prod-controlbe.floonet.goog
 DOMAIN,prod-databe.floonet.goog
 DOMAIN,prod.databe.floonet.goog
+DOMAIN,productionresultssa0.blob.core.windows.net
+DOMAIN,productionresultssa1.blob.core.windows.net
+DOMAIN,productionresultssa10.blob.core.windows.net
+DOMAIN,productionresultssa11.blob.core.windows.net
+DOMAIN,productionresultssa12.blob.core.windows.net
+DOMAIN,productionresultssa13.blob.core.windows.net
+DOMAIN,productionresultssa14.blob.core.windows.net
+DOMAIN,productionresultssa15.blob.core.windows.net
+DOMAIN,productionresultssa16.blob.core.windows.net
+DOMAIN,productionresultssa17.blob.core.windows.net
+DOMAIN,productionresultssa18.blob.core.windows.net
+DOMAIN,productionresultssa19.blob.core.windows.net
+DOMAIN,productionresultssa2.blob.core.windows.net
+DOMAIN,productionresultssa3.blob.core.windows.net
+DOMAIN,productionresultssa4.blob.core.windows.net
+DOMAIN,productionresultssa5.blob.core.windows.net
+DOMAIN,productionresultssa6.blob.core.windows.net
+DOMAIN,productionresultssa7.blob.core.windows.net
+DOMAIN,productionresultssa8.blob.core.windows.net
+DOMAIN,productionresultssa9.blob.core.windows.net
 DOMAIN,publicca.googleapis.com
 DOMAIN,qiao-cn.com
 DOMAIN,qpx.googleflights.net
@@ -1360,6 +1393,7 @@ DOMAIN-SUFFIX,cachefly.net
 DOMAIN-SUFFIX,cachinese.com
 DOMAIN-SUFFIX,cacnw.com
 DOMAIN-SUFFIX,cactusvpn.com
+DOMAIN-SUFFIX,cafe.github.com
 DOMAIN-SUFFIX,cafepress.com
 DOMAIN-SUFFIX,cahr.org.tw
 DOMAIN-SUFFIX,calameo.com
@@ -1759,6 +1793,7 @@ DOMAIN-SUFFIX,coinut.com
 DOMAIN-SUFFIX,colacloud.net
 DOMAIN-SUFFIX,collateralmurder.com
 DOMAIN-SUFFIX,collateralmurder.org
+DOMAIN-SUFFIX,collector.github.com
 DOMAIN-SUFFIX,com.google
 DOMAIN-SUFFIX,comedycentral.com
 DOMAIN-SUFFIX,comefromchina.com
@@ -2954,8 +2989,10 @@ DOMAIN-SUFFIX,ggoogle.com
 DOMAIN-SUFFIX,ggpht.cn
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,ggssl.com
+DOMAIN-SUFFIX,gh.io
 DOMAIN-SUFFIX,ghanely.me
 DOMAIN-SUFFIX,ghcr.io
+DOMAIN-SUFFIX,ghe.com
 DOMAIN-SUFFIX,ghidra-sre.org
 DOMAIN-SUFFIX,ghostpath.com
 DOMAIN-SUFFIX,ghut.org
@@ -2974,11 +3011,14 @@ DOMAIN-SUFFIX,githack.com
 DOMAIN-SUFFIX,github-atom-io-herokuapp-com.freetls.fastly.net
 DOMAIN-SUFFIX,github-avatars.oss-cn-hongkong.aliyuncs.com
 DOMAIN-SUFFIX,github-cloud.s3.amazonaws.com
+DOMAIN-SUFFIX,github.ai
 DOMAIN-SUFFIX,github.blog
+DOMAIN-SUFFIX,github.career
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.community
 DOMAIN-SUFFIX,github.dev
 DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,github1s.com
 DOMAIN-SUFFIX,githubapp.com
 DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,githubcopilot.com
@@ -2987,6 +3027,7 @@ DOMAIN-SUFFIX,githubmemory.com
 DOMAIN-SUFFIX,githubnext.com
 DOMAIN-SUFFIX,githubpreview.dev
 DOMAIN-SUFFIX,githubstatus.com
+DOMAIN-SUFFIX,githubsupport.com
 DOMAIN-SUFFIX,githubuniverse.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,gitlab-assets.oss-cn-hongkong.aliyuncs.com
