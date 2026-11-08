@@ -2,12 +2,20 @@
   "version": 3,
   "rules": [
     {
+      "domain": [
+        "youtubei.googleapis.com",
+        "yt3.ggpht.com",
+        "yt3.googleusercontent.com"
+      ]
+    },
+    {
       "domain_keyword": [
         "youtube"
       ]
     },
     {
       "domain_suffix": [
+        "ads.youtube.com",
         "ggpht.cn",
         "ggpht.com",
         "googlevideo.com",
@@ -186,6 +194,7 @@
         "youtubekids.com",
         "youtubemobilesupport.com",
         "yt.be",
+        "yt3.ggpht.com",
         "ytimg.com"
       ]
     },
