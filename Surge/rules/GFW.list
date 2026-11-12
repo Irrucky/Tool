@@ -1,5 +1,5 @@
 # Name: GFW
-# Count: 8749
+# Count: 8750
 
 DOMAIN,2mdn-cn.net
 DOMAIN,2mdn.net
@@ -143,6 +143,7 @@ DOMAIN,preprod-publicca.googleapis.com
 DOMAIN,prod-controlbe.floonet.goog
 DOMAIN,prod-databe.floonet.goog
 DOMAIN,prod.databe.floonet.goog
+DOMAIN,production-copilot-host-westus.webpubsub.azure.com
 DOMAIN,productionresultssa0.blob.core.windows.net
 DOMAIN,productionresultssa1.blob.core.windows.net
 DOMAIN,productionresultssa10.blob.core.windows.net
